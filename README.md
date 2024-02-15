@@ -113,3 +113,15 @@ What are the Cloudsim Extensions?
     RedCloudSim
     WorkflowSim
     And also FederatedCloudSim
+
+### Using CloudSim Plus you can generate results in CSV and other formats. The code is as below. CloudSim Plus even allows you to add any data you want to the generated table.
+    try {
+    CsvTable csv = new CsvTable();
+    csv.setPrintStream(new PrintStream(new java.io.File("/tmp/results.csv")));
+    new CloudletsTableBuilder(broker0.getCloudletFinishedList(), csv).build();
+    } 
+    catch (IOException e) {
+    System.err.println(e.getMessage());
+    }
+
+
