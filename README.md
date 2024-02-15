@@ -2,15 +2,15 @@
 
     org.cloudbus.cloudsim -> “Cloudlet.java”
 
-##To simulate the regions and datacenters
+## To simulate the regions and datacenters
 
     org.cloudbus.cloudsim -> “Datacenter.java”
 
-##To simulate the task offloading and policy-related services
+## To simulate the task offloading and policy-related services
 
     org.cloudbus.cloudsim -> “VmAllocationPolicy.java”, “CloudletScheduler.java”, “DatacenterBroker.java”, etc
 
-###Research Topics in Cloud Computing
+### Research Topics in Cloud Computing
 
     Optimization Approaches for Network End-to-End Delay
     Resource and Multi-Task Offloading
@@ -23,16 +23,16 @@
     SLA based Admission Control and Management
     Energy-aware Dynamic VM Consolidations and Migrations
 
-#One of the interesting factors in Cloudsim is its supporting algorithms. Depending on the functionalities, it supports several approaches and algorithms and some of them are #classified below for your references.
-##Supported CloudSim Algorithms
+# One of the interesting factors in Cloudsim is its supporting algorithms. Depending on the functionalities, it supports several approaches and algorithms and some of them # # are classified below for your references.
+## Supported CloudSim Algorithms
 
-    #VM Management Algorithms
+    # VM Management Algorithms
         Maximum Correlation Coefficient Approach
         Random Choice / Sample Technique
         Average Mean / Median Absolute Deviations Method
         Time Policy based  Minimum Migration Strategy
         Soft Actor Critic (SAC) Reinforcement Learning Algorithm
-    #VM Load Balancing Algorithms
+    # VM Load Balancing Algorithms
         Recurrent Neural Networks (RNN)
         Logistic and Linear Regression
         Convolutional Neural Networks (CNN)
@@ -43,7 +43,7 @@
         Random Forest and Decision Tree Algorithm
         Waltz Filtering / Labeling Algorithm – Constraint Satisfaction
         Cluster Analysis (For instances: K-Means, EM, Gaussian distributions)
-    #Added Approaches and Algorithms
+    # Added Approaches and Algorithms
         Queen Bee Inspired Algorithm
         Morpho Graph Algorithm
         Fuzzy-Neuro Prediction Algorithm
@@ -51,8 +51,8 @@
         Honey Bee Optimization Algorithm
         Artificial Ant Colony Optimization Algorithm
 
-#Next, we can see about the software requirements for simulating the cloud computing project in Cloudsim. Under these requirements, we can model and simulate any kind of cloud #applications.
-##Requirements for CloudSim Projects
+# Next, we can see about the software requirements for simulating the cloud computing project in Cloudsim. Under these requirements, we can model and simulate any kind of cloudapplications.
+## Requirements for CloudSim Projects
 
     Integrated Development Environment (IDE)
         Java Development Kit (JDK)
