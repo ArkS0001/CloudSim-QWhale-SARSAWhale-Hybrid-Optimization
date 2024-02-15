@@ -23,8 +23,8 @@
     SLA based Admission Control and Management
     Energy-aware Dynamic VM Consolidations and Migrations
 
-# One of the interesting factors in Cloudsim is its supporting algorithms. Depending on the functionalities, it supports several approaches and algorithms and some of them # # are classified below for your references.
-## Supported CloudSim Algorithms
+One of the interesting factors in Cloudsim is its supporting algorithms. Depending on the functionalities, it supports several approaches and algorithms and some of them are classified below for your references.
+# Supported CloudSim Algorithms
 
     # VM Management Algorithms
         Maximum Correlation Coefficient Approach
@@ -51,8 +51,8 @@
         Honey Bee Optimization Algorithm
         Artificial Ant Colony Optimization Algorithm
 
-# Next, we can see about the software requirements for simulating the cloud computing project in Cloudsim. Under these requirements, we can model and simulate any kind of cloudapplications.
-## Requirements for CloudSim Projects
+ Next, we can see about the software requirements for simulating the cloud computing project in Cloudsim. Under these requirements, we can model and simulate any kind of cloudapplications.
+# Requirements for CloudSim Projects
 
     Integrated Development Environment (IDE)
         Java Development Kit (JDK)
@@ -78,8 +78,8 @@ How to run Cloudsim Simulation Scenario?
     Once the simulation is completed then pint the generated outcome. It clearly shows the cloudlet execution time in VM with start and finish time
     For more detailed explanation follow the “Guide to CloudsimExample1.java simulation workflow“ article
 
-# The first and foremost version of Cloud computing simulator is Cloudsim 3.x.x which turn out to be the foundation for several other extensions. And some of them are given as follows,
-# Other Simulators based on Cloudsim
+ The first and foremost version of Cloud computing simulator is Cloudsim 3.x.x which turn out to be the foundation for several other extensions. And some of them are given as follows,
+ Other Simulators based on Cloudsim
 
     CloudReports
     CloudSimEx
@@ -89,7 +89,7 @@ How to run Cloudsim Simulation Scenario?
     WorkflowSim
     Cloudsim Plus
 
-# In the beginning, the CloudSim act as a stand-alone cloud simulator which is globally used in everywhere. Later, so many independent scholars have added some significant features into it. As a result, Cloudsim is now extended in many ways as follow, 
+ In the beginning, the CloudSim act as a stand-alone cloud simulator which is globally used in everywhere. Later, so many independent scholars have added some significant features into it. As a result, Cloudsim is now extended in many ways as follow, 
 
     CloudReports – Generates GUI based report of Simulation
     ThermoSim – Empowers Learning assisted Cloud Nodes Temperature Prediction using Thermal characteristics
@@ -98,7 +98,7 @@ How to run Cloudsim Simulation Scenario?
         For instance: ElasticSearch
     CloudSimEx – Includes Parallel and MapReduce Simulation
 
-### CloudSim Extension Tools
+# CloudSim Extension Tools
 
     Cloud2Sim
     Dynamic CloudSim
