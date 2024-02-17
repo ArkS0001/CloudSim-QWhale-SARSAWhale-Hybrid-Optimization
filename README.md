@@ -123,4 +123,31 @@ How to run Cloudsim Simulation Scenario?
     System.err.println(e.getMessage());
     }
 
+## Don't Try At Home
+Suppose you have a Python script called machine_learning.py containing the machine learning code:
+
+# machine_learning.py
+
+    import numpy as np
+    from sklearn.linear_model import LinearRegression
+    X = np.array([[1], [2], [3], [4], [5]])
+    y = np.array([2, 4, 6, 8, 10])
+    model = LinearRegression()
+    model.fit(X, y)
+    x_test = np.array([[6]])
+    predicted_y = model.predict(x_test)
+    print("Predicted value for x =", x_test[0][0], "is", predicted_y[0])
+
+Now, you can create a Java program that invokes this Python script using Jython:
+
+    import org.python.util.PythonInterpreter;
+    public class JythonMachineLearning {
+    public static void main(String[] args) {
+    PythonInterpreter interpreter = new PythonInterpreter();
+    interpreter.execfile("machine_learning.py");
+        }
+    }
+
+Make sure you have Jython installed and added to your Java project's classpath. You can then run the JythonMachineLearning class, which will execute the Python script machine_learning.py using Jython. The output of the Python script will be displayed in the Java program's console.
+This integration allows you to leverage Python's powerful machine learning libraries within your Java application seamlessly. You can pass data between Java and Python, call Python functions from Java, and vice versa, enabling flexible and efficient development workflows.
 
