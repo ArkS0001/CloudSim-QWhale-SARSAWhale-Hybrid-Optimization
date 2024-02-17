@@ -1,0 +1,2 @@
+qLearning-> https://www.youtube.com/watch?v=qhRNvCVVJaA
+epsilon greedy-> https://www.youtube.com/watch?v=EjYEsbg95x0
