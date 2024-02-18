@@ -1,2 +1,3 @@
 qLearning-> https://www.youtube.com/watch?v=qhRNvCVVJaA
 epsilon greedy-> https://www.youtube.com/watch?v=EjYEsbg95x0
+Virtual machine and Task Scheduling in CloudSim-> https://cloudsimtutorials.online/how-to-do-virtual-machine-and-task-scheduling-in-cloudsim/
