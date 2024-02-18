@@ -151,3 +151,61 @@ Now, you can create a Java program that invokes this Python script using Jython:
 Make sure you have Jython installed and added to your Java project's classpath. You can then run the JythonMachineLearning class, which will execute the Python script machine_learning.py using Jython. The output of the Python script will be displayed in the Java program's console.
 This integration allows you to leverage Python's powerful machine learning libraries within your Java application seamlessly. You can pass data between Java and Python, call Python functions from Java, and vice versa, enabling flexible and efficient development workflows.
 
+
+# To optimize CloudSim's Cloudlet execution, you can implement various scheduling policies, resource allocation strategies, and load balancing techniques. Here's a simplified example of how you can optimize CloudSim's Cloudlet execution using a Round Robin scheduling policy:
+
+    import org.cloudbus.cloudsim.Cloudlet;
+    import org.cloudbus.cloudsim.core.CloudSim;
+    import org.cloudbus.cloudsim.schedulers.cloudlet.CloudletScheduler;
+    import org.cloudbus.cloudsim.schedulers.cloudlet.CloudletSchedulerTimeShared;
+    import java.util.List;
+
+    public class CloudletOptimizer {
+
+        public static void main(String[] args) {
+            // Initialize CloudSim
+            CloudSim.init(1, null, false);
+            // Create a list of Cloudlets
+            List<Cloudlet> cloudletList = createCloudlets();
+            // Initialize CloudletScheduler
+            CloudletScheduler scheduler = new CloudletSchedulerTimeShared();
+            // Assign Cloudlets to VMs using Round Robin scheduling policy
+            roundRobinScheduling(cloudletList, scheduler);
+            // Execute CloudSim simulation
+            CloudSim.startSimulation();
+            // Print Cloudlet execution results
+            printCloudletResults(cloudletList);
+
+            // End CloudSim simulation
+            CloudSim.stopSimulation();
+        }
+
+        private static List<Cloudlet> createCloudlets() {
+            // Implement Cloudlet creation logic
+            // Example: create and return a list of Cloudlets
+        }
+
+        private static void roundRobinScheduling(List<Cloudlet> cloudletList, CloudletScheduler scheduler) {
+            int vmIndex = 0;
+            for (Cloudlet cloudlet : cloudletList) {
+                cloudlet.setCloudletScheduler(scheduler);
+                cloudlet.setVmId(vmIndex);
+                vmIndex = (vmIndex + 1) % CloudSim.getNumEntities();
+            }
+        }    
+
+        private static void printCloudletResults(List<Cloudlet> cloudletList) {
+            // Implement Cloudlet result printing logic
+            // Example: iterate over cloudletList and print relevant results
+        }
+    }
+
+In this example:
+
+    We initialize CloudSim and create a list of Cloudlets.
+    We initialize a CloudletScheduler (in this case, CloudletSchedulerTimeShared).
+    We assign Cloudlets to Virtual Machines (VMs) using the Round Robin scheduling policy in the roundRobinScheduling method. Each Cloudlet is assigned to a VM sequentially, looping back to the first VM when reaching the end of the list of VMs.
+    We execute the CloudSim simulation, allowing Cloudlets to be scheduled and executed on VMs.
+    After the simulation finishes, we print the results of Cloudlet execution.
+
+You can replace the createCloudlets and printCloudletResults methods with your implementation to create Cloudlets and process the results, respectively. Additionally, you can explore other scheduling policies and optimization techniques to further improve Cloudlet execution in CloudSim.
