@@ -56,3 +56,100 @@ Integrating machine learning into CloudSim can be a valuable extension, enabling
     Validation and Iteration: Validate the effectiveness of your supervised learning approach within CloudSim by running simulations and analyzing the results. Iterate on your approach as needed, refining the model or adjusting parameters to improve performance.
 
     Documentation and Sharing: Document your implementation, including details of the supervised learning model used, parameters, and how it is integrated into CloudSim. Share your work with the research community through publications, presentations, or open-source contributions.
+
+
+# decision tree classifier from the Weka library
+
+First, ensure you have Weka added to your project dependencies. You can download the Weka JAR file from the official website (https://www.cs.waikato.ac.nz/ml/weka/) and add it to your project's build path.
+
+
+    import org.cloudbus.cloudsim.CloudSim;
+    import org.cloudbus.cloudsim.core.CloudSimTags;
+    import org.cloudbus.cloudsim.core.SimEvent;
+    import weka.classifiers.Classifier;
+    import weka.classifiers.trees.J48;
+    import weka.core.Attribute;
+    import weka.core.DenseInstance;
+    import weka.core.Instances;
+
+    public class SchedulingOptimizer {
+    
+        private CloudSim simulation;
+        private Classifier model;
+
+    public SchedulingOptimizer(CloudSim simulation) {
+        this.simulation = simulation;
+        // Initialize your supervised learning model (e.g., decision tree classifier)
+        this.model = new J48(); // Example: using a decision tree classifier
+    }
+
+    public void trainModel(Instances trainingData) {
+        try {
+            model.buildClassifier(trainingData);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public int predictOptimalAction(double[] features) {
+        try {
+            // Create an instance with the given features
+            Instances instances = createInstances(features);
+            // Set class attribute (label) to nominal
+            instances.setClassIndex(instances.numAttributes() - 1);
+            // Get the class prediction (optimal action) from the model
+            double prediction = model.classifyInstance(instances.firstInstance());
+            return (int) prediction;
+        } catch (Exception e) {
+            e.printStackTrace();
+            return -1; // Handle error
+        }
+    }
+
+    private Instances createInstances(double[] features) {
+        // Create attributes (features) for the instance
+        // Example: Assuming features represent CPU utilization, memory usage, etc.
+        Attribute feature1 = new Attribute("CPU_Utilization");
+        Attribute feature2 = new Attribute("Memory_Usage");
+        // Add class attribute (label)
+        Attribute classAttribute = new Attribute("Action", true);
+
+        // Create an Instances object
+        Instances instances = new Instances("RequestSchedule", 
+                                            new Attribute[] {feature1, feature2, classAttribute}, 0);
+        // Add the instance with the given features
+        DenseInstance instance = new DenseInstance(3);
+        instance.setDataset(instances);
+        instance.setValue(feature1, features[0]);
+        instance.setValue(feature2, features[1]);
+        instances.add(instance);
+        return instances;
+    }
+
+    public void processEvent(SimEvent event) {
+        if (event.getTag() == CloudSimTags.REQUEST_SUBMIT) {
+            // Extract features from the event
+            double[] features = extractFeatures(event);
+            // Predict optimal action using the trained model
+            int optimalAction = predictOptimalAction(features);
+            // Execute the optimal action (e.g., allocate resources)
+            executeAction(optimalAction);
+        }
+    }
+
+    private double[] extractFeatures(SimEvent event) {
+        // Extract features from the event (e.g., CPU utilization, memory usage)
+        // Example: This method should return an array of features based on the event
+        // You need to implement this method based on your simulation requirements
+        return new double[] {0.8, 0.6}; // Example features
+    }
+
+    private void executeAction(int action) {
+        // Execute the optimal action (e.g., allocate resources)
+        // Example: This method should implement the action based on the action code
+        // You need to implement this method based on your simulation requirements
+        System.out.println("Executing action: " + action);
+    }
+    }
+
+This is a basic outline to get you started. You'll need to implement methods such as extractFeatures() to extract relevant features from the simulation events and executeAction() to execute the predicted optimal action. Also, you'll need to handle the integration of this class with your CloudSim simulation loop and event processing mechanism.
