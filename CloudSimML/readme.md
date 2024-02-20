@@ -1,3 +1,35 @@
+# Supported CloudSim Algorithms
+
+1.VM Load Balancing Algorithms
+
+    Deep Neural Networks
+    Convolutional Neural Networks
+    Recurrent Neural Networks
+    Decision Tree and also in Random Forest
+    SVM and also Naïve Bayes
+    Linear and Logistic Regression
+    Cluster Analysis (e.g. K-Means)
+    Dynamic Service Broker Chaining
+    Fuzzy Wavelet Theory and also in Neural Network
+    And also in Waltz Algorithm – Constraint Satisfaction
+
+2.VM Management Algorithms
+
+    Soft Actor Critic
+    The Random Choice Policy
+    The Maximum Correlation Policy
+    The Minimum Migration also in Time Policy
+    Median Absolute also in Deviations
+
+3.Other Algorithms and Techniques
+
+    Honey bee Algorithm
+    Fuzzy Prediction Algorithm
+    Morpho Algorithm
+    Ant Colony Optimization Algorithm
+    Queen Bee Algorithm
+    And Also in Game Theory Approach
+
 Integrating machine learning into CloudSim can be a valuable extension, enabling the simulation of more complex scenarios where machine learning algorithms are used for tasks such as workload prediction, resource allocation, scheduling, or optimization. Here's a general outline of how you could implement machine learning in CloudSim:
 
     Identify Use Cases: Determine which aspects of your cloud simulation could benefit from machine learning. For example, you might want to use machine learning to predict future workload patterns, optimize resource allocation, or improve energy efficiency.
