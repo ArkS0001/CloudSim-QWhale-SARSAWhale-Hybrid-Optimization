@@ -1,3 +1,31 @@
+Epsilon-Greedy Q-learning Parameters
+
+As we can see from the pseudo-code, the algorithm takes three parameters. Two of them (alpha and gamma) are related to Q-learning. The third one (epsilon) on the other hand is related to epsilon-greedy action selection.
+
+Let’s remember the Q-function used to update Q-values:
+
+    \[Q(S_t, A_t) \gets Q(S_t, A_t) + \alpha \left[ R_{t+1} + \gamma \max_{a} Q(S_{t+1}, a) - Q(S_t, A_t) \right]\]
+
+Now, let’s have a look at the parameters.
+6.1. Alpha (\boldsymbol{\alpha})
+
+Similar to other machine learning algorithms, alpha (\boldsymbol{\alpha}) defines the learning rate or step size. As we can see from the equation above, the new Q-value for the state is calculated by incrementing the old Q-value by alpha multiplied by the selected action’s Q-value.
+
+Alpha is a real number between zero and one (0 < \alpha \leq 1). If we set alpha to zero, the agent learns nothing from new actions. Conversely, if we set alpha to 1, the agent completely ignores prior knowledge and only values the most recent information. Higher alpha values make Q-values change faster.
+6.2. Gamma (\boldsymbol{\gamma})
+
+Gamma (\boldsymbol{\gamma}) is the discount factor. In Q-learning, gamma is multiplied by the estimation of the optimal future value. The next reward’s importance is defined by the gamma parameter.
+
+Gamma is a real number between 0 and 1 (0 \leq \gamma \leq 1). If we set gamma to zero, the agent completely ignores the future rewards. Such agents only consider current rewards. On the other hand, if we set gamma to 1, the algorithm would look for high rewards in the long term. A high gamma value might prevent conversion: summing up non-discounted rewards leads to having high Q-values.
+6.3. Epsilon (\boldsymbol{\epsilon})
+
+Epsilon (\boldsymbol{\epsilon}) parameter is related to the epsilon-greedy action selection procedure in the Q-learning algorithm. In the action selection step, we select the specific action based on the Q-values we already have. The epsilon parameter introduces randomness into the algorithm, forcing us to try different actions. This helps not getting stuck in a local optimum.
+
+If epsilon is set to 0, we never explore but always exploit the knowledge we already have. On the contrary, having the epsilon set to 1 force the algorithm to always take random actions and never use past knowledge. Usually, epsilon is selected as a small number close to 0.
+7. Conclusion
+
+In this article, we’ve discussed epsilon-greedy Q-learning and epsilon-greedy action selection procedure. We learned some reinforcement learning concepts related to Q-learning, namely, temporal difference, off-policy learning, and model-free learning algorithms. Then we’ve discussed the exploration vs. exploitation tradeoff. Lastly, we’ve examined the epsilon-greedy Q-learning algorithm’s hyper-parameters and how to adjust them.
+
 # Supported CloudSim Algorithms
 
 1.VM Load Balancing Algorithms
