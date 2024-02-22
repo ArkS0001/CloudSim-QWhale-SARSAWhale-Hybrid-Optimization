@@ -1,4 +1,18 @@
+
+
 Epsilon-Greedy Q-learning Parameters
+
+Alpha is the learning rate. If the reward or transition function is stochastic (random), then alpha should change over time, approaching zero at infinity. This has to do with approximating the expected outcome of a inner product (T(transition)*R(reward)), when one of the two, or both, have random behavior.
+
+That fact is important to note.
+
+Gamma is the value of future reward. It can affect learning quite a bit, and can be a dynamic or static value. If it is equal to one, the agent values future reward JUST AS MUCH as current reward. This means, in ten actions, if an agent does something good this is JUST AS VALUABLE as doing this action directly. So learning doesn't work at that well at high gamma values.
+
+Conversely, a gamma of zero will cause the agent to only value immediate rewards, which only works with very detailed reward functions.
+
+Also - as for exploration behavior... there is actually TONS of literature on this. All of your ideas have, 100%, been tried. I would recommend a more detailed search, and to even start googling Decision Theory and "Policy Improvement".
+
+Just adding a note on Alpha: Imagine you have a reward function that spits out 1, or zero, for a certain state action combo SA. Now every time you execute SA, you will get 1, or 0. If you keep alpha as 1, you will get Q-values of 1, or zero. If it's 0.5, you will get values of +0.5, or 0, and the function will always oscillate between the two values for ever. However, if everytime you decrease your alpha by 50 percent, you get values like this. (assuming reward is recieved 1,0,1,0,...). Your Q-values will end up being, 1,0.5,0.75,0.9,0.8,.... And will eventually converge kind of close to 0.5. At infinity it will be 0.5, which is the expected reward in a probabilistic sense.
 
 As we can see from the pseudo-code, the algorithm takes three parameters. Two of them (alpha and gamma) are related to Q-learning. The third one (epsilon) on the other hand is related to epsilon-greedy action selection.
 
