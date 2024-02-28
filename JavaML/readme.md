@@ -86,3 +86,47 @@ Sync Dependencies: Run the following command in your project directory to sync t
     Gradle will download the specified dependencies and add them to your project's classpath.
 
 Once you've installed the libraries using Maven or Gradle, you can start using them in your Java code. The libraries will be automatically included in your project's classpath, allowing you to import and use their classes and methods.
+
+
+1. ADAMS: It stands for Advanced Data Mining and Machine Learning Systems. It is a flexible workflow engine which aims to build quick and maintain data-driven, perform retrieval, processing, mining and visualization of data. ADAMS uses a tree -like structure and follows a philosphy of less is “more”. It provides some features such as:
+
+    Machine Learning/ data mining
+    Data processing
+    Streaming
+    Databases
+    visualization,
+    Scripting
+    Documentation, etc
+
+2. JavaML:  It is a collection of machine learning algorithms where it has a common interface for each type of algorithm. It has well good documentation with clear interfaces. You can also gather plenty of codes and tutorials aimed for software engineers or programmers. Some of its features are:
+
+    Data Manipulation
+    Clustering
+    Classification
+    Databases
+    Feature Selection
+    Documentation, etc
+
+3. Mahaut: Apache Mahaut is a distributed framework which provides implementations of machine algorithms for the Apache Hadoop platform. It consists of various components for easy use and aimed at mathematicians, statisticians, data analysts, data scientist or anyone from the analytic professional. It is majorly focussed on:
+
+    Clustering
+    Classification
+    recommendation systems
+    Scalable performant Machine learning apps
+
+4. Deeplearning4j: Deeplearning4j, as the name suggests us written in Java and is compatible with Java Virtual Machine language, such as Kotlin, Scala etc. It is an open-source distributed deep learning library which has an advantage of the latest distributed computing frameworks such as Apache Spark and Hadoop. Some of its features are:
+
+    Commercial-grade and open-source
+    Brings AI to business environments
+    Detailed API doc
+    Sample projects in multiple languages
+    Integrated with Hadoop and Apache Spark
+
+5. WEKA: Weka is a free, easy and open-source machine learning library for Java. Its name is inspired by a flightless bird found on the islands of New Zealand. Weka is a collection of ML algorithms and it also supports deep learning. It is majorly focused on:
+
+    Data mining
+    Tools for Data preparation
+    Classification
+    Regression
+    Clustering
+    Visualization, etc
