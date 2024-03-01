@@ -25,3 +25,16 @@
         Once satisfied with the model's performance, deploy it in your cloud computing environment to make predictions and assist with optimization tasks.
 
 By providing relevant features and defining a suitable target variable, you can train a Random Forest model to optimize various aspects of cloud computing such as resource allocation, workload management, cost optimization, and SLA compliance.
+
+Random Forest Classifier
+
+Random forest is one of the supervised machine learning techniques used for both regression and classification. It is one of the flexible and easy-to-use algorithms. A random forest is made up of trees, and the more trees there are, the more resilient the random forest is. The random forest creates each decision tree by first selecting at random, at each node, a small set of features to split on and, secondly, by calculating the best split based on these features in the training set. Finally, it gets a prediction from each tree and chooses the best solution either by means of ‘majority voting’ or ‘performance voting’ as expressed in Figure 6.
+
+[Figure 6](https://static.hindawi.com/articles/sp/volume-2021/4924708/figures/4924708.fig.006.jpg)
+ 
+Pseudocode of random forest algorithm for the proposed model.
+
+Module 1 (dataset creation): the dataset is created using the genetic algorithm. The dataset consists of mapping of VM allocation to the best possible physical machine. The procedure to create the dataset using GA is discussed in the previous Section 3.1. Here, the dataset is divided into 2 sets. The first set consists of 80% of the dataset which is used as the training dataset to train the model and the remaining 20% of the dataset is used for testing.
+
+Module 2 (training): consider a training dataset
+consist of N observations from the random vector . Vector contains predictors or independent variables and where C is the class label. Using this training set, the developed random forest will be an ensemble of B trees. The ensemble results in B outputs , where , is the prediction for the classified data object by the Bth tree. All the trees outputs are combined to produce the final class y which receives the maximum votes by all the trees.
