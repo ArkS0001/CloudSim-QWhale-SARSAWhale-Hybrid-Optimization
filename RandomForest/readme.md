@@ -1,5 +1,4 @@
 To implement a Random Forest model in CloudSim, you can follow these steps:
-
     Import the necessary libraries: Include the required libraries for CloudSim and the Random Forest implementation you have created.
     Define the Random Forest model: Create an instance of the RandomForest class and set the desired parameters, such as the number of trees, maximum depth, and number of features.
     Preprocess the data: Preprocess the data by converting it into a format that can be used by the Random Forest model. This may involve normalization, encoding categorical variables, or handling missing values.
