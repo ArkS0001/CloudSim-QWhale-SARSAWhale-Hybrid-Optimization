@@ -1,4 +1,6 @@
 [linechart](https://youtu.be/ioeBSuc16iw?si=XRhMolwKmYWcuRLa)
+
+
 To bridge CloudSim, which is a Java-based cloud computing simulation framework, with Python, you can use a technique called inter-process communication (IPC). One way to achieve this is by using sockets, which allow communication between processes running on different machines or even different programming languages.
 
 Here's a basic outline of how you could set up communication between a Python script and a CloudSim simulation:
