@@ -1,4 +1,6 @@
 [part1](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
+[part2](https://www.youtube.com/watch?v=sQ870aTKqiM)
+
 
 To implement a Random Forest model in CloudSim, you can follow these steps:
     
