@@ -1,6 +1,8 @@
 [Quantum Introduction](https://www.geeksforgeeks.org/introduction-quantum-computing/)
 [Quantum Teleportation](https://www.geeksforgeeks.org/quantum-teleportation-in-python/)
 
+![circuit](https://media.geeksforgeeks.org/wp-content/uploads/20210827123733/Screenshot20210827123720.jpg)
+
 Quantum-Inspired Optimization:
 
     Quantum-inspired evolutionary algorithms.
