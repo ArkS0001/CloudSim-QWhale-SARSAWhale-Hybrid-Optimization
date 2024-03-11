@@ -1,3 +1,4 @@
+[Quantum Introduction](https://www.geeksforgeeks.org/introduction-quantum-computing/)
 [Quantum Teleportation](https://www.geeksforgeeks.org/quantum-teleportation-in-python/)
 
 Quantum-Inspired Optimization:
