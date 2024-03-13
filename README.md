@@ -220,3 +220,34 @@ In this example:
     After the simulation finishes, we print the results of Cloudlet execution.
 
 You can replace the createCloudlets and printCloudletResults methods with your implementation to create Cloudlets and process the results, respectively. Additionally, you can explore other scheduling policies and optimization techniques to further improve Cloudlet execution in CloudSim.
+
+
+    Q-Learning:
+        Q-learning is a model-free RL algorithm that learns an optimal action-value function (Q-function) by iteratively updating Q-values based on the observed rewards and the agent's actions. It's suitable for discrete action spaces.
+
+    Deep Q-Networks (DQN):
+        DQN extends Q-learning by using deep neural networks to approximate the Q-function. It's well-suited for problems with high-dimensional state spaces and can handle continuous action spaces by discretizing them.
+
+    Policy Gradient Methods:
+        Policy Gradient methods directly parameterize the policy function and learn the policy by optimizing its parameters through gradient ascent. Examples include REINFORCE, Actor-Critic, and Proximal Policy Optimization (PPO).
+
+    Actor-Critic Methods:
+        Actor-Critic methods combine aspects of both value-based (e.g., Q-learning) and policy-based methods. They maintain both a policy (actor) and a value function (critic), and use them to update each other iteratively.
+
+    Deep Deterministic Policy Gradient (DDPG):
+        DDPG is an actor-critic algorithm specifically designed for continuous action spaces. It combines the deep Q-learning with deterministic policy gradients.
+
+    Twin Delayed DDPG (TD3):
+        TD3 is an extension of DDPG that introduces several improvements to stabilize training and improve performance, including target policy smoothing and delayed policy updates.
+
+    Soft Actor-Critic (SAC):
+        SAC is an off-policy actor-critic algorithm that maximizes the entropy of the policy, leading to more exploratory behavior. It's well-suited for continuous control tasks with high-dimensional action spaces.
+
+    Trust Region Policy Optimization (TRPO):
+        TRPO is a policy optimization algorithm that constrains the policy updates to ensure that they are close to the previous policy, which can lead to more stable training.
+
+    Proximal Policy Optimization (PPO):
+        PPO is an on-policy policy optimization algorithm that uses a clipped surrogate objective to prevent large policy updates and improve stability.
+
+    Asynchronous Advantage Actor-Critic (A3C):
+        A3C is a distributed RL algorithm that parallelizes the training process across multiple workers, each with its own copy of the environment and agent, to accelerate learning.
