@@ -452,6 +452,10 @@ public static void main(String[] args) {
         Datacenter datacenter0 = createDatacenter("Datacenter_0");
         @SuppressWarnings("unused")
         Datacenter datacenter1 = createDatacenter("Datacenter_1");
+        @SuppressWarnings("unused")
+		Datacenter datacenter2 = createDatacenter("Datacenter_2");
+        @SuppressWarnings("unused")
+		Datacenter datacenter3 = createDatacenter("Datacenter_3");
 
         DatacenterBroker broker = createBroker();
         int brokerId = broker.getId();
@@ -481,7 +485,7 @@ public static void main(String[] args) {
         }
 
         // Train the Q-Learning Processor
-        QLearningProcessor qScheduler = new QLearningProcessor(500, 0.9, 1, 0.5, 0.1, 3, vmList);
+        QLearningProcessor qScheduler = new QLearningProcessor(500, 0.9, 1, 0.5, 0.1, 5, vmList);
         qScheduler.train(vmList);
 
         // Start the simulation
