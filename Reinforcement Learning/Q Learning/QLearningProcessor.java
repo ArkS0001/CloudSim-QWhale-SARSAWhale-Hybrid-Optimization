@@ -1,19 +1,6 @@
-/**
- * This is the implementation class for a Machine Learning based
- * (Q- Learning) approach for Scheduling/placing
- * cloudlets.
- * Trying to incorporate ML with cloudsim version 3.0.0
- * :)
- */
 package org.cloudbus.cloudsim;
-
 import org.cloudbus.cloudsim.Log;
 import org.cloudbus.cloudsim.core.CloudSim;
-
-//import com.sun.org.apache.regexp.internal.recompile;
-
-//import sun.security.krb5.internal.APOptions;
-
 import java.util.*;
 public class QLearningProcessor {
 	
