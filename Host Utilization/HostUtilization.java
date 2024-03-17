@@ -26,7 +26,7 @@ import org.cloudbus.cloudsim.power.models.PowerModelLinear;
 import org.cloudbus.cloudsim.provisioners.BwProvisionerSimple;
 import org.cloudbus.cloudsim.provisioners.PeProvisionerSimple;
 import org.cloudbus.cloudsim.provisioners.RamProvisionerSimple;
-public class HostUtilizationExample {
+public class HostUtilization {
 	private static PowerDatacenter datacenter0, datacenter1;
 	private static DatacenterBroker broker;
 	private static List<Vm> vmlist;
