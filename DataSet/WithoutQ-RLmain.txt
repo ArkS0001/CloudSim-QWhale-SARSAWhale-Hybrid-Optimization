@@ -1,0 +1,7 @@
+
+Received cloudlets: 0
+Energy consumption: 0.68 kWh
+Datacenter 0 energy consumption without kwh conversion: 2432316.9110880396
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 1, DC1 = 0
+
