@@ -139,4 +139,40 @@ This process iteratively refines the Q-values until they converge to the optimal
         // Return the next state based on the action taken in the current state
         return 0;
     }
-  }
+      }
+
+
+
+The QLearningProcessor class is responsible for training the Q-Learning algorithm and managing the state-action values (Q-values) for a given set of virtual machines (VMs). The class has several instance variables to store the hyperparameters of the Q-Learning algorithm, such as the discount factor (gamma), exploration rate (epsilon), and the rate at which the exploration rate decays (epsilonRate).
+Constructor
+The class has two constructors:
+
+    A default constructor.
+    A parameterized constructor that initializes the hyperparameters and sets up the necessary data structures, such as the list of VMs (vmList), the Q-value table (Q), and lists to store the remaining CPU and RAM resources (simulationCPU and simulationRam).
+
+Training Method
+The train method is the core of the Q-Learning implementation. It iterates over a specified number of epochs (Epoch), and for each epoch, it performs the following steps:
+
+    Initialize the simulationCPU and simulationRam lists with the available CPU and RAM resources for each VM.
+    Compute the initial state (S) based on the first VM in the vmList.
+    For each VM in the vmList:
+        Retrieve the Q-values for the current state (S) from the Q table, or initialize them to zeros if the state is new.
+        Select an action (action) based on the current exploration rate (epsilon). If a random value is less than epsilon, choose a random action; otherwise, choose the action with the maximum Q-value.
+        Compute the reward for the chosen action and the current state (S).
+        Update the simulationCPU and simulationRam lists to reflect the resources consumed by the chosen action.
+        Compute the next state (_S) based on the next VM in the vmList.
+        Retrieve or initialize the Q-values for the next state (_q).
+        Update the Q-value for the current state (S) and action (action) using the Q-Learning update rule.
+        Store the updated Q-values in the Q table.
+    Decay the exploration rate (epsilon) if it is greater than the final exploration rate (finalEpsilon).
+    Print the Q-values and the states in the Q table for debugging purposes.
+
+Helper Methods
+The class also includes several helper methods:
+
+    computeReward: Computes the reward for a given action and state.
+    getMaxIdx: Returns the index of the maximum value in an array.
+    computeS: Computes the state representation (S) for a given VM.
+    computeSValue: Computes the value of a state component based on the remaining CPU and RAM resources.
+    putQ: Stores the Q-values for a given state in the Q table.
+    computeQ: Updates the Q-value for a given state, action, reward, and next state using the Q-Learning update rule.
