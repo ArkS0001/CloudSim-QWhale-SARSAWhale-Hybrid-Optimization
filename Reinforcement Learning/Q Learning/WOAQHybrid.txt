@@ -1,0 +1,2024 @@
+  Action: 3, Q-value: -0.14176680593594093
+  Action: 4, Q-value: -0.14554081564370847
+  Action: 5, Q-value: -0.060293813034018345
+  Action: 7, Q-value: -0.20738654005586116
+  Action: 8, Q-value: -0.45603751484183175
+  Action: 9, Q-value: -0.0773221910321031
+  Action: 0, Q-value: -0.08383726565864673
+State: org.cloudbus.cloudsim.examples.State@996
+  Action: 1, Q-value: -0.10780782169515334
+  Action: 2, Q-value: -0.09551026110908778
+  Action: 3, Q-value: -0.09338072520801774
+  Action: 6, Q-value: -0.07959602749159178
+  Action: 7, Q-value: -0.14059389508295336
+  Action: 0, Q-value: -0.09124985209954108
+State: org.cloudbus.cloudsim.examples.State@596
+  Action: 1, Q-value: 0.07295024323420815
+  Action: 2, Q-value: -0.06527332542350256
+  Action: 3, Q-value: -0.29186896825729447
+  Action: 4, Q-value: -0.09150400632339088
+  Action: 0, Q-value: -0.1342274515811
+State: org.cloudbus.cloudsim.examples.State@597
+  Action: 1, Q-value: -0.12621375355635317
+  Action: 2, Q-value: -0.19608666522696727
+  Action: 6, Q-value: -0.10381837584655057
+  Action: 9, Q-value: 0.5085001804729963
+  Action: 0, Q-value: 0.031059343931580802
+State: org.cloudbus.cloudsim.examples.State@997
+  Action: 3, Q-value: 0.12116838476045029
+  Action: 5, Q-value: -0.4431554820830542
+  Action: 7, Q-value: 0.39849637839049734
+  Action: 8, Q-value: -0.07983753079436214
+State: org.cloudbus.cloudsim.examples.State@998
+  Action: 3, Q-value: 0.34741475864220495
+  Action: 6, Q-value: -0.057533821723212475
+  Action: 7, Q-value: -0.059720988758603794
+  Action: 8, Q-value: 0.1001843989311668
+State: org.cloudbus.cloudsim.examples.State@598
+  Action: 1, Q-value: -0.1180897253397447
+  Action: 2, Q-value: -0.08376889785152745
+  Action: 3, Q-value: 0.3314583220835208
+  Action: 8, Q-value: -0.15879685785924574
+  Action: 9, Q-value: -0.11327959202493434
+  Action: 0, Q-value: -0.16827696896133998
+State: org.cloudbus.cloudsim.examples.State@599
+  Action: 1, Q-value: -0.10448417825210597
+  Action: 6, Q-value: -0.10168135406676933
+  Action: 9, Q-value: 0.13775926935308466
+State: org.cloudbus.cloudsim.examples.State@999
+  Action: 1, Q-value: -0.18966509619341837
+  Action: 2, Q-value: -0.17531161308458565
+State: org.cloudbus.cloudsim.examples.State@59a
+  Action: 6, Q-value: 0.1562784039869921
+  Action: 7, Q-value: -0.09049610759072134
+State: org.cloudbus.cloudsim.examples.State@99a
+  Action: 2, Q-value: 0.28996134336316065
+  Action: 7, Q-value: 0.013313929132835564
+  Action: 9, Q-value: 0.04690518557503501
+  Action: 0, Q-value: 0.0077851404003842495
+State: org.cloudbus.cloudsim.examples.State@59b
+  Action: 1, Q-value: -0.030983974557680732
+  Action: 2, Q-value: -0.05788782025866114
+  Action: 3, Q-value: 0.37486532591057453
+  Action: 5, Q-value: -0.0438552365207109
+  Action: 6, Q-value: -0.06834024419484817
+  Action: 7, Q-value: 0.10600838703160846
+  Action: 8, Q-value: -0.10141979333467196
+  Action: 9, Q-value: -0.17543013338969915
+  Action: 0, Q-value: -0.013452246728865497
+State: org.cloudbus.cloudsim.examples.State@9af
+  Action: 2, Q-value: -0.1
+State: org.cloudbus.cloudsim.examples.State@9b0
+  Action: 1, Q-value: -0.046507561879206905
+  Action: 5, Q-value: 0.28090497766925626
+  Action: 9, Q-value: 0.08239238919405084
+State: org.cloudbus.cloudsim.examples.State@5b0
+  Action: 9, Q-value: 0.1
+State: org.cloudbus.cloudsim.examples.State@5b1
+  Action: 2, Q-value: 0.09308753171530251
+  Action: 5, Q-value: 0.3160872052324341
+  Action: 8, Q-value: 0.12041400095987445
+  Action: 9, Q-value: 0.1273184631451127
+State: org.cloudbus.cloudsim.examples.State@9b1
+  Action: 2, Q-value: 0.15012075060804517
+  Action: 8, Q-value: 0.09320696347512217
+State: org.cloudbus.cloudsim.examples.State@5b2
+  Action: 3, Q-value: -0.1280605628420137
+  Action: 6, Q-value: -0.3176581244795234
+  Action: 0, Q-value: -0.11781857494656497
+State: org.cloudbus.cloudsim.examples.State@9b2
+  Action: 1, Q-value: 0.09798553427440404
+  Action: 2, Q-value: 0.11533770659319628
+  Action: 3, Q-value: -0.11230975160966483
+  Action: 4, Q-value: 0.0834483145787325
+  Action: 5, Q-value: 0.070373885617459
+  Action: 6, Q-value: -0.2601841223018708
+  Action: 7, Q-value: 0.0796099736936719
+  Action: 8, Q-value: 0.04789225966278049
+  Action: 9, Q-value: -0.0946513872773826
+  Action: 0, Q-value: 0.3470829961610785
+State: org.cloudbus.cloudsim.examples.State@9b3
+  Action: 4, Q-value: 0.01880747401014498
+State: org.cloudbus.cloudsim.examples.State@5b3
+  Action: 4, Q-value: -0.1908050149295281
+  Action: 5, Q-value: 0.2991906793462052
+State: org.cloudbus.cloudsim.examples.State@5b4
+  Action: 6, Q-value: 0.034811757212393546
+State: org.cloudbus.cloudsim.examples.State@9b4
+  Action: 1, Q-value: 0.03284192275779972
+  Action: 2, Q-value: 0.2499147771069573
+  Action: 3, Q-value: -0.12637134295812083
+  Action: 4, Q-value: -0.12324081340984282
+  Action: 5, Q-value: 0.32072081160738325
+  Action: 7, Q-value: -0.10093765799942435
+  Action: 8, Q-value: -0.05532211365781692
+  Action: 9, Q-value: 0.0021874654984056774
+  Action: 0, Q-value: 0.038915154069954494
+State: org.cloudbus.cloudsim.examples.State@9b5
+  Action: 1, Q-value: -0.12998666563333844
+  Action: 3, Q-value: 0.10402378522207459
+  Action: 4, Q-value: 0.7040059235512671
+  Action: 6, Q-value: 0.08761615615648455
+  Action: 8, Q-value: -0.13052396214728154
+  Action: 0, Q-value: 0.0473012305008806
+State: org.cloudbus.cloudsim.examples.State@5b5
+  Action: 1, Q-value: -0.13741163139514917
+  Action: 3, Q-value: 0.08583828294562235
+  Action: 4, Q-value: -0.06530806798117648
+  Action: 5, Q-value: 0.5141753504030705
+  Action: 6, Q-value: -0.007409934305492513
+  Action: 8, Q-value: -0.24069230675954187
+  Action: 9, Q-value: 0.04841992327204282
+State: org.cloudbus.cloudsim.examples.State@9b6
+  Action: 2, Q-value: 0.38126165308531335
+  Action: 3, Q-value: 0.11115563646612246
+  Action: 5, Q-value: -0.09100000000000001
+  Action: 6, Q-value: 0.12398715615648453
+State: org.cloudbus.cloudsim.examples.State@5b6
+  Action: 1, Q-value: 0.0203383122265961
+  Action: 2, Q-value: -0.16887321381614873
+  Action: 3, Q-value: 0.1625595860540614
+  Action: 4, Q-value: 0.10986833114024774
+  Action: 5, Q-value: 0.9358134738939315
+  Action: 6, Q-value: 0.2649584258874578
+  Action: 8, Q-value: -0.059578869197826845
+  Action: 9, Q-value: 0.10822760074380844
+  Action: 0, Q-value: 0.10151414567681226
+State: org.cloudbus.cloudsim.examples.State@9b7
+  Action: 2, Q-value: 0.03201882018914792
+  Action: 3, Q-value: 0.03086612975923242
+  Action: 5, Q-value: 0.34923370808494697
+  Action: 6, Q-value: 0.040391569267222927
+  Action: 7, Q-value: -0.0038077795507016204
+  Action: 8, Q-value: -0.1211800740237621
+  Action: 9, Q-value: -0.0839270534801094
+  Action: 0, Q-value: 0.03407517923454213
+State: org.cloudbus.cloudsim.examples.State@5b7
+  Action: 1, Q-value: -0.057178459236756185
+  Action: 2, Q-value: -0.07764527988169541
+  Action: 3, Q-value: -0.14098520130037512
+  Action: 4, Q-value: 0.03313535699243528
+  Action: 6, Q-value: 0.015761624641151856
+  Action: 7, Q-value: -0.08530030523918992
+  Action: 8, Q-value: -0.03866624743550681
+  Action: 9, Q-value: 0.5299548387759482
+  Action: 0, Q-value: -0.2024083285888924
+State: org.cloudbus.cloudsim.examples.State@9b8
+  Action: 1, Q-value: -0.21094755256306902
+  Action: 5, Q-value: 0.323221875279134
+State: org.cloudbus.cloudsim.examples.State@5b8
+  Action: 1, Q-value: -0.24809563209453672
+  Action: 3, Q-value: -0.1356496187508307
+  Action: 4, Q-value: -0.06401983506195758
+  Action: 7, Q-value: 0.5248288732381439
+  Action: 8, Q-value: -0.13259125832751797
+  Action: 0, Q-value: 0.034025347085225796
+State: org.cloudbus.cloudsim.examples.State@9b9
+  Action: 2, Q-value: 0.5740210251747564
+State: org.cloudbus.cloudsim.examples.State@5b9
+  Action: 2, Q-value: -0.035571604696562065
+  Action: 3, Q-value: -0.1741756113947165
+  Action: 4, Q-value: 0.532465679641404
+  Action: 5, Q-value: -0.22636728761065103
+  Action: 6, Q-value: -0.18319818714792746
+  Action: 7, Q-value: -0.11750848186894775
+  Action: 9, Q-value: 0.1471948679360244
+  Action: 0, Q-value: -0.2641939358707629
+State: org.cloudbus.cloudsim.examples.State@5ba
+  Action: 2, Q-value: 0.27543454502139963
+  Action: 3, Q-value: 0.08799866699515431
+  Action: 4, Q-value: 0.14979237366263717
+  Action: 6, Q-value: -0.07197616180998306
+  Action: 7, Q-value: -0.012040091737483702
+  Action: 8, Q-value: 0.48666093536345484
+  Action: 9, Q-value: 0.11516581051254526
+State: org.cloudbus.cloudsim.examples.State@5cf
+  Action: 1, Q-value: -0.1
+State: org.cloudbus.cloudsim.examples.State@5d0
+  Action: 2, Q-value: -0.1010806523450077
+  Action: 3, Q-value: -0.3147669262748386
+  Action: 4, Q-value: -0.08252675485773946
+  Action: 5, Q-value: -0.007065141570619757
+  Action: 8, Q-value: 0.3806212461685633
+  Action: 9, Q-value: -0.09210139938019131
+  Action: 0, Q-value: 0.06964753709336999
+State: org.cloudbus.cloudsim.examples.State@5d1
+  Action: 1, Q-value: -0.07805381047294102
+  Action: 3, Q-value: -0.04515783989433966
+  Action: 5, Q-value: -0.2038849117172844
+  Action: 7, Q-value: -0.02730180726601142
+  Action: 9, Q-value: 0.3213897662239982
+  Action: 0, Q-value: -0.06368754530069536
+State: org.cloudbus.cloudsim.examples.State@5d2
+  Action: 1, Q-value: -0.08357363277663443
+  Action: 3, Q-value: -0.032716434271430395
+  Action: 4, Q-value: -0.2218884490334755
+  Action: 6, Q-value: -0.23454904185560743
+  Action: 9, Q-value: -0.030981188068493315
+State: org.cloudbus.cloudsim.examples.State@5d3
+  Action: 1, Q-value: -0.08291188798226556
+  Action: 3, Q-value: 0.11028366811324064
+  Action: 5, Q-value: -0.05163443498738432
+  Action: 6, Q-value: 0.38395882047555746
+  Action: 9, Q-value: 0.02067378113240642
+State: org.cloudbus.cloudsim.examples.State@5d4
+  Action: 1, Q-value: 0.2224811338890897
+  Action: 2, Q-value: 0.057906094467564895
+  Action: 3, Q-value: -0.15069779597058178
+  Action: 4, Q-value: 0.022726306657852163
+  Action: 5, Q-value: -0.07115711432118675
+  Action: 6, Q-value: 0.07110277377770678
+  Action: 7, Q-value: -0.11284929002283355
+  Action: 8, Q-value: 0.039601140828859696
+  Action: 9, Q-value: -0.06907104982735646
+  Action: 0, Q-value: -0.18200519526443742
+State: org.cloudbus.cloudsim.examples.State@5d5
+  Action: 1, Q-value: 0.10098271563000488
+  Action: 3, Q-value: 0.14924802944728074
+  Action: 9, Q-value: 0.38212195341967126
+State: org.cloudbus.cloudsim.examples.State@5d6
+  Action: 1, Q-value: 0.22636187109046912
+  Action: 2, Q-value: 0.021153145214662494
+  Action: 3, Q-value: 0.022295258842113086
+  Action: 4, Q-value: -0.09218360975585718
+  Action: 5, Q-value: 8.945735239698077E-4
+  Action: 6, Q-value: 0.06365311334789031
+  Action: 7, Q-value: 0.0409279770572602
+  Action: 8, Q-value: -0.13900507564193693
+  Action: 9, Q-value: -0.13576721585520815
+  Action: 0, Q-value: 0.14334872442433383
+State: org.cloudbus.cloudsim.examples.State@5d7
+  Action: 1, Q-value: 0.07945749858122157
+  Action: 2, Q-value: -0.051319807450073696
+  Action: 4, Q-value: -0.15601625395727356
+  Action: 6, Q-value: 0.13121658002336328
+  Action: 7, Q-value: -0.2396875192195619
+  Action: 8, Q-value: -0.09181
+  Action: 9, Q-value: -0.17802354519103958
+  Action: 0, Q-value: -0.06120847130588392
+State: org.cloudbus.cloudsim.examples.State@5d8
+  Action: 4, Q-value: 0.28722205149198576
+  Action: 0, Q-value: -0.11113989588200178
+State: org.cloudbus.cloudsim.examples.State@5d9
+  Action: 1, Q-value: -0.19533858520540326
+  Action: 2, Q-value: 0.07096372654645239
+  Action: 3, Q-value: -0.021441634429199725
+  Action: 6, Q-value: 0.019373779100462216
+  Action: 7, Q-value: 0.21323693700125013
+  Action: 8, Q-value: 0.07664393141152381
+  Action: 0, Q-value: 0.02048017602461427
+State: org.cloudbus.cloudsim.examples.State@5ee
+  Action: 2, Q-value: 0.1
+State: org.cloudbus.cloudsim.examples.State@5ef
+  Action: 4, Q-value: -0.2125453557638176
+  Action: 5, Q-value: -0.17101435473998233
+  Action: 7, Q-value: 0.17767384996293267
+State: org.cloudbus.cloudsim.examples.State@5f0
+  Action: 1, Q-value: -0.3045070768006116
+  Action: 2, Q-value: -0.2202565353959175
+  Action: 4, Q-value: 0.15305990637470268
+  Action: 5, Q-value: 9.645202534175057E-4
+  Action: 7, Q-value: -0.23985909665405192
+  Action: 9, Q-value: -0.306156155754116
+State: org.cloudbus.cloudsim.examples.State@5f1
+  Action: 6, Q-value: -0.15221054099407044
+  Action: 7, Q-value: -0.09865112333459519
+  Action: 8, Q-value: -0.10479270458238986
+  Action: 9, Q-value: -0.20123443472965624
+State: org.cloudbus.cloudsim.examples.State@5f2
+  Action: 1, Q-value: -0.36454842736663096
+  Action: 3, Q-value: -0.29868952166127016
+  Action: 4, Q-value: -0.28262119118715173
+  Action: 5, Q-value: -0.01570677438310579
+  Action: 6, Q-value: -0.19722674037295557
+  Action: 9, Q-value: -0.30321700381310607
+  Action: 0, Q-value: -0.24782470795919564
+State: org.cloudbus.cloudsim.examples.State@5f3
+  Action: 1, Q-value: -0.14999926438744
+  Action: 2, Q-value: -0.22065062972943206
+  Action: 3, Q-value: -1.1256519814356603E-4
+  Action: 4, Q-value: 0.48218506320665183
+  Action: 5, Q-value: -0.07519464188368043
+  Action: 6, Q-value: -0.10035053245203185
+  Action: 8, Q-value: -0.18823271189111934
+  Action: 9, Q-value: -0.20744467175677583
+  Action: 0, Q-value: -0.2623835963681367
+State: org.cloudbus.cloudsim.examples.State@5f4
+  Action: 2, Q-value: 0.0043431629161889695
+  Action: 3, Q-value: -0.12621135243150372
+  Action: 6, Q-value: -0.012928583617314623
+  Action: 7, Q-value: 0.004228513186049915
+  Action: 0, Q-value: -0.07645275395300491
+State: org.cloudbus.cloudsim.examples.State@5f5
+  Action: 1, Q-value: -0.20767678021933644
+  Action: 3, Q-value: -0.2695870840717763
+  Action: 4, Q-value: -0.13978273030754568
+  Action: 6, Q-value: -0.29752053906448367
+  Action: 8, Q-value: -0.37739438237537
+  Action: 0, Q-value: -0.2690545949845333
+State: org.cloudbus.cloudsim.examples.State@5f6
+  Action: 1, Q-value: 0.026783345276521348
+State: org.cloudbus.cloudsim.examples.State@5f7
+  Action: 1, Q-value: -0.2587744931157942
+  Action: 2, Q-value: 0.20482877492156346
+  Action: 3, Q-value: -0.1128535664020998
+  Action: 8, Q-value: -0.1883969462039683
+  Action: 9, Q-value: -0.20745553834563366
+State: org.cloudbus.cloudsim.examples.State@5f8
+  Action: 1, Q-value: -0.2605897539647223
+  Action: 6, Q-value: -0.2008245559956161
+State: org.cloudbus.cloudsim.examples.State@60d
+  Action: 5, Q-value: -0.1
+State: org.cloudbus.cloudsim.examples.State@60e
+  Action: 1, Q-value: 0.07633160677351666
+  Action: 4, Q-value: 0.11794361556480756
+  Action: 5, Q-value: 0.12328514377633762
+  Action: 6, Q-value: 0.542266989267006
+  Action: 8, Q-value: -0.15322911259208521
+  Action: 9, Q-value: 0.1514687083819629
+State: org.cloudbus.cloudsim.examples.State@60f
+  Action: 1, Q-value: -0.070636220394438
+  Action: 2, Q-value: 0.3285775352824005
+  Action: 3, Q-value: -0.0482388269824055
+  Action: 4, Q-value: -0.058012278720211904
+  Action: 5, Q-value: -0.23287742664535055
+  Action: 7, Q-value: -0.09009545019076054
+  Action: 8, Q-value: -0.057714718404587806
+  Action: 9, Q-value: -0.04173793421134636
+State: org.cloudbus.cloudsim.examples.State@610
+  Action: 1, Q-value: -0.1150151868429681
+  Action: 2, Q-value: -0.0888554203899859
+  Action: 3, Q-value: -0.05761611459139959
+  Action: 4, Q-value: -0.09450033054745749
+  Action: 5, Q-value: -0.050351353849755254
+  Action: 6, Q-value: -0.09347749644034903
+  Action: 8, Q-value: 0.008216985132060664
+  Action: 9, Q-value: -0.09100000000000001
+  Action: 0, Q-value: -0.05307598500307925
+State: org.cloudbus.cloudsim.examples.State@611
+  Action: 1, Q-value: 0.4864853255520497
+  Action: 5, Q-value: -0.14597864972859964
+  Action: 9, Q-value: -0.09100000000000001
+State: org.cloudbus.cloudsim.examples.State@612
+  Action: 1, Q-value: 0.2889809407489704
+  Action: 2, Q-value: -0.028571258096742554
+  Action: 3, Q-value: -0.11335847534412656
+  Action: 4, Q-value: -0.16775031742207697
+  Action: 6, Q-value: -0.04682299903928658
+  Action: 7, Q-value: -0.1754756773245064
+  Action: 8, Q-value: -0.09035640891087073
+  Action: 9, Q-value: -0.08337058699099745
+  Action: 0, Q-value: -0.08542191561049912
+State: org.cloudbus.cloudsim.examples.State@613
+  Action: 1, Q-value: 0.06421972856476162
+  Action: 3, Q-value: -0.07537557834348065
+  Action: 7, Q-value: 0.1394158648079262
+  Action: 8, Q-value: 0.0733194373748943
+  Action: 9, Q-value: -0.09545384947689213
+  Action: 0, Q-value: 0.5163669571327303
+State: org.cloudbus.cloudsim.examples.State@614
+  Action: 2, Q-value: -0.08347269640079132
+  Action: 4, Q-value: 0.004888075587986776
+  Action: 5, Q-value: 0.7539982976742712
+  Action: 8, Q-value: -0.05187076064689377
+  Action: 9, Q-value: -0.05868447960851536
+  Action: 0, Q-value: 0.14726092097017002
+State: org.cloudbus.cloudsim.examples.State@615
+  Action: 3, Q-value: 0.45181575265889795
+State: org.cloudbus.cloudsim.examples.State@616
+  Action: 2, Q-value: -0.02695832821790317
+  Action: 3, Q-value: -0.05621249928082839
+  Action: 4, Q-value: -0.038826219035476575
+  Action: 6, Q-value: 0.06907451340159841
+  Action: 8, Q-value: -0.01176768263486358
+  Action: 0, Q-value: 0.20108908725279961
+State: org.cloudbus.cloudsim.examples.State@617
+  Action: 6, Q-value: 0.6803507933423855
+  Action: 8, Q-value: -0.08003858370264277
+State: org.cloudbus.cloudsim.examples.State@62c
+  Action: 3, Q-value: -0.1
+State: org.cloudbus.cloudsim.examples.State@62d
+  Action: 3, Q-value: -0.08197922975794857
+  Action: 7, Q-value: -0.04908879674764858
+  Action: 0, Q-value: -0.04716020555969547
+State: org.cloudbus.cloudsim.examples.State@62e
+  Action: 1, Q-value: 0.11902683293350853
+  Action: 2, Q-value: -0.2283162324609655
+  Action: 3, Q-value: -0.2538037371695309
+  Action: 4, Q-value: -0.03187435406606101
+  Action: 5, Q-value: -0.2645371
+  Action: 6, Q-value: -0.1514159086517718
+  Action: 7, Q-value: -0.20263413637073469
+  Action: 8, Q-value: 0.14431902355806425
+  Action: 9, Q-value: -0.15471048765919287
+State: org.cloudbus.cloudsim.examples.State@62f
+  Action: 1, Q-value: -0.05924854936117839
+  Action: 2, Q-value: -0.04259717251932428
+  Action: 4, Q-value: -0.17003638223133694
+  Action: 5, Q-value: 0.08131501092640038
+  Action: 7, Q-value: 0.4206655137863902
+  Action: 9, Q-value: -0.023505939782378374
+State: org.cloudbus.cloudsim.examples.State@630
+  Action: 1, Q-value: -0.011273844007395978
+  Action: 4, Q-value: -0.0619582150619771
+  Action: 6, Q-value: -0.14675306631192342
+  Action: 7, Q-value: 0.3178589804010086
+  Action: 8, Q-value: 0.07260572805243792
+  Action: 9, Q-value: 0.022355179914680973
+  Action: 0, Q-value: 0.03638189473516851
+State: org.cloudbus.cloudsim.examples.State@631
+  Action: 1, Q-value: -0.23842665689995546
+  Action: 2, Q-value: -0.11304537135827956
+  Action: 3, Q-value: -0.09959700631831045
+  Action: 4, Q-value: -0.12852410965212357
+  Action: 7, Q-value: -0.08333766884967758
+  Action: 8, Q-value: -0.11178711497522792
+  Action: 9, Q-value: -0.0986773937003685
+State: org.cloudbus.cloudsim.examples.State@632
+  Action: 0, Q-value: 0.11563632802123253
+State: org.cloudbus.cloudsim.examples.State@633
+  Action: 3, Q-value: -0.08317831134086295
+  Action: 5, Q-value: -0.036319100246751806
+  Action: 6, Q-value: -0.008631421029581296
+  Action: 7, Q-value: 0.265226614861532
+State: org.cloudbus.cloudsim.examples.State@634
+  Action: 1, Q-value: -0.3199879664037282
+  Action: 2, Q-value: 0.5978804592051832
+  Action: 3, Q-value: -0.22517184052183337
+  Action: 4, Q-value: -0.25765843443576153
+  Action: 5, Q-value: -0.23734950539214703
+  Action: 6, Q-value: -0.18058928622863524
+  Action: 7, Q-value: -0.18171989438548397
+  Action: 0, Q-value: -0.21630676976550717
+State: org.cloudbus.cloudsim.examples.State@635
+  Action: 1, Q-value: -0.07813740228018447
+  Action: 2, Q-value: -0.10453537768262433
+  Action: 3, Q-value: 0.28547829288787735
+  Action: 4, Q-value: -0.20841182510311917
+  Action: 7, Q-value: -0.021371351742354952
+  Action: 9, Q-value: -0.09055876554083374
+  Action: 0, Q-value: -0.0960364492955979
+State: org.cloudbus.cloudsim.examples.State@636
+  Action: 1, Q-value: 0.005346226655208647
+  Action: 2, Q-value: 0.028604912498313123
+  Action: 3, Q-value: -0.05968552709931847
+  Action: 4, Q-value: -0.03866022014827725
+  Action: 5, Q-value: -0.1148959514201158
+  Action: 6, Q-value: -0.03714600622176338
+  Action: 7, Q-value: -0.036675712892880935
+  Action: 9, Q-value: 0.0420125158624184
+  Action: 0, Q-value: 0.016409058240088703
+State: org.cloudbus.cloudsim.examples.State@64b
+  Action: 7, Q-value: -0.1
+State: org.cloudbus.cloudsim.examples.State@64c
+  Action: 1, Q-value: -0.11998528222695834
+  Action: 2, Q-value: -0.10062696009676995
+  Action: 3, Q-value: -0.05362821375975377
+  Action: 4, Q-value: -0.05521137212280653
+  Action: 5, Q-value: 0.21735451084937069
+  Action: 6, Q-value: -0.1
+  Action: 7, Q-value: -0.22572568483054273
+  Action: 8, Q-value: -0.09069794236799335
+  Action: 0, Q-value: -0.208347170762112
+State: org.cloudbus.cloudsim.examples.State@64d
+  Action: 1, Q-value: -0.17310023290728088
+  Action: 2, Q-value: -0.11420794231734235
+  Action: 3, Q-value: -0.09612502450645767
+  Action: 4, Q-value: -0.10197326574375665
+  Action: 5, Q-value: -0.12621531255405594
+  Action: 6, Q-value: -0.10583163199911919
+  Action: 7, Q-value: -0.21835299181997392
+  Action: 8, Q-value: -0.09718989451030549
+  Action: 9, Q-value: -0.10407534848515661
+  Action: 0, Q-value: 0.17633207179415325
+State: org.cloudbus.cloudsim.examples.State@64e
+  Action: 1, Q-value: -0.027930604095582665
+  Action: 2, Q-value: -0.08209720513071622
+  Action: 3, Q-value: 0.029189934048791194
+  Action: 5, Q-value: 0.03934596947415561
+  Action: 6, Q-value: -0.0936839831556928
+  Action: 7, Q-value: -0.18974079657550047
+  Action: 8, Q-value: -0.09938115171062112
+  Action: 0, Q-value: -0.10438055643242775
+State: org.cloudbus.cloudsim.examples.State@64f
+  Action: 2, Q-value: 0.03531894399151869
+  Action: 3, Q-value: -0.40062921836358456
+  Action: 0, Q-value: 0.31763857069287654
+State: org.cloudbus.cloudsim.examples.State@650
+  Action: 1, Q-value: -0.17911309984464543
+  Action: 2, Q-value: 0.026696455747289197
+  Action: 5, Q-value: 0.3687444660915054
+  Action: 6, Q-value: -0.03500460409435552
+  Action: 7, Q-value: -0.19127361322177028
+  Action: 9, Q-value: 0.1
+  Action: 0, Q-value: -0.03763151912140707
+State: org.cloudbus.cloudsim.examples.State@651
+  Action: 3, Q-value: -0.27784570202919745
+  Action: 4, Q-value: -0.020344068454029605
+  Action: 5, Q-value: 0.06571783054576244
+  Action: 6, Q-value: -0.08075880044414757
+  Action: 8, Q-value: 0.003705964025801506
+  Action: 9, Q-value: 0.2672819035053534
+  Action: 0, Q-value: 0.035045193514016346
+State: org.cloudbus.cloudsim.examples.State@652
+  Action: 4, Q-value: 0.22329730583091906
+State: org.cloudbus.cloudsim.examples.State@653
+  Action: 2, Q-value: -0.0751210845996072
+  Action: 4, Q-value: -0.19019684608057696
+  Action: 5, Q-value: 0.6166999873899369
+  Action: 7, Q-value: -0.1855451147869761
+  Action: 8, Q-value: -0.1648393288791207
+State: org.cloudbus.cloudsim.examples.State@654
+  Action: 1, Q-value: -0.18436641535870552
+  Action: 3, Q-value: -0.20660528824813387
+  Action: 4, Q-value: -0.1504656842775793
+  Action: 5, Q-value: -0.05607654696640529
+  Action: 7, Q-value: 0.17832018002592048
+  Action: 8, Q-value: -0.05006912306344785
+State: org.cloudbus.cloudsim.examples.State@655
+  Action: 1, Q-value: 0.24660602781685154
+  Action: 4, Q-value: -0.13501822629211968
+  Action: 5, Q-value: 0.016328302522995483
+  Action: 6, Q-value: -0.06996817170135367
+  Action: 8, Q-value: 0.018668062033641436
+State: org.cloudbus.cloudsim.examples.State@66a
+  Action: 0, Q-value: -0.1
+State: org.cloudbus.cloudsim.examples.State@66b
+  Action: 4, Q-value: 0.6356200114414483
+  Action: 5, Q-value: 0.020274442161194894
+State: org.cloudbus.cloudsim.examples.State@66c
+  Action: 3, Q-value: -0.11110434393009273
+  Action: 6, Q-value: -0.08984717531236303
+State: org.cloudbus.cloudsim.examples.State@66d
+  Action: 1, Q-value: 0.5362932433077268
+  Action: 2, Q-value: 0.02526529319681063
+  Action: 3, Q-value: -0.011744796870323163
+  Action: 4, Q-value: -0.12745931733182042
+  Action: 6, Q-value: 0.04584646627798758
+  Action: 7, Q-value: 0.02258458462202896
+  Action: 8, Q-value: 0.13018817047136755
+  Action: 9, Q-value: -0.036278260730614825
+  Action: 0, Q-value: -0.0834613881496282
+State: org.cloudbus.cloudsim.examples.State@66e
+  Action: 1, Q-value: 0.09430907402850938
+  Action: 2, Q-value: 0.006199547019559173
+  Action: 3, Q-value: 0.10643683143433685
+  Action: 4, Q-value: 0.6689236934878364
+  Action: 5, Q-value: 0.0060662368539470685
+  Action: 6, Q-value: -0.08070086325375106
+  Action: 8, Q-value: -0.15544290459094526
+  Action: 9, Q-value: 0.09934339114023331
+  Action: 0, Q-value: -0.10816361853385806
+State: org.cloudbus.cloudsim.examples.State@66f
+  Action: 2, Q-value: -0.14301253449259033
+  Action: 3, Q-value: 0.5179973205715727
+  Action: 4, Q-value: -0.1720366964218698
+  Action: 5, Q-value: -0.06362824747747167
+  Action: 6, Q-value: 0.03237393848366364
+  Action: 9, Q-value: -0.07713688609028078
+  Action: 0, Q-value: 0.058890622136020546
+State: org.cloudbus.cloudsim.examples.State@670
+  Action: 1, Q-value: 0.1451458558868637
+  Action: 2, Q-value: 0.1130104400662098
+  Action: 3, Q-value: 0.34509511552322103
+  Action: 4, Q-value: -0.062891296824696
+  Action: 6, Q-value: 0.1025041539269161
+  Action: 0, Q-value: 0.26619216454455435
+State: org.cloudbus.cloudsim.examples.State@671
+  Action: 5, Q-value: 0.16407619618566655
+  Action: 7, Q-value: 0.0870977298232264
+  Action: 0, Q-value: 0.12364291016884542
+State: org.cloudbus.cloudsim.examples.State@672
+  Action: 2, Q-value: 0.001957601159231742
+  Action: 3, Q-value: 0.03742273430022966
+  Action: 5, Q-value: 0.01094990552157337
+  Action: 6, Q-value: 0.23863061990785214
+  Action: 7, Q-value: 0.05630266741146134
+  Action: 8, Q-value: -0.03586206015209596
+  Action: 9, Q-value: 0.02442688850426268
+  Action: 0, Q-value: -0.01633795732651415
+State: org.cloudbus.cloudsim.examples.State@673
+  Action: 1, Q-value: -0.12808008736772927
+  Action: 3, Q-value: 0.7602300497851259
+  Action: 4, Q-value: 0.008502831084940099
+  Action: 6, Q-value: -0.07669823642114233
+  Action: 7, Q-value: 0.03440269918157149
+  Action: 8, Q-value: 0.0783582504323497
+  Action: 9, Q-value: -0.11217058759215381
+  Action: 0, Q-value: -0.09693914548123192
+State: org.cloudbus.cloudsim.examples.State@674
+  Action: 4, Q-value: -0.13522875102393123
+  Action: 8, Q-value: 0.14811836886549282
+State: org.cloudbus.cloudsim.examples.State@689
+  Action: 0, Q-value: 0.1
+State: org.cloudbus.cloudsim.examples.State@68a
+  Action: 7, Q-value: -0.047855587199290395
+State: org.cloudbus.cloudsim.examples.State@68b
+  Action: 2, Q-value: 0.09788091906944762
+  Action: 4, Q-value: -0.04236354494963679
+  Action: 5, Q-value: 0.12082298747253181
+  Action: 6, Q-value: 0.10696604524771564
+  Action: 7, Q-value: 0.10181722022334312
+  Action: 8, Q-value: 0.2260769080924303
+  Action: 9, Q-value: -0.06062055434743418
+  Action: 0, Q-value: -0.031911917569505024
+State: org.cloudbus.cloudsim.examples.State@68c
+  Action: 1, Q-value: 0.05399305976346759
+  Action: 2, Q-value: 0.09317904676447605
+  Action: 3, Q-value: 0.10041958091962976
+  Action: 4, Q-value: 0.009606718930923686
+  Action: 5, Q-value: 0.3636823293449999
+  Action: 6, Q-value: -0.07457919250598244
+  Action: 7, Q-value: -0.005505415234290739
+  Action: 8, Q-value: -0.18332311503224935
+  Action: 9, Q-value: 0.17752610723092996
+  Action: 0, Q-value: 0.15250694040319987
+State: org.cloudbus.cloudsim.examples.State@68d
+  Action: 2, Q-value: 0.602027695711701
+  Action: 3, Q-value: -0.10384569121667536
+  Action: 5, Q-value: 0.06550815238609639
+  Action: 9, Q-value: -0.05785891783031068
+State: org.cloudbus.cloudsim.examples.State@68e
+  Action: 7, Q-value: 0.41025019064753
+  Action: 0, Q-value: 0.10470831146686299
+State: org.cloudbus.cloudsim.examples.State@68f
+  Action: 1, Q-value: 0.10150351850910043
+  Action: 2, Q-value: -0.2225680391542976
+  Action: 3, Q-value: -0.061443686621101806
+  Action: 5, Q-value: 0.08197087559998029
+  Action: 6, Q-value: -0.1140751406502578
+  Action: 7, Q-value: 0.7199332550876942
+  Action: 8, Q-value: 0.10568679341475307
+  Action: 9, Q-value: 0.16402248041433476
+  Action: 0, Q-value: -0.011038977220700213
+State: org.cloudbus.cloudsim.examples.State@690
+  Action: 6, Q-value: -0.05692111235273231
+  Action: 7, Q-value: -0.048795636376350426
+State: org.cloudbus.cloudsim.examples.State@691
+  Action: 1, Q-value: 0.23632726148280425
+  Action: 4, Q-value: -0.09993036820733221
+  Action: 5, Q-value: 0.07724299950584348
+  Action: 6, Q-value: -0.07678143160587658
+  Action: 8, Q-value: 0.11695008477649274
+  Action: 9, Q-value: -0.051297598885024824
+State: org.cloudbus.cloudsim.examples.State@692
+  Action: 2, Q-value: -0.03931086346858283
+  Action: 3, Q-value: -0.06298606587145775
+  Action: 4, Q-value: 0.29764865203033436
+State: org.cloudbus.cloudsim.examples.State@693
+  Action: 1, Q-value: 0.03150861399922153
+  Action: 2, Q-value: 0.3341760514446158
+  Action: 4, Q-value: -0.007573284555860524
+  Action: 5, Q-value: -0.06742942316021147
+  Action: 6, Q-value: -0.06455729604264115
+  Action: 9, Q-value: 0.08230401602668778
+  Action: 0, Q-value: -0.0023216551949266917
+State: org.cloudbus.cloudsim.examples.State@6a8
+  Action: 8, Q-value: 0.1
+State: org.cloudbus.cloudsim.examples.State@6a9
+  Action: 7, Q-value: -0.10261925438716357
+  Action: 0, Q-value: -0.39308004224168047
+State: org.cloudbus.cloudsim.examples.State@6aa
+  Action: 2, Q-value: 0.3126059372125385
+  Action: 3, Q-value: -0.022406512063587056
+  Action: 4, Q-value: -0.006116686058249485
+  Action: 5, Q-value: -0.04911036357307466
+  Action: 6, Q-value: -0.09713531953081113
+State: org.cloudbus.cloudsim.examples.State@6ab
+  Action: 3, Q-value: 0.048102157952047475
+  Action: 7, Q-value: -0.18664079967928582
+  Action: 8, Q-value: -0.14345688408069507
+  Action: 9, Q-value: -0.1
+State: org.cloudbus.cloudsim.examples.State@6ac
+  Action: 1, Q-value: -0.08827908509999871
+  Action: 2, Q-value: -0.14181124513877752
+  Action: 3, Q-value: -0.0721934405717329
+  Action: 6, Q-value: -0.05291755349331975
+  Action: 7, Q-value: -0.11858832723890106
+  Action: 8, Q-value: -0.10227824449453478
+  Action: 9, Q-value: 0.03455708925532755
+State: org.cloudbus.cloudsim.examples.State@6ad
+  Action: 2, Q-value: -0.0942778070047732
+  Action: 3, Q-value: -0.0813073144201593
+  Action: 4, Q-value: -0.021661885639581407
+  Action: 5, Q-value: -0.08223360689819059
+  Action: 6, Q-value: -0.005678983936209192
+  Action: 7, Q-value: -0.0665033285392999
+  Action: 9, Q-value: -0.09593019947329273
+State: org.cloudbus.cloudsim.examples.State@6ae
+  Action: 1, Q-value: -0.27676170414609674
+  Action: 9, Q-value: -0.2494176549289495
+  Action: 0, Q-value: 0.2794530657408221
+State: org.cloudbus.cloudsim.examples.State@6af
+  Action: 1, Q-value: -0.09678841992571802
+  Action: 4, Q-value: 0.07680467961173043
+  Action: 5, Q-value: 0.10884721538975317
+  Action: 7, Q-value: -0.1503017033810139
+  Action: 9, Q-value: -0.2152946232015016
+State: org.cloudbus.cloudsim.examples.State@6b0
+  Action: 1, Q-value: 0.02788524280094501
+  Action: 2, Q-value: -0.16121944991227077
+  Action: 4, Q-value: -0.06739821362058748
+  Action: 6, Q-value: -0.3879302418690151
+  Action: 7, Q-value: -0.16389131990147265
+  Action: 8, Q-value: -0.14331116939697944
+  Action: 9, Q-value: -0.17188269551140634
+  Action: 0, Q-value: -0.12298297661887789
+State: org.cloudbus.cloudsim.examples.State@6b1
+  Action: 1, Q-value: -0.08861510174446752
+  Action: 3, Q-value: -0.07603382819690271
+  Action: 4, Q-value: -0.10737566130579787
+  Action: 5, Q-value: -0.377243659
+  Action: 6, Q-value: -0.10696801296811072
+  Action: 7, Q-value: -0.16228833959549627
+  Action: 8, Q-value: -0.26315358254958743
+  Action: 9, Q-value: -0.09885868396377627
+  Action: 0, Q-value: 0.23323316892517074
+State: org.cloudbus.cloudsim.examples.State@6b2
+  Action: 2, Q-value: -0.17253157125266594
+  Action: 3, Q-value: -0.20291311348964625
+  Action: 4, Q-value: -0.18653951199153235
+  Action: 5, Q-value: -0.23110232943741466
+  Action: 7, Q-value: -0.31900053368558406
+  Action: 8, Q-value: 0.19631174942921714
+  Action: 9, Q-value: -0.3718344446328569
+  Action: 0, Q-value: -0.3922658387875754
+State: org.cloudbus.cloudsim.examples.State@6c7
+  Action: 8, Q-value: 0.1
+State: org.cloudbus.cloudsim.examples.State@6c8
+  Action: 2, Q-value: 0.10900810000000001
+  Action: 3, Q-value: 0.25848087304853407
+  Action: 8, Q-value: 0.03682939028545425
+State: org.cloudbus.cloudsim.examples.State@6c9
+  Action: 1, Q-value: -0.022093918447986305
+  Action: 3, Q-value: -0.0656052811256497
+  Action: 4, Q-value: 0.11854070648813794
+  Action: 6, Q-value: 0.3888519338541949
+  Action: 8, Q-value: 0.12701241641759312
+  Action: 9, Q-value: 0.13450547567506385
+  Action: 0, Q-value: 0.12617502089520413
+State: org.cloudbus.cloudsim.examples.State@6ca
+  Action: 3, Q-value: 0.03594444139604644
+  Action: 5, Q-value: 0.4766773968810921
+  Action: 7, Q-value: -0.07184931823622827
+  Action: 8, Q-value: 0.06053328948319815
+  Action: 0, Q-value: -0.027397326411140552
+State: org.cloudbus.cloudsim.examples.State@6cb
+  Action: 1, Q-value: 0.21801042069731347
+  Action: 3, Q-value: -0.10012273951507422
+  Action: 4, Q-value: -0.06843610544727953
+  Action: 5, Q-value: -0.03319641757032937
+  Action: 7, Q-value: 0.040336308648097785
+  Action: 8, Q-value: 0.2537834617830864
+  Action: 0, Q-value: -0.057755803451260794
+State: org.cloudbus.cloudsim.examples.State@6cc
+  Action: 1, Q-value: 0.020974350732797048
+  Action: 2, Q-value: -0.0850627301564635
+  Action: 3, Q-value: -0.1218269351838999
+  Action: 4, Q-value: -0.1612923404960781
+  Action: 6, Q-value: -0.15647019691276587
+  Action: 7, Q-value: -0.14102070985271664
+  Action: 8, Q-value: 0.0393482932696789
+  Action: 9, Q-value: -0.06705828006847447
+  Action: 0, Q-value: -0.06850032149677646
+State: org.cloudbus.cloudsim.examples.State@6cd
+  Action: 1, Q-value: -0.0034183784738108375
+  Action: 3, Q-value: -0.04642710795161418
+  Action: 4, Q-value: -0.05016875472337917
+  Action: 5, Q-value: -0.04457834928563535
+  Action: 8, Q-value: -0.06519742874982061
+  Action: 0, Q-value: 0.24381629697435409
+State: org.cloudbus.cloudsim.examples.State@6ce
+  Action: 2, Q-value: -0.006223832413776179
+  Action: 3, Q-value: -0.08559693668508124
+  Action: 4, Q-value: -0.1850396253779417
+  Action: 6, Q-value: -0.06818395516669226
+  Action: 7, Q-value: -0.0014346349588827828
+  Action: 8, Q-value: -0.15493999199400432
+  Action: 9, Q-value: -0.015920748997137982
+  Action: 0, Q-value: 0.030512861205959793
+State: org.cloudbus.cloudsim.examples.State@6cf
+  Action: 1, Q-value: 0.03718140127281627
+  Action: 2, Q-value: 0.11747521595127709
+  Action: 3, Q-value: 0.08981310473278106
+  Action: 4, Q-value: -0.08236014238528659
+  Action: 6, Q-value: 0.08674132495364584
+  Action: 7, Q-value: 0.0231765959984344
+  Action: 9, Q-value: 0.11434447705347342
+State: org.cloudbus.cloudsim.examples.State@6d0
+  Action: 1, Q-value: -0.09871217809548775
+  Action: 2, Q-value: -0.2142420943685911
+  Action: 3, Q-value: -0.020657903577964862
+  Action: 5, Q-value: 0.13494046317357097
+  Action: 6, Q-value: -0.008296927611748398
+  Action: 8, Q-value: -0.21397342460268257
+State: org.cloudbus.cloudsim.examples.State@6d1
+  Action: 1, Q-value: 0.4974353873705933
+  Action: 2, Q-value: -0.12961201652927487
+  Action: 3, Q-value: -0.10722880042536709
+  Action: 4, Q-value: -0.09570658903879431
+  Action: 7, Q-value: 0.1202755071970561
+  Action: 0, Q-value: -0.12486954074479045
+State: org.cloudbus.cloudsim.examples.State@6e6
+  Action: 0, Q-value: 0.1
+State: org.cloudbus.cloudsim.examples.State@6e7
+  Action: 1, Q-value: -0.13439546627088234
+  Action: 3, Q-value: -0.17880211698777043
+  Action: 5, Q-value: -0.1251612202553004
+  Action: 6, Q-value: -0.1262834902948496
+  Action: 7, Q-value: 0.15985268814509984
+  Action: 8, Q-value: -0.13810269745251572
+  Action: 9, Q-value: -0.1966793444072239
+  Action: 0, Q-value: -0.28818910000000003
+State: org.cloudbus.cloudsim.examples.State@6e8
+  Action: 1, Q-value: -0.04374090817066431
+  Action: 2, Q-value: 0.09634858646806943
+  Action: 3, Q-value: -0.036331040547700366
+  Action: 4, Q-value: 0.48669672449297574
+  Action: 7, Q-value: -0.3287796276010758
+  Action: 8, Q-value: -0.11770204598760979
+  Action: 0, Q-value: -0.21209484120190364
+State: org.cloudbus.cloudsim.examples.State@6e9
+  Action: 1, Q-value: -0.10932098064785606
+  Action: 2, Q-value: -0.0949845513638889
+  Action: 4, Q-value: -0.10602114599142116
+  Action: 5, Q-value: -0.1
+  Action: 6, Q-value: 0.04316041411477378
+  Action: 8, Q-value: -0.08771666438595759
+  Action: 9, Q-value: -0.48666616655971334
+  Action: 0, Q-value: -0.13589125331781468
+State: org.cloudbus.cloudsim.examples.State@6ea
+  Action: 2, Q-value: 0.019112760406227156
+  Action: 4, Q-value: -0.0955996502922582
+  Action: 8, Q-value: -0.16309749099330517
+  Action: 0, Q-value: -0.08371
+State: org.cloudbus.cloudsim.examples.State@6eb
+  Action: 1, Q-value: -0.2169134935240135
+  Action: 2, Q-value: -0.003451708072115367
+  Action: 5, Q-value: -0.01953890253668493
+  Action: 6, Q-value: -0.33183919652662397
+  Action: 8, Q-value: -0.018470335490012924
+  Action: 9, Q-value: -0.00874554385494121
+  Action: 0, Q-value: -0.0906349195240534
+State: org.cloudbus.cloudsim.examples.State@6ec
+  Action: 4, Q-value: 0.11725478641541115
+  Action: 6, Q-value: 0.08165565426941611
+  Action: 9, Q-value: 0.11246631386987252
+  Action: 0, Q-value: 0.36940427090348515
+State: org.cloudbus.cloudsim.examples.State@6ed
+  Action: 1, Q-value: -0.2437783750835964
+  Action: 2, Q-value: -0.2564357649009153
+  Action: 4, Q-value: -0.2114248701122674
+  Action: 5, Q-value: -0.2562679241726894
+  Action: 6, Q-value: -0.2866606678999679
+  Action: 7, Q-value: -0.0951300322706497
+  Action: 8, Q-value: -0.35113782026790574
+  Action: 9, Q-value: -0.24185614720593376
+  Action: 0, Q-value: -0.24243111022197916
+State: org.cloudbus.cloudsim.examples.State@6ee
+  Action: 2, Q-value: -0.30449021480502925
+  Action: 4, Q-value: -0.16030914514818223
+State: org.cloudbus.cloudsim.examples.State@6ef
+  Action: 1, Q-value: -0.19668939986233094
+  Action: 2, Q-value: -0.24492246781486848
+  Action: 4, Q-value: -0.28011835757031
+  Action: 5, Q-value: 0.035677955247928814
+  Action: 6, Q-value: -0.23434312622855197
+  Action: 8, Q-value: -0.2812248216259797
+State: org.cloudbus.cloudsim.examples.State@6f0
+  Action: 1, Q-value: 0.10796205372710904
+  Action: 2, Q-value: -0.19791316978907472
+  Action: 4, Q-value: 0.22410887984163044
+  Action: 6, Q-value: -0.11722186677611449
+  Action: 8, Q-value: -0.1379120523840388
+  Action: 0, Q-value: -0.02265072855338554
+State: org.cloudbus.cloudsim.examples.State@705
+  Action: 1, Q-value: -0.1
+State: org.cloudbus.cloudsim.examples.State@706
+  Action: 1, Q-value: -0.00625899497517006
+  Action: 2, Q-value: 0.34866410775692946
+  Action: 4, Q-value: -0.07085354665867623
+  Action: 5, Q-value: -0.04237130182714754
+  Action: 7, Q-value: -0.07928964263814628
+  Action: 8, Q-value: -0.016914954617652467
+  Action: 9, Q-value: -0.08562006384440804
+  Action: 0, Q-value: -0.026677290173535907
+State: org.cloudbus.cloudsim.examples.State@707
+  Action: 1, Q-value: -0.33988658593745547
+  Action: 5, Q-value: 0.14723478353329392
+  Action: 6, Q-value: -0.18995023169597827
+  Action: 7, Q-value: -0.2213547377093377
+  Action: 8, Q-value: 0.15831161356282952
+State: org.cloudbus.cloudsim.examples.State@708
+  Action: 2, Q-value: -0.04088761471498993
+  Action: 4, Q-value: -0.08850872648923297
+  Action: 5, Q-value: 0.7352306728512863
+  Action: 7, Q-value: -0.09443829713416328
+  Action: 0, Q-value: -0.08284040083409878
+State: org.cloudbus.cloudsim.examples.State@709
+  Action: 1, Q-value: -0.20789302062202142
+  Action: 2, Q-value: -0.1551383110573608
+  Action: 3, Q-value: 0.08226158384839727
+  Action: 4, Q-value: -0.200545201996798
+  Action: 5, Q-value: -0.0787468359304905
+  Action: 6, Q-value: -0.0011740777477641795
+  Action: 8, Q-value: -0.07539959204154623
+  Action: 0, Q-value: -0.0735563219913957
+State: org.cloudbus.cloudsim.examples.State@70a
+  Action: 1, Q-value: -0.21411038753785447
+  Action: 3, Q-value: 0.22317294438893617
+  Action: 7, Q-value: -0.28106147429277334
+  Action: 9, Q-value: -0.14722977616310445
+  Action: 0, Q-value: -0.23530527287247693
+State: org.cloudbus.cloudsim.examples.State@70b
+  Action: 1, Q-value: 0.02614374280995775
+  Action: 2, Q-value: -0.22763456090700454
+  Action: 3, Q-value: -0.07416617195351553
+  Action: 4, Q-value: -0.13775672727215077
+  Action: 5, Q-value: -0.0425333337708034
+  Action: 7, Q-value: -0.08711787587550734
+  Action: 8, Q-value: 0.11449175312145643
+  Action: 9, Q-value: -0.009945114715760067
+  Action: 0, Q-value: 0.3793175347318869
+State: org.cloudbus.cloudsim.examples.State@70c
+  Action: 2, Q-value: -0.07534649443185604
+  Action: 6, Q-value: -0.12365280456629274
+  Action: 7, Q-value: -0.08995345149958955
+  Action: 9, Q-value: 0.2352185711804167
+State: org.cloudbus.cloudsim.examples.State@70d
+  Action: 7, Q-value: -0.22635969057399086
+  Action: 8, Q-value: 0.1885924859227375
+  Action: 9, Q-value: -0.3146806092381834
+State: org.cloudbus.cloudsim.examples.State@70e
+  Action: 1, Q-value: -0.00530727644361087
+  Action: 2, Q-value: 0.04362953894999842
+  Action: 4, Q-value: -0.08250157299665775
+  Action: 5, Q-value: 0.366393969604114
+  Action: 6, Q-value: -0.11829588823048212
+  Action: 7, Q-value: -0.15844794795116934
+  Action: 8, Q-value: -0.0015059168805298673
+  Action: 9, Q-value: -0.03978442259740113
+  Action: 0, Q-value: 0.06136457392938097
+State: org.cloudbus.cloudsim.examples.State@70f
+  Action: 1, Q-value: -0.1555601946173683
+  Action: 3, Q-value: 0.06353876470810577
+  Action: 5, Q-value: 0.35355997510340886
+State: org.cloudbus.cloudsim.examples.State@724
+  Action: 8, Q-value: 0.1
+State: org.cloudbus.cloudsim.examples.State@725
+  Action: 1, Q-value: -0.3797874918140045
+  Action: 2, Q-value: -0.04771875423623016
+  Action: 3, Q-value: -0.056540008692347946
+  Action: 5, Q-value: -0.10178290000000001
+  Action: 6, Q-value: 0.2809560463620141
+  Action: 9, Q-value: -0.3744209817557394
+State: org.cloudbus.cloudsim.examples.State@726
+  Action: 1, Q-value: -0.3405415524197617
+  Action: 2, Q-value: -0.14921802015263086
+  Action: 3, Q-value: -0.08742539865878851
+  Action: 0, Q-value: 0.07517011730606027
+State: org.cloudbus.cloudsim.examples.State@727
+  Action: 2, Q-value: -0.06574906107161115
+  Action: 3, Q-value: 0.52108714460307
+  Action: 6, Q-value: 0.02967283991586024
+  Action: 7, Q-value: -0.1935476395698583
+  Action: 8, Q-value: 0.030842032801603803
+  Action: 9, Q-value: -0.08730185250472065
+  Action: 0, Q-value: -0.07938623661059459
+State: org.cloudbus.cloudsim.examples.State@728
+  Action: 2, Q-value: -0.2518146458877526
+  Action: 3, Q-value: -0.004764445807845158
+  Action: 5, Q-value: 0.03524159465229175
+  Action: 6, Q-value: 0.5958721249735888
+  Action: 8, Q-value: 0.07762047260074983
+  Action: 9, Q-value: -0.05744569661234666
+State: org.cloudbus.cloudsim.examples.State@729
+  Action: 1, Q-value: 0.030324634460895894
+  Action: 4, Q-value: 0.12825328554821203
+  Action: 5, Q-value: -0.21517789447460442
+  Action: 6, Q-value: -0.0877815550186013
+  Action: 9, Q-value: 0.3020653981493105
+  Action: 0, Q-value: -0.08371770254445737
+State: org.cloudbus.cloudsim.examples.State@72a
+  Action: 1, Q-value: -0.04401697140309471
+  Action: 3, Q-value: -0.07863515236843906
+  Action: 7, Q-value: -0.015211961660225995
+  Action: 8, Q-value: -0.1536130584265168
+State: org.cloudbus.cloudsim.examples.State@72b
+  Action: 2, Q-value: 0.14550244132803414
+  Action: 3, Q-value: 0.29162029279937285
+  Action: 4, Q-value: 0.04203306429562659
+  Action: 6, Q-value: -0.016873712551020922
+  Action: 8, Q-value: -0.06183006527014209
+State: org.cloudbus.cloudsim.examples.State@72c
+  Action: 1, Q-value: -0.2577844100756693
+  Action: 3, Q-value: 0.21732277270368275
+  Action: 0, Q-value: -0.18358649688381606
+State: org.cloudbus.cloudsim.examples.State@72d
+  Action: 2, Q-value: -0.06380992662193223
+  Action: 3, Q-value: -0.11794522854539188
+  Action: 4, Q-value: -0.034066617469059146
+  Action: 5, Q-value: -0.061102999140120656
+  Action: 6, Q-value: 0.39557196449336374
+  Action: 7, Q-value: -0.10315267497951663
+  Action: 9, Q-value: -0.12687487905815614
+  Action: 0, Q-value: 0.01300370061154886
+State: org.cloudbus.cloudsim.examples.State@72e
+  Action: 2, Q-value: 0.2538983857189543
+  Action: 5, Q-value: -0.0010000000000000009
+  Action: 8, Q-value: -0.0690118917331416
+State: org.cloudbus.cloudsim.examples.State@743
+  Action: 5, Q-value: -0.1
+State: org.cloudbus.cloudsim.examples.State@744
+  Action: 1, Q-value: 0.10099653352262171
+  Action: 2, Q-value: 0.18085300019471187
+  Action: 3, Q-value: 0.07490151382292977
+  Action: 4, Q-value: -0.050212750606405884
+  Action: 6, Q-value: -0.13328709131567817
+  Action: 7, Q-value: 0.07258701752445951
+  Action: 9, Q-value: -0.15802614451783287
+  Action: 0, Q-value: -0.23682574910241594
+State: org.cloudbus.cloudsim.examples.State@745
+  Action: 2, Q-value: 0.13889556867157202
+  Action: 4, Q-value: -0.04771515038274208
+  Action: 5, Q-value: -0.0651405366433898
+  Action: 6, Q-value: 0.9103550197219238
+  Action: 7, Q-value: 0.148975548586845
+  Action: 8, Q-value: -0.07864386392207126
+  Action: 9, Q-value: -0.10468783068209302
+State: org.cloudbus.cloudsim.examples.State@746
+  Action: 2, Q-value: -0.20762698024284298
+  Action: 3, Q-value: -0.10494565720105573
+  Action: 4, Q-value: -0.10579561460913776
+  Action: 5, Q-value: -0.13868745052046788
+  Action: 6, Q-value: -0.03022801371130572
+  Action: 7, Q-value: -0.04865432954869055
+  Action: 8, Q-value: 0.13301833588087744
+  Action: 9, Q-value: -0.18280501458649018
+  Action: 0, Q-value: 0.0134093906442736
+State: org.cloudbus.cloudsim.examples.State@747
+  Action: 1, Q-value: 0.5209101379516763
+  Action: 4, Q-value: 0.03178272164778945
+  Action: 6, Q-value: 0.10859674013360916
+  Action: 7, Q-value: 0.09621397329896006
+  Action: 8, Q-value: -0.1
+  Action: 0, Q-value: -0.19280045838815457
+State: org.cloudbus.cloudsim.examples.State@748
+  Action: 4, Q-value: -0.24301278024256512
+  Action: 5, Q-value: -0.20070994238051482
+  Action: 7, Q-value: 0.7115349027632624
+  Action: 8, Q-value: -0.09515735843141136
+State: org.cloudbus.cloudsim.examples.State@749
+  Action: 1, Q-value: 0.09221036999557755
+  Action: 2, Q-value: 0.2766492709128893
+  Action: 3, Q-value: 0.05617157381100142
+State: org.cloudbus.cloudsim.examples.State@74a
+  Action: 1, Q-value: -0.32603690064353535
+  Action: 2, Q-value: -0.05012224181281288
+  Action: 3, Q-value: 0.09088946523379174
+  Action: 4, Q-value: -0.05761299590763456
+  Action: 5, Q-value: -0.1421066135899756
+  Action: 6, Q-value: -0.07071407347850757
+  Action: 7, Q-value: 0.49479463172145455
+  Action: 8, Q-value: -0.06869349830041056
+  Action: 9, Q-value: -0.2741967068020434
+  Action: 0, Q-value: -0.16789143235050208
+State: org.cloudbus.cloudsim.examples.State@74b
+  Action: 1, Q-value: 0.623305518698754
+  Action: 2, Q-value: 0.07213845395513761
+  Action: 3, Q-value: -0.18540515388988366
+  Action: 4, Q-value: 0.007871868728611092
+  Action: 5, Q-value: -0.07148918566422084
+  Action: 6, Q-value: -4.040890690846649E-4
+  Action: 8, Q-value: -0.10530789005787343
+  Action: 9, Q-value: -0.16380013349766964
+  Action: 0, Q-value: 0.005587932751451058
+State: org.cloudbus.cloudsim.examples.State@74c
+  Action: 1, Q-value: -0.10545157022883905
+  Action: 6, Q-value: -0.0414322436754854
+  Action: 8, Q-value: 0.308297244747814
+  Action: 9, Q-value: -0.1
+  Action: 0, Q-value: 0.028707056296255543
+State: org.cloudbus.cloudsim.examples.State@74d
+  Action: 1, Q-value: -0.08659424346300469
+  Action: 5, Q-value: -0.08464075414580635
+  Action: 7, Q-value: 0.08948245283357875
+  Action: 0, Q-value: -0.10425024692621129
+State: org.cloudbus.cloudsim.examples.State@762
+  Action: 9, Q-value: 0.1
+State: org.cloudbus.cloudsim.examples.State@763
+  Action: 2, Q-value: 0.3544927807860861
+  Action: 7, Q-value: -0.0888836278185794
+  Action: 8, Q-value: 0.09001352310607307
+  Action: 9, Q-value: -0.15610246264271813
+State: org.cloudbus.cloudsim.examples.State@764
+  Action: 1, Q-value: -0.05296507561662842
+  Action: 3, Q-value: -0.11427068975602592
+  Action: 4, Q-value: 0.3525569137139623
+  Action: 9, Q-value: -0.0860882816680266
+State: org.cloudbus.cloudsim.examples.State@765
+  Action: 8, Q-value: 0.1494192146710877
+State: org.cloudbus.cloudsim.examples.State@766
+  Action: 1, Q-value: 0.33528259622577
+  Action: 2, Q-value: -0.09503836035030987
+  Action: 3, Q-value: -0.1812637075888494
+  Action: 5, Q-value: -0.020165588998484904
+  Action: 7, Q-value: -0.0955653800277656
+  Action: 8, Q-value: -0.08765020754018862
+  Action: 9, Q-value: 0.10466645414097349
+  Action: 0, Q-value: -0.0026491037489899533
+State: org.cloudbus.cloudsim.examples.State@767
+  Action: 1, Q-value: 0.128535865275352
+  Action: 3, Q-value: 0.2197064198015685
+  Action: 4, Q-value: 0.16059715359949925
+  Action: 5, Q-value: -0.06588983192286761
+  Action: 6, Q-value: -0.16098042563492287
+  Action: 7, Q-value: 0.27251052620520405
+  Action: 9, Q-value: 0.10660001971138183
+State: org.cloudbus.cloudsim.examples.State@768
+  Action: 4, Q-value: -0.07483987092260645
+  Action: 9, Q-value: 0.4697021856238763
+State: org.cloudbus.cloudsim.examples.State@769
+  Action: 1, Q-value: 0.12062849811837437
+  Action: 3, Q-value: 0.09976158066259092
+State: org.cloudbus.cloudsim.examples.State@76a
+  Action: 1, Q-value: 0.033580028501239464
+  Action: 2, Q-value: -0.23385945185874174
+  Action: 3, Q-value: -0.037929233745182755
+  Action: 5, Q-value: -0.04829558632822495
+  Action: 6, Q-value: -0.13367518505165335
+  Action: 7, Q-value: 0.4207232165944914
+  Action: 8, Q-value: 0.11208029700447433
+  Action: 0, Q-value: 0.00862409527545796
+State: org.cloudbus.cloudsim.examples.State@76b
+  Action: 3, Q-value: -0.07953048847545478
+  Action: 4, Q-value: 0.472059405104984
+State: org.cloudbus.cloudsim.examples.State@76c
+  Action: 1, Q-value: 0.018649288658712654
+  Action: 2, Q-value: 0.05204247622603554
+  Action: 3, Q-value: 0.08268336999134049
+  Action: 4, Q-value: -0.0596809170896956
+  Action: 5, Q-value: -0.14403597356980205
+  Action: 6, Q-value: -0.18251017858593077
+  Action: 7, Q-value: 0.08906164789760104
+  Action: 8, Q-value: 0.04271609959959763
+  Action: 9, Q-value: -0.28914580560522696
+  Action: 0, Q-value: 0.03827030143672441
+State: org.cloudbus.cloudsim.examples.State@781
+  Action: 0, Q-value: 0.1
+State: org.cloudbus.cloudsim.examples.State@782
+  Action: 2, Q-value: 0.07418000169707281
+  Action: 5, Q-value: 0.1788860028390371
+  Action: 6, Q-value: -0.06330670746027521
+  Action: 7, Q-value: -0.35127825506471233
+  Action: 8, Q-value: -0.39120049084149444
+  Action: 0, Q-value: -0.3857995412185544
+State: org.cloudbus.cloudsim.examples.State@783
+  Action: 2, Q-value: -0.2711363079621025
+  Action: 3, Q-value: -0.01983771695445863
+  Action: 4, Q-value: -0.0826745463448225
+  Action: 5, Q-value: 0.013733652120184459
+  Action: 6, Q-value: 0.11259144240647648
+  Action: 7, Q-value: 0.04713138375879254
+  Action: 8, Q-value: 0.05087851833649894
+  Action: 9, Q-value: -0.20822832479426756
+  Action: 0, Q-value: -0.17865576720179682
+State: org.cloudbus.cloudsim.examples.State@784
+  Action: 1, Q-value: -0.19148315192823712
+  Action: 2, Q-value: -0.07045636393654256
+  Action: 3, Q-value: -0.07441180874444271
+  Action: 4, Q-value: -0.16591569634421527
+  Action: 5, Q-value: -0.11681139123976192
+  Action: 6, Q-value: -0.24255554022519316
+  Action: 7, Q-value: -0.11148842259817236
+  Action: 8, Q-value: -0.1373447342712392
+  Action: 9, Q-value: -0.15735602536706636
+  Action: 0, Q-value: 0.20021604738232843
+State: org.cloudbus.cloudsim.examples.State@785
+  Action: 2, Q-value: -0.07880785426677799
+  Action: 5, Q-value: -0.13728863305737773
+  Action: 6, Q-value: 0.08864045819539851
+  Action: 7, Q-value: 0.032172353323120934
+  Action: 9, Q-value: 0.10916116141430904
+  Action: 0, Q-value: 0.1201203633327253
+State: org.cloudbus.cloudsim.examples.State@786
+  Action: 5, Q-value: -0.13539238173942947
+  Action: 6, Q-value: 0.3858376101429414
+  Action: 0, Q-value: -0.07333849932319374
+State: org.cloudbus.cloudsim.examples.State@787
+  Action: 4, Q-value: -0.18264596475937783
+  Action: 5, Q-value: -0.22511189652174646
+  Action: 7, Q-value: -0.1341324059493268
+  Action: 8, Q-value: -0.25378671630399985
+State: org.cloudbus.cloudsim.examples.State@788
+  Action: 1, Q-value: -0.08511237211960095
+  Action: 2, Q-value: -0.18592565218995208
+  Action: 3, Q-value: -0.010070892762643585
+  Action: 4, Q-value: -0.13290850974040408
+  Action: 5, Q-value: -0.11137380877470422
+  Action: 6, Q-value: -0.11975726090632408
+  Action: 8, Q-value: -0.073130378447823
+  Action: 9, Q-value: -0.08095179161598492
+State: org.cloudbus.cloudsim.examples.State@789
+  Action: 1, Q-value: 0.023025782265995887
+  Action: 2, Q-value: 0.05479720625725035
+  Action: 3, Q-value: -0.2345090117051677
+  Action: 4, Q-value: -0.10479762955484924
+  Action: 5, Q-value: -0.10863460717484621
+  Action: 6, Q-value: -0.10464448208042144
+  Action: 8, Q-value: 0.04358299103485684
+  Action: 9, Q-value: -0.09705014281666752
+  Action: 0, Q-value: -0.12745012202352127
+State: org.cloudbus.cloudsim.examples.State@78a
+  Action: 3, Q-value: 0.2812874872382333
+  Action: 7, Q-value: -0.4524268794965237
+  Action: 9, Q-value: 0.026776640691391046
+State: org.cloudbus.cloudsim.examples.State@78b
+  Action: 1, Q-value: -0.18290907929572292
+  Action: 2, Q-value: 0.2463082532431874
+  Action: 6, Q-value: 0.09677314378393233
+  Action: 7, Q-value: 0.0318955169568471
+State: org.cloudbus.cloudsim.examples.State@7a0
+  Action: 8, Q-value: 0.1
+State: org.cloudbus.cloudsim.examples.State@7a1
+  Action: 1, Q-value: -0.16742652474697423
+  Action: 2, Q-value: -0.07527618696065452
+  Action: 3, Q-value: -0.17362390728785393
+  Action: 4, Q-value: -0.19892387888303684
+  Action: 5, Q-value: -0.17611252422900167
+  Action: 6, Q-value: -0.14543001072890016
+  Action: 9, Q-value: -0.17947022623643816
+  Action: 0, Q-value: -0.2963745563469501
+State: org.cloudbus.cloudsim.examples.State@7a2
+  Action: 1, Q-value: -0.0987248363276772
+  Action: 3, Q-value: -0.09452705140266726
+  Action: 4, Q-value: 0.6925567749653079
+  Action: 5, Q-value: 0.11822442053276914
+  Action: 7, Q-value: -0.07601035507377456
+  Action: 8, Q-value: 0.12979440321507574
+State: org.cloudbus.cloudsim.examples.State@7a3
+  Action: 2, Q-value: 0.09802960868547977
+  Action: 3, Q-value: -0.08987052764034628
+  Action: 7, Q-value: 0.24483145815689206
+  Action: 8, Q-value: -0.11919047941818771
+  Action: 9, Q-value: -0.08114672694914037
+State: org.cloudbus.cloudsim.examples.State@7a4
+  Action: 1, Q-value: -0.09172510205037619
+  Action: 2, Q-value: -0.2674831211429476
+  Action: 6, Q-value: -0.1033422900740352
+  Action: 7, Q-value: -0.15044085174067567
+  Action: 8, Q-value: -0.07979103512288277
+  Action: 9, Q-value: 0.45331965977150623
+State: org.cloudbus.cloudsim.examples.State@7a5
+  Action: 1, Q-value: -0.07989451999609838
+  Action: 2, Q-value: 0.0729637311477137
+  Action: 3, Q-value: -0.06898270213647044
+  Action: 4, Q-value: -0.15017371486048697
+  Action: 5, Q-value: -0.0932916307531953
+  Action: 6, Q-value: 0.25736287708991185
+  Action: 7, Q-value: -0.09638686325875684
+  Action: 8, Q-value: -0.054526330290459904
+  Action: 9, Q-value: 0.3455109356074373
+  Action: 0, Q-value: -0.10115329191468654
+State: org.cloudbus.cloudsim.examples.State@7a6
+  Action: 4, Q-value: 0.32623206434536883
+  Action: 7, Q-value: -0.11830434484001956
+  Action: 0, Q-value: -0.1723246774357376
+State: org.cloudbus.cloudsim.examples.State@7a7
+  Action: 1, Q-value: 0.4138508547636597
+  Action: 2, Q-value: 0.07661064431485483
+  Action: 3, Q-value: -0.08522309823246524
+  Action: 6, Q-value: -0.08039881541348116
+  Action: 7, Q-value: 0.060719772911064604
+  Action: 0, Q-value: -0.032085785779840253
+State: org.cloudbus.cloudsim.examples.State@7a8
+  Action: 3, Q-value: -0.10208092788038739
+  Action: 5, Q-value: -0.020070024432868774
+  Action: 6, Q-value: -0.005490880029539319
+  Action: 7, Q-value: -0.19777095190343705
+  Action: 9, Q-value: -0.02109075887285697
+  Action: 0, Q-value: -0.09834198835313085
+State: org.cloudbus.cloudsim.examples.State@7a9
+  Action: 1, Q-value: 0.10228679273521712
+  Action: 2, Q-value: -0.24557342118951925
+  Action: 3, Q-value: -0.34464837647676555
+  Action: 4, Q-value: 0.42231256141275647
+  Action: 9, Q-value: -0.06474348514189586
+  Action: 0, Q-value: -0.3331877505185358
+State: org.cloudbus.cloudsim.examples.State@7aa
+  Action: 1, Q-value: -0.17582424906606114
+  Action: 2, Q-value: -0.0862803485402037
+  Action: 3, Q-value: -0.16881962942378093
+  Action: 5, Q-value: -0.17153325727715982
+  Action: 6, Q-value: -0.01790606812461061
+  Action: 7, Q-value: -0.22274266276617383
+  Action: 8, Q-value: 0.04960499825478146
+  Action: 9, Q-value: -0.04803020771756217
+  Action: 0, Q-value: -0.17455057680702518
+State: org.cloudbus.cloudsim.examples.State@7bf
+  Action: 5, Q-value: 0.1
+State: org.cloudbus.cloudsim.examples.State@7c0
+  Action: 4, Q-value: -0.02702240832792678
+  Action: 5, Q-value: -0.1297233663089462
+  Action: 9, Q-value: -0.21350997285984957
+  Action: 0, Q-value: -0.22023785722185174
+State: org.cloudbus.cloudsim.examples.State@3c0
+  Action: 7, Q-value: -0.1
+State: org.cloudbus.cloudsim.examples.State@3c1
+  Action: 1, Q-value: -0.08193221357355074
+  Action: 2, Q-value: -0.08655729453538798
+  Action: 3, Q-value: 0.15138183845645223
+  Action: 4, Q-value: 0.11413179492941937
+  Action: 5, Q-value: 0.05714113070421546
+  Action: 6, Q-value: 0.775468872425092
+  Action: 9, Q-value: 0.1348026931427639
+  Action: 0, Q-value: -0.04057943935882963
+State: org.cloudbus.cloudsim.examples.State@7c1
+  Action: 1, Q-value: -0.0409878999809703
+  Action: 2, Q-value: -0.04477715280337966
+  Action: 3, Q-value: -0.125595447798488
+  Action: 4, Q-value: 0.14908161700351186
+  Action: 5, Q-value: -0.1840418788673171
+  Action: 6, Q-value: 1.075508912460668
+  Action: 7, Q-value: -0.07429867753631385
+  Action: 8, Q-value: -0.06976613983127597
+  Action: 0, Q-value: -0.03818566235646667
+State: org.cloudbus.cloudsim.examples.State@7c2
+  Action: 4, Q-value: 0.42704930377402106
+  Action: 7, Q-value: -0.09553997570183861
+State: org.cloudbus.cloudsim.examples.State@3c2
+  Action: 1, Q-value: 0.1015905525214615
+  Action: 2, Q-value: 0.08725705665498287
+  Action: 5, Q-value: 0.11505054905137407
+  Action: 6, Q-value: -0.4456594920803172
+  Action: 8, Q-value: -0.10900000000000001
+  Action: 9, Q-value: 0.14156705872831624
+State: org.cloudbus.cloudsim.examples.State@3c3
+  Action: 2, Q-value: -0.08655729453538798
+  Action: 6, Q-value: 0.23303447053271265
+  Action: 9, Q-value: 0.13952661941549852
+State: org.cloudbus.cloudsim.examples.State@7c3
+  Action: 1, Q-value: -0.05794347279249493
+  Action: 3, Q-value: -0.12338832541936118
+  Action: 4, Q-value: -0.10961794915192832
+  Action: 5, Q-value: 0.20913711760936535
+  Action: 7, Q-value: -0.10627873678929556
+  Action: 8, Q-value: -0.033235710160754106
+  Action: 9, Q-value: 0.04599857150051953
+  Action: 0, Q-value: -0.08044325173575788
+State: org.cloudbus.cloudsim.examples.State@7c4
+  Action: 1, Q-value: 0.9768925085290493
+  Action: 2, Q-value: -0.05419128355727135
+  Action: 4, Q-value: -0.09246423654973984
+  Action: 5, Q-value: 0.13343656578865598
+  Action: 7, Q-value: -0.004485203618623021
+  Action: 9, Q-value: -0.07076341203832795
+State: org.cloudbus.cloudsim.examples.State@3c4
+  Action: 1, Q-value: -0.13494904227281845
+  Action: 2, Q-value: -0.1239326698777801
+  Action: 5, Q-value: 0.6217012862561875
+  Action: 6, Q-value: -0.12149189645144365
+  Action: 0, Q-value: -0.25713936611426585
+State: org.cloudbus.cloudsim.examples.State@3c5
+  Action: 1, Q-value: 0.12422444495297454
+  Action: 3, Q-value: 0.30205453049988795
+  Action: 4, Q-value: 0.057085134975257204
+  Action: 5, Q-value: 0.1499858864568044
+  Action: 6, Q-value: 0.1317482574805927
+  Action: 7, Q-value: -0.2767368481463874
+  Action: 8, Q-value: -0.038881078138750635
+  Action: 9, Q-value: 0.2938374155300217
+  Action: 0, Q-value: 0.12074480240499796
+State: org.cloudbus.cloudsim.examples.State@7c5
+  Action: 1, Q-value: 0.3218947857843531
+  Action: 3, Q-value: 0.01686348127982959
+  Action: 4, Q-value: -0.1483234016741233
+  Action: 5, Q-value: -0.0057011356626610055
+  Action: 6, Q-value: -0.13012565650907557
+  Action: 7, Q-value: -0.08540789741414166
+  Action: 9, Q-value: 0.003536733842988249
+  Action: 0, Q-value: 0.004034648434342203
+State: org.cloudbus.cloudsim.examples.State@7c6
+  Action: 3, Q-value: -0.11227837662872613
+  Action: 4, Q-value: -0.04154911843751029
+  Action: 5, Q-value: 0.13044887744225633
+  Action: 6, Q-value: -0.07572194063449444
+  Action: 7, Q-value: -0.1449166392766566
+  Action: 8, Q-value: 1.1969349957682498
+  Action: 9, Q-value: -0.10803731858775577
+State: org.cloudbus.cloudsim.examples.State@3c6
+  Action: 2, Q-value: -0.03097888529242604
+  Action: 3, Q-value: -0.2074915451161991
+  Action: 4, Q-value: 0.1880758709273031
+  Action: 5, Q-value: 0.13399120986013646
+  Action: 7, Q-value: 0.0013280481842789238
+  Action: 9, Q-value: 0.03100791857445201
+  Action: 0, Q-value: -0.18004979704478974
+State: org.cloudbus.cloudsim.examples.State@7c7
+  Action: 1, Q-value: -0.06936597298568808
+  Action: 2, Q-value: -0.09861059871366108
+  Action: 4, Q-value: -0.0625311033853048
+  Action: 6, Q-value: 0.13145007824568747
+  Action: 7, Q-value: -0.10631717875372583
+  Action: 8, Q-value: -0.07834699170718357
+  Action: 0, Q-value: -0.1171242367153979
+State: org.cloudbus.cloudsim.examples.State@3c7
+  Action: 1, Q-value: -0.08624631805904112
+  Action: 4, Q-value: -0.15183400612500306
+  Action: 5, Q-value: -0.04179713893349438
+  Action: 6, Q-value: -0.05254117693291206
+  Action: 7, Q-value: -0.05873336360479387
+  Action: 8, Q-value: -0.36881120596014216
+  Action: 9, Q-value: 0.5327884172133063
+  Action: 0, Q-value: -0.06383415960952885
+State: org.cloudbus.cloudsim.examples.State@7c8
+  Action: 1, Q-value: -0.2760413432194197
+  Action: 2, Q-value: -0.14322832733983795
+  Action: 3, Q-value: 0.12671606838040034
+  Action: 4, Q-value: 1.135506935176664
+  Action: 5, Q-value: 0.12045511679373876
+  Action: 6, Q-value: -0.07636119633042104
+  Action: 7, Q-value: -0.10057428897761145
+  Action: 8, Q-value: -0.21010979442931565
+  Action: 0, Q-value: -0.0827939344609
+State: org.cloudbus.cloudsim.examples.State@3c8
+  Action: 1, Q-value: -0.09223856390574908
+  Action: 4, Q-value: 0.38822450915870776
+  Action: 5, Q-value: 0.12499282667142847
+  Action: 6, Q-value: -0.07811192193424674
+  Action: 7, Q-value: -0.18719850599000004
+  Action: 0, Q-value: -0.0822406775577585
+State: org.cloudbus.cloudsim.examples.State@3c9
+  Action: 2, Q-value: 0.056898372937394776
+  Action: 3, Q-value: 0.08825982419846945
+  Action: 6, Q-value: -0.01691309193705781
+  Action: 8, Q-value: -0.11261077265370477
+  Action: 0, Q-value: 0.7096240080113642
+State: org.cloudbus.cloudsim.examples.State@7c9
+  Action: 2, Q-value: 0.15463297470322895
+  Action: 5, Q-value: 0.028073294591647202
+  Action: 6, Q-value: 0.13054022636621035
+  Action: 8, Q-value: -0.3209149578815126
+State: org.cloudbus.cloudsim.examples.State@3ca
+  Action: 1, Q-value: -0.07763814973707223
+  Action: 2, Q-value: 0.13328273555961878
+  Action: 3, Q-value: -0.2099854454535396
+  Action: 4, Q-value: -0.12787578246857775
+  Action: 6, Q-value: -0.05741639301420867
+  Action: 7, Q-value: 0.0741582282186901
+  Action: 8, Q-value: 0.8675751253105565
+  Action: 0, Q-value: -0.1966309148810153
+State: org.cloudbus.cloudsim.examples.State@7de
+  Action: 6, Q-value: 0.1
+State: org.cloudbus.cloudsim.examples.State@7df
+  Action: 1, Q-value: -0.12865840647875748
+  Action: 2, Q-value: -0.1582601303505498
+  Action: 3, Q-value: -0.12710585605645824
+  Action: 4, Q-value: -0.015572987153182852
+  Action: 5, Q-value: -0.2159835992751885
+  Action: 6, Q-value: -0.1402504064235276
+  Action: 7, Q-value: -0.3106125191995481
+  Action: 8, Q-value: -0.12434946819201587
+  Action: 9, Q-value: -0.09199502409480526
+  Action: 0, Q-value: -0.07638950173720034
+State: org.cloudbus.cloudsim.examples.State@3df
+  Action: 7, Q-value: 0.1
+State: org.cloudbus.cloudsim.examples.State@7e0
+  Action: 2, Q-value: -0.006194530843497303
+  Action: 3, Q-value: -0.08674301985186887
+  Action: 6, Q-value: -0.06630452903306125
+  Action: 7, Q-value: -0.2757073179140761
+  Action: 9, Q-value: 0.14503385246772957
+  Action: 0, Q-value: -0.2978977819697384
+State: org.cloudbus.cloudsim.examples.State@3e0
+  Action: 1, Q-value: 0.00688777327183282
+  Action: 2, Q-value: 0.011222238327250902
+  Action: 3, Q-value: 0.2763866032746996
+  Action: 4, Q-value: -0.07839467698957456
+  Action: 5, Q-value: 0.05212759262727523
+  Action: 7, Q-value: -0.25111324106172006
+  Action: 8, Q-value: 0.24051541554189548
+  Action: 9, Q-value: 0.2581899160315174
+  Action: 0, Q-value: 0.078281362232063
+State: org.cloudbus.cloudsim.examples.State@3e1
+  Action: 1, Q-value: 0.07320807929837692
+  Action: 2, Q-value: -0.1
+  Action: 3, Q-value: 0.5796070715765048
+State: org.cloudbus.cloudsim.examples.State@7e1
+  Action: 1, Q-value: -0.1912995771623207
+  Action: 3, Q-value: -0.09875210404514911
+  Action: 6, Q-value: 0.010193085211577788
+State: org.cloudbus.cloudsim.examples.State@7e2
+  Action: 1, Q-value: -0.13185497473934724
+  Action: 5, Q-value: -0.3249795095963937
+  Action: 6, Q-value: -0.07707381955890959
+  Action: 8, Q-value: 0.6196940679436977
+  Action: 0, Q-value: -0.17651048418604887
+State: org.cloudbus.cloudsim.examples.State@3e2
+  Action: 2, Q-value: -0.045770246553355445
+  Action: 4, Q-value: -0.1
+  Action: 9, Q-value: 0.4203960589027575
+  Action: 0, Q-value: -0.03023306098987011
+State: org.cloudbus.cloudsim.examples.State@7e3
+  Action: 2, Q-value: 0.14645892907931563
+  Action: 3, Q-value: -0.16836811421268874
+  Action: 5, Q-value: -0.07522248917550563
+  Action: 8, Q-value: -0.0995956481037435
+  Action: 9, Q-value: -0.09310756993747102
+State: org.cloudbus.cloudsim.examples.State@3e3
+  Action: 1, Q-value: 0.15954143727161796
+  Action: 2, Q-value: -0.029630136962804504
+  Action: 3, Q-value: 0.040934788852708306
+  Action: 4, Q-value: 0.04340318871378025
+  Action: 5, Q-value: 0.1254678976040358
+  Action: 6, Q-value: 0.25766197180086803
+  Action: 7, Q-value: -0.011620019483228744
+  Action: 8, Q-value: 0.17232295296407235
+  Action: 9, Q-value: 0.1872355784422368
+  Action: 0, Q-value: 0.3974941445710545
+State: org.cloudbus.cloudsim.examples.State@3e4
+  Action: 1, Q-value: -0.06876258452629802
+  Action: 3, Q-value: 0.008336130721990936
+  Action: 7, Q-value: -0.0887615854091216
+  Action: 0, Q-value: 0.5970010008825114
+State: org.cloudbus.cloudsim.examples.State@7e4
+  Action: 1, Q-value: -0.09807662326979796
+  Action: 3, Q-value: -0.23150587456162086
+  Action: 4, Q-value: 0.1295633683583949
+  Action: 7, Q-value: 0.13726005237726535
+State: org.cloudbus.cloudsim.examples.State@3e5
+  Action: 2, Q-value: 0.009045585884550858
+  Action: 0, Q-value: -0.1560529912682126
+State: org.cloudbus.cloudsim.examples.State@7e5
+  Action: 4, Q-value: -0.07537228864658951
+  Action: 5, Q-value: 0.5626953304847974
+  Action: 7, Q-value: 0.13735182834390006
+  Action: 9, Q-value: -0.09971331256703762
+  Action: 0, Q-value: -0.2185454190754664
+State: org.cloudbus.cloudsim.examples.State@3e6
+  Action: 1, Q-value: -0.15578939661865293
+  Action: 2, Q-value: 0.15248330346898098
+  Action: 3, Q-value: 0.6696077048133788
+  Action: 4, Q-value: 0.12849364348124703
+  Action: 5, Q-value: -0.11202939942085002
+  Action: 6, Q-value: 0.1159678686070807
+  Action: 8, Q-value: 0.17575640563951517
+  Action: 9, Q-value: -0.09033510992793202
+  Action: 0, Q-value: -0.04136446299416762
+State: org.cloudbus.cloudsim.examples.State@7e6
+  Action: 1, Q-value: 0.049497607147645284
+  Action: 2, Q-value: -0.09633004925948319
+  Action: 3, Q-value: 0.254078061102885
+  Action: 4, Q-value: 0.09427794598484368
+  Action: 6, Q-value: 0.09928628634835651
+  Action: 7, Q-value: 0.10800624268581291
+  Action: 8, Q-value: -0.10859816298734758
+  Action: 9, Q-value: 0.016324943874638134
+  Action: 0, Q-value: 0.11492027974815919
+State: org.cloudbus.cloudsim.examples.State@7e7
+  Action: 5, Q-value: -0.0786572868784728
+  Action: 6, Q-value: -0.1303714944959457
+  Action: 9, Q-value: 0.2141602670173773
+State: org.cloudbus.cloudsim.examples.State@3e7
+  Action: 3, Q-value: 0.26339826236138886
+State: org.cloudbus.cloudsim.examples.State@3e8
+  Action: 5, Q-value: -0.07909971817667681
+  Action: 6, Q-value: 0.9501528517693074
+  Action: 8, Q-value: -0.21190202478983783
+State: org.cloudbus.cloudsim.examples.State@7e8
+  Action: 4, Q-value: -0.20194622596611359
+  Action: 6, Q-value: 0.199251819864216
+  Action: 9, Q-value: -0.19320837367594496
+  Action: 0, Q-value: -0.203200934838344
+State: org.cloudbus.cloudsim.examples.State@3e9
+  Action: 1, Q-value: -0.10500163567865496
+  Action: 3, Q-value: 0.06496889319517489
+  Action: 4, Q-value: 0.05491494909052086
+  Action: 5, Q-value: -0.10568538032585391
+  Action: 6, Q-value: 0.4683266736059086
+  Action: 7, Q-value: -0.10938997680477516
+  Action: 8, Q-value: 0.14682413904323866
+  Action: 9, Q-value: -0.2886325929896118
+  Action: 0, Q-value: -0.030747242354791315
+State: org.cloudbus.cloudsim.examples.State@7fd
+  Action: 7, Q-value: 0.1
+State: org.cloudbus.cloudsim.examples.State@7fe
+  Action: 1, Q-value: 0.17264486501433385
+  Action: 2, Q-value: -0.022740720848023102
+  Action: 3, Q-value: -0.06706896551675262
+  Action: 6, Q-value: -0.03710096294718039
+  Action: 7, Q-value: -0.08167600241193718
+  Action: 9, Q-value: -0.08942122160982477
+State: org.cloudbus.cloudsim.examples.State@3fe
+  Action: 7, Q-value: -0.1
+State: org.cloudbus.cloudsim.examples.State@7ff
+  Action: 1, Q-value: -0.08335442315296931
+  Action: 2, Q-value: 0.6744167171886373
+  Action: 3, Q-value: -0.0707988062235714
+  Action: 4, Q-value: -0.00863998513510393
+  Action: 5, Q-value: -0.17612019388144
+  Action: 6, Q-value: -0.06674696924263095
+  Action: 7, Q-value: -0.09365397842735268
+  Action: 9, Q-value: -0.2799427353594301
+  Action: 0, Q-value: -0.1443088312036053
+State: org.cloudbus.cloudsim.examples.State@3ff
+  Action: 1, Q-value: 0.10051654849810857
+  Action: 2, Q-value: -0.10788454104222453
+  Action: 3, Q-value: -0.0074161719231418954
+  Action: 4, Q-value: 0.096186436966927
+  Action: 5, Q-value: 0.14210208155129558
+  Action: 6, Q-value: 0.33369161101680683
+  Action: 9, Q-value: -0.27371587726965974
+  Action: 0, Q-value: -0.09171114589086875
+Using WOGA scheduler
+estimate time span: 31.118
+estimate LB: 8.436333489914652
+estimate cost: 360.8974500000001
+estimate totalTime: 489.3865000000001
+estimate fitness: 0.17250250344606327
+========== START ==========
+Starting CloudSim version 3.0
+Datacenter0 is starting...
+Datacenter1 is starting...
+Datacenter2 is starting...
+Broker is starting...
+Entities started.
+0.0: Broker: Cloud Resource List received with 3 resource(s)
+0.0: Broker: Trying to Create VM #0 in Datacenter0
+0.0: Broker: Trying to Create VM #1 in Datacenter0
+0.0: Broker: Trying to Create VM #2 in Datacenter0
+0.0: Broker: Trying to Create VM #3 in Datacenter0
+0.0: Broker: Trying to Create VM #4 in Datacenter0
+0.0: Broker: Trying to Create VM #5 in Datacenter0
+0.0: Broker: Trying to Create VM #6 in Datacenter0
+0.0: Broker: Trying to Create VM #7 in Datacenter0
+0.0: Broker: Trying to Create VM #8 in Datacenter0
+0.0: Broker: Trying to Create VM #9 in Datacenter0
+0.0: Broker: Trying to Create VM #10 in Datacenter0
+0.0: Broker: Trying to Create VM #11 in Datacenter0
+0.0: Broker: Trying to Create VM #12 in Datacenter0
+0.0: Broker: Trying to Create VM #13 in Datacenter0
+0.0: Broker: Trying to Create VM #14 in Datacenter0
+0.0: Broker: Trying to Create VM #15 in Datacenter0
+0.0: Broker: Trying to Create VM #16 in Datacenter0
+0.0: Broker: Trying to Create VM #17 in Datacenter0
+0.0: Broker: Trying to Create VM #18 in Datacenter0
+0.0: Broker: Trying to Create VM #19 in Datacenter0
+0.0: Broker: Trying to Create VM #20 in Datacenter0
+0.0: Broker: Trying to Create VM #21 in Datacenter0
+0.0: Broker: Trying to Create VM #22 in Datacenter0
+0.0: Broker: Trying to Create VM #23 in Datacenter0
+0.0: Broker: Trying to Create VM #24 in Datacenter0
+0.0: Broker: Trying to Create VM #25 in Datacenter0
+0.0: Broker: Trying to Create VM #26 in Datacenter0
+0.0: Broker: Trying to Create VM #27 in Datacenter0
+0.0: Broker: Trying to Create VM #28 in Datacenter0
+0.0: Broker: Trying to Create VM #29 in Datacenter0
+[VmScheduler.vmCreate] Allocation of VM #5 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #6 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #7 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #8 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #9 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #10 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #11 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #12 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #13 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #14 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #15 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #16 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #17 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #18 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #19 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #20 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #21 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #22 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #23 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #24 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #25 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #26 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #27 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #28 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #29 to Host #0 failed by RAM
+0.1: Broker: VM #0 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #1 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #2 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #3 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #4 has been created in Datacenter #2, Host #0
+0.1: Broker: Creation of VM #5 failed in Datacenter #2
+0.1: Broker: Creation of VM #6 failed in Datacenter #2
+0.1: Broker: Creation of VM #7 failed in Datacenter #2
+0.1: Broker: Creation of VM #8 failed in Datacenter #2
+0.1: Broker: Creation of VM #9 failed in Datacenter #2
+0.1: Broker: Creation of VM #10 failed in Datacenter #2
+0.1: Broker: Creation of VM #11 failed in Datacenter #2
+0.1: Broker: Creation of VM #12 failed in Datacenter #2
+0.1: Broker: Creation of VM #13 failed in Datacenter #2
+0.1: Broker: Creation of VM #14 failed in Datacenter #2
+0.1: Broker: Creation of VM #15 failed in Datacenter #2
+0.1: Broker: Creation of VM #16 failed in Datacenter #2
+0.1: Broker: Creation of VM #17 failed in Datacenter #2
+0.1: Broker: Creation of VM #18 failed in Datacenter #2
+0.1: Broker: Creation of VM #19 failed in Datacenter #2
+0.1: Broker: Creation of VM #20 failed in Datacenter #2
+0.1: Broker: Creation of VM #21 failed in Datacenter #2
+0.1: Broker: Creation of VM #22 failed in Datacenter #2
+0.1: Broker: Creation of VM #23 failed in Datacenter #2
+0.1: Broker: Creation of VM #24 failed in Datacenter #2
+0.1: Broker: Creation of VM #25 failed in Datacenter #2
+0.1: Broker: Creation of VM #26 failed in Datacenter #2
+0.1: Broker: Creation of VM #27 failed in Datacenter #2
+0.1: Broker: Creation of VM #28 failed in Datacenter #2
+0.1: Broker: Creation of VM #29 failed in Datacenter #2
+0.1: Broker: Trying to Create VM #5 in Datacenter1
+0.1: Broker: Trying to Create VM #6 in Datacenter1
+0.1: Broker: Trying to Create VM #7 in Datacenter1
+0.1: Broker: Trying to Create VM #8 in Datacenter1
+0.1: Broker: Trying to Create VM #9 in Datacenter1
+0.1: Broker: Trying to Create VM #10 in Datacenter1
+0.1: Broker: Trying to Create VM #11 in Datacenter1
+0.1: Broker: Trying to Create VM #12 in Datacenter1
+0.1: Broker: Trying to Create VM #13 in Datacenter1
+0.1: Broker: Trying to Create VM #14 in Datacenter1
+0.1: Broker: Trying to Create VM #15 in Datacenter1
+0.1: Broker: Trying to Create VM #16 in Datacenter1
+0.1: Broker: Trying to Create VM #17 in Datacenter1
+0.1: Broker: Trying to Create VM #18 in Datacenter1
+0.1: Broker: Trying to Create VM #19 in Datacenter1
+0.1: Broker: Trying to Create VM #20 in Datacenter1
+0.1: Broker: Trying to Create VM #21 in Datacenter1
+0.1: Broker: Trying to Create VM #22 in Datacenter1
+0.1: Broker: Trying to Create VM #23 in Datacenter1
+0.1: Broker: Trying to Create VM #24 in Datacenter1
+0.1: Broker: Trying to Create VM #25 in Datacenter1
+0.1: Broker: Trying to Create VM #26 in Datacenter1
+0.1: Broker: Trying to Create VM #27 in Datacenter1
+0.1: Broker: Trying to Create VM #28 in Datacenter1
+0.1: Broker: Trying to Create VM #29 in Datacenter1
+[VmScheduler.vmCreate] Allocation of VM #15 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #16 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #17 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #18 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #19 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #20 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #21 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #22 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #23 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #24 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #25 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #26 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #27 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #28 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #29 to Host #0 failed by RAM
+0.2: Broker: VM #5 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #6 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #7 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #8 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #9 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #10 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #11 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #12 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #13 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #14 has been created in Datacenter #3, Host #0
+0.2: Broker: Creation of VM #15 failed in Datacenter #3
+0.2: Broker: Creation of VM #16 failed in Datacenter #3
+0.2: Broker: Creation of VM #17 failed in Datacenter #3
+0.2: Broker: Creation of VM #18 failed in Datacenter #3
+0.2: Broker: Creation of VM #19 failed in Datacenter #3
+0.2: Broker: Creation of VM #20 failed in Datacenter #3
+0.2: Broker: Creation of VM #21 failed in Datacenter #3
+0.2: Broker: Creation of VM #22 failed in Datacenter #3
+0.2: Broker: Creation of VM #23 failed in Datacenter #3
+0.2: Broker: Creation of VM #24 failed in Datacenter #3
+0.2: Broker: Creation of VM #25 failed in Datacenter #3
+0.2: Broker: Creation of VM #26 failed in Datacenter #3
+0.2: Broker: Creation of VM #27 failed in Datacenter #3
+0.2: Broker: Creation of VM #28 failed in Datacenter #3
+0.2: Broker: Creation of VM #29 failed in Datacenter #3
+0.2: Broker: Trying to Create VM #15 in Datacenter2
+0.2: Broker: Trying to Create VM #16 in Datacenter2
+0.2: Broker: Trying to Create VM #17 in Datacenter2
+0.2: Broker: Trying to Create VM #18 in Datacenter2
+0.2: Broker: Trying to Create VM #19 in Datacenter2
+0.2: Broker: Trying to Create VM #20 in Datacenter2
+0.2: Broker: Trying to Create VM #21 in Datacenter2
+0.2: Broker: Trying to Create VM #22 in Datacenter2
+0.2: Broker: Trying to Create VM #23 in Datacenter2
+0.2: Broker: Trying to Create VM #24 in Datacenter2
+0.2: Broker: Trying to Create VM #25 in Datacenter2
+0.2: Broker: Trying to Create VM #26 in Datacenter2
+0.2: Broker: Trying to Create VM #27 in Datacenter2
+0.2: Broker: Trying to Create VM #28 in Datacenter2
+0.2: Broker: Trying to Create VM #29 in Datacenter2
+0.30000000000000004: Broker: VM #15 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #16 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #17 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #18 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #19 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #20 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #21 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #22 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #23 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #24 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #25 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #26 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #27 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #28 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #29 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: Sending cloudlet 0 to VM #26
+0.30000000000000004: Broker: Sending cloudlet 1 to VM #29
+0.30000000000000004: Broker: Sending cloudlet 2 to VM #19
+0.30000000000000004: Broker: Sending cloudlet 3 to VM #15
+0.30000000000000004: Broker: Sending cloudlet 4 to VM #20
+0.30000000000000004: Broker: Sending cloudlet 5 to VM #28
+0.30000000000000004: Broker: Sending cloudlet 6 to VM #27
+0.30000000000000004: Broker: Sending cloudlet 7 to VM #20
+0.30000000000000004: Broker: Sending cloudlet 8 to VM #18
+0.30000000000000004: Broker: Sending cloudlet 9 to VM #16
+0.30000000000000004: Broker: Sending cloudlet 10 to VM #28
+0.30000000000000004: Broker: Sending cloudlet 11 to VM #22
+0.30000000000000004: Broker: Sending cloudlet 12 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 13 to VM #11
+0.30000000000000004: Broker: Sending cloudlet 14 to VM #22
+0.30000000000000004: Broker: Sending cloudlet 15 to VM #17
+0.30000000000000004: Broker: Sending cloudlet 16 to VM #29
+0.30000000000000004: Broker: Sending cloudlet 17 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 18 to VM #14
+0.30000000000000004: Broker: Sending cloudlet 19 to VM #19
+0.30000000000000004: Broker: Sending cloudlet 20 to VM #26
+0.30000000000000004: Broker: Sending cloudlet 21 to VM #19
+0.30000000000000004: Broker: Sending cloudlet 22 to VM #13
+0.30000000000000004: Broker: Sending cloudlet 23 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 24 to VM #24
+0.30000000000000004: Broker: Sending cloudlet 25 to VM #24
+0.30000000000000004: Broker: Sending cloudlet 26 to VM #25
+0.30000000000000004: Broker: Sending cloudlet 27 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 28 to VM #23
+0.30000000000000004: Broker: Sending cloudlet 29 to VM #13
+0.30000000000000004: Broker: Sending cloudlet 30 to VM #16
+0.30000000000000004: Broker: Sending cloudlet 31 to VM #21
+0.30000000000000004: Broker: Sending cloudlet 32 to VM #17
+0.30000000000000004: Broker: Sending cloudlet 33 to VM #23
+0.30000000000000004: Broker: Sending cloudlet 34 to VM #15
+0.30000000000000004: Broker: Sending cloudlet 35 to VM #22
+0.30000000000000004: Broker: Sending cloudlet 36 to VM #24
+0.30000000000000004: Broker: Sending cloudlet 37 to VM #12
+0.30000000000000004: Broker: Sending cloudlet 38 to VM #21
+0.30000000000000004: Broker: Sending cloudlet 39 to VM #10
+0.30000000000000004: Broker: Sending cloudlet 40 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 41 to VM #21
+0.30000000000000004: Broker: Sending cloudlet 42 to VM #18
+0.30000000000000004: Broker: Sending cloudlet 43 to VM #10
+0.30000000000000004: Broker: Sending cloudlet 44 to VM #25
+0.30000000000000004: Broker: Sending cloudlet 45 to VM #25
+0.30000000000000004: Broker: Sending cloudlet 46 to VM #29
+0.30000000000000004: Broker: Sending cloudlet 47 to VM #28
+0.30000000000000004: Broker: Sending cloudlet 48 to VM #17
+0.30000000000000004: Broker: Sending cloudlet 49 to VM #27
+3.6784999999999997: Broker: Cloudlet 31 received
+3.7884999999999995: Broker: Cloudlet 15 received
+5.6205: Broker: Cloudlet 39 received
+6.0135: Broker: Cloudlet 3 received
+6.333749999999999: Broker: Cloudlet 26 received
+6.443749999999999: Broker: Cloudlet 2 received
+6.6175: Broker: Cloudlet 13 received
+7.0255: Broker: Cloudlet 22 received
+7.270499999999998: Broker: Cloudlet 9 received
+8.139999999999999: Broker: Cloudlet 0 received
+8.249999999999998: Broker: Cloudlet 24 received
+8.396749999999999: Broker: Cloudlet 11 received
+8.963: Broker: Cloudlet 8 received
+9.668249999999999: Broker: Cloudlet 4 received
+9.776250000000001: Broker: Cloudlet 28 received
+10.011000000000001: Broker: Cloudlet 5 received
+11.777750000000001: Broker: Cloudlet 32 received
+11.911750000000001: Broker: Cloudlet 1 received
+12.0355: Broker: Cloudlet 14 received
+12.1455: Broker: Cloudlet 6 received
+12.147: Broker: Cloudlet 29 received
+12.37775: Broker: Cloudlet 38 received
+13.895000000000001: Broker: Cloudlet 25 received
+14.3625: Broker: Cloudlet 12 received
+16.922: Broker: Cloudlet 48 received
+17.096: Broker: Cloudlet 44 received
+17.3455: Broker: Cloudlet 43 received
+17.43975: Broker: Cloudlet 16 received
+17.549750000000003: Broker: Cloudlet 10 received
+17.844000000000005: Broker: Cloudlet 41 received
+17.959000000000003: Broker: Cloudlet 42 received
+18.093250000000005: Broker: Cloudlet 34 received
+18.390250000000005: Broker: Cloudlet 7 received
+18.736750000000004: Broker: Cloudlet 20 received
+18.878000000000004: Broker: Cloudlet 19 received
+18.9035: Broker: Cloudlet 18 received
+19.013500000000004: Broker: Cloudlet 40 received
+19.076250000000005: Broker: Cloudlet 30 received
+20.369000000000007: Broker: Cloudlet 33 received
+20.738500000000002: Broker: Cloudlet 17 received
+22.186500000000002: Broker: Cloudlet 27 received
+22.692500000000006: Broker: Cloudlet 21 received
+22.80250000000001: Broker: Cloudlet 35 received
+22.80250000000001: Broker: Cloudlet 46 received
+22.912500000000012: Broker: Cloudlet 36 received
+23.6625: Broker: Cloudlet 37 received
+24.023500000000013: Broker: Cloudlet 45 received
+24.133500000000016: Broker: Cloudlet 49 received
+24.277500000000014: Broker: Cloudlet 47 received
+31.418: Broker: Cloudlet 23 received
+31.418: Broker: All Cloudlets executed. Finishing...
+31.418: Broker: Destroying VM #0
+31.418: Broker: Destroying VM #1
+31.418: Broker: Destroying VM #2
+31.418: Broker: Destroying VM #3
+31.418: Broker: Destroying VM #4
+31.418: Broker: Destroying VM #5
+31.418: Broker: Destroying VM #6
+31.418: Broker: Destroying VM #7
+31.418: Broker: Destroying VM #8
+31.418: Broker: Destroying VM #9
+31.418: Broker: Destroying VM #10
+31.418: Broker: Destroying VM #11
+31.418: Broker: Destroying VM #12
+31.418: Broker: Destroying VM #13
+31.418: Broker: Destroying VM #14
+31.418: Broker: Destroying VM #15
+31.418: Broker: Destroying VM #16
+31.418: Broker: Destroying VM #17
+31.418: Broker: Destroying VM #18
+31.418: Broker: Destroying VM #19
+31.418: Broker: Destroying VM #20
+31.418: Broker: Destroying VM #21
+31.418: Broker: Destroying VM #22
+31.418: Broker: Destroying VM #23
+31.418: Broker: Destroying VM #24
+31.418: Broker: Destroying VM #25
+31.418: Broker: Destroying VM #26
+31.418: Broker: Destroying VM #27
+31.418: Broker: Destroying VM #28
+31.418: Broker: Destroying VM #29
+Broker is shutting down...
+Simulation: No more future events
+CloudInformationService: Notify all CloudSim entities for shutting down.
+Datacenter0 is shutting down...
+Datacenter1 is shutting down...
+Datacenter2 is shutting down...
+Broker is shutting down...
+Simulation completed.
+Simulation completed.
+
+========== OUTPUT ==========
+Cloudlet ID    STATUS    Data center ID    VM ID    Time    Start Time    Finish Time    BWCost    CPUCost
+    31        SUCCESS        4            21        0.3        0.3        3.68            15.9            3.04
+    15        SUCCESS        4            17        0.3        0.3        3.79            25            3.14
+    39        SUCCESS        3            10        0.3        0.3        5.62            18.1            2.66
+    3        SUCCESS        4            15        0.3        0.3        6.01            7.4            5.14
+    26        SUCCESS        4            25        0.3        0.3        6.33            16.7            5.43
+    2        SUCCESS        4            19        0.3        0.3        6.44            24            5.53
+    13        SUCCESS        3            11        0.3        0.3        6.62            25.5            3.16
+    22        SUCCESS        3            13        0.3        0.3        7.03            32.6            3.36
+    9        SUCCESS        4            16        0.3        0.3        7.27            8.5            6.27
+    0        SUCCESS        4            26        0.3        0.3        8.14            31.7            7.06
+    24        SUCCESS        4            24        0.3        0.3        8.25            14.7            7.15
+    11        SUCCESS        4            22        0.3        0.3        8.4            24.4            7.29
+    8        SUCCESS        4            18        0.3        0.3        8.96            17.3            7.8
+    4        SUCCESS        4            20        0.3        0.3        9.67            17.7            8.43
+    28        SUCCESS        4            23        0.3        0.3        9.78            20.1            8.53
+    5        SUCCESS        4            28        0.3        0.3        10.01            20.9            8.74
+    32        SUCCESS        4            17        0.3        3.79        11.78            7.7            7.19
+    1        SUCCESS        4            29        0.3        0.3        11.91            15.8            10.45
+    14        SUCCESS        4            22        0.3        8.4        12.04            18.8            3.27
+    6        SUCCESS        4            27        0.3        0.3        12.15            32.3            10.66
+    29        SUCCESS        3            13        0.3        7.03        12.15            15.2            2.56
+    38        SUCCESS        4            21        0.3        3.68        12.38            20.3            7.83
+    25        SUCCESS        4            24        0.3        8.25        13.9            15.9            5.08
+    12        SUCCESS        3            9        0.3        0.3        14.36            38.1            7.03
+    48        SUCCESS        4            17        0.3        11.78        16.92            4.4            4.63
+    44        SUCCESS        4            25        0.3        6.33        17.1            22.6            9.69
+    43        SUCCESS        3            10        0.3        5.62        17.35            32.1            5.86
+    16        SUCCESS        4            29        0.3        11.91        17.44            23.1            4.98
+    10        SUCCESS        4            28        0.3        10.01        17.55            24.2            6.78
+    41        SUCCESS        4            21        0.3        12.38        17.84            14            4.92
+    42        SUCCESS        4            18        0.3        8.96        17.96            24.4            8.1
+    34        SUCCESS        4            15        0.3        6.01        18.09            30            10.87
+    7        SUCCESS        4            20        0.3        9.67        18.39            36.1            7.85
+    20        SUCCESS        4            26        0.3        8.14        18.74            10.3            9.54
+    19        SUCCESS        4            19        0.3        6.44        18.88            23            11.19
+    18        SUCCESS        3            14        0.3        0.3        18.9            9.4            9.3
+    40        SUCCESS        3            7        0.3        0.3        19.01            20.4            9.36
+    30        SUCCESS        4            16        0.3        7.27        19.08            17.8            10.63
+    33        SUCCESS        4            23        0.3        9.78        20.37            13.1            9.53
+    17        SUCCESS        3            8        0.3        0.3        20.74            15.2            10.22
+    27        SUCCESS        3            5        0.3        0.3        22.19            10.6            10.94
+    21        SUCCESS        4            19        0.3        18.88        22.69            19.5            3.43
+    35        SUCCESS        4            22        0.3        12.04        22.8            3.8            9.69
+    46        SUCCESS        4            29        0.3        17.44        22.8            20.6            4.83
+    36        SUCCESS        4            24        0.3        13.9        22.91            10.3            8.12
+    37        SUCCESS        3            12        0.3        0.3        23.66            27.9            11.68
+    45        SUCCESS        4            25        0.3        17.1        24.02            20.7            6.23
+    49        SUCCESS        4            27        0.3        12.15        24.13            20.6            10.79
+    47        SUCCESS        4            28        0.3        17.55        24.28            30.4            6.05
+    23        SUCCESS        2            2        0.3        0.3        31.42            16            9.34
+makespan: 31.418
+LB: 8.447745505952069
+cost: 361.3554000000001
+
+WhaleQ Optimization Algorithm Example
