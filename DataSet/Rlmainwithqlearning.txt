@@ -1,0 +1,999 @@
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+0----------------------------------
+
+
+Received cloudlets: 0
+0.04 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+1----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+2----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+3----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+4----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+5----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+6----------------------------------
+
+
+Received cloudlets: 0
+0.04 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+7----------------------------------
+
+
+Received cloudlets: 0
+0.04 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+8----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+9----------------------------------
+
+
+Received cloudlets: 0
+0.04 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+10----------------------------------
+
+
+Received cloudlets: 0
+0.04 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 112866.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+11----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+12----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+13----------------------------------
+
+
+Received cloudlets: 0
+0.04 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+14----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+15----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+16----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+17----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+18----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+19----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 112866.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+20----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 112866.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+21----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+22----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+23----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+24----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 112866.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+25----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+26----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+27----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+28----------------------------------
+
+
+Received cloudlets: 0
+0.04 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+29----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+30----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+31----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+32----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+33----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+34----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+35----------------------------------
+
+
+Received cloudlets: 0
+0.04 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+36----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+37----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+38----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+39----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+40----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 112866.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+41----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 109046.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+42----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+43----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+44----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 112866.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+45----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+46----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+47----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+48----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+49----------------------------------
+
+
+Received cloudlets: 0
+0.04 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+50----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+51----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+52----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+53----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+54----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+55----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+56----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+57----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+58----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+59----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+60----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+61----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+62----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+63----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+64----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+65----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+66----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+67----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+68----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+69----------------------------------
+
+
+Received cloudlets: 0
+0.04 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+70----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+71----------------------------------
+
+
+Received cloudlets: 0
+0.04 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+72----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 112866.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+73----------------------------------
+
+
+Received cloudlets: 0
+0.04 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+74----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+75----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+76----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+77----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+78----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+79----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+80----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+81----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+82----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+83----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+84----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+85----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+86----------------------------------
+
+
+Received cloudlets: 0
+0.04 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 112866.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+87----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+88----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+89----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+90----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+91----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+92----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+93----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+94----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+95----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+96----------------------------------
+
+
+Received cloudlets: 0
+0.04 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 109046.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+97----------------------------------
+
+
+Received cloudlets: 0
+0.06 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+98----------------------------------
+
+
+Received cloudlets: 0
+0.05 kWh
+3
+Datacenter 0 energy consumption without kwh conversion: 117516.66666666666
+Datacenter 1 energy consumption without kwh conversion: 0.0
+Number of VM migrations: DC0 = 3, DC1 = 0
+
+99----------------------------------
