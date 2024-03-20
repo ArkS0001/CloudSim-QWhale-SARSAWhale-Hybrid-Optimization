@@ -1,3 +1,7 @@
+[SARSA VS QLEARNING](https://www.youtube.com/watch?v=-UohFVSjekI)
+
+[Qlearning](https://www.youtube.com/watch?v=MI8ByADMh20)
+
 Implementing Q-learning specifically within CloudSim, a cloud computing simulation framework, requires some adaptation. CloudSim provides the infrastructure for simulating cloud environments, but Q-learning logic would need to be implemented separately. Here's a rough outline of how you might integrate Q-learning with CloudSim:
 
     Setup CloudSim Environment:
