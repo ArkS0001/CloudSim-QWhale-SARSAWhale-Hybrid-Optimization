@@ -1,3 +1,4 @@
+[Q learning vs SARSA 4min](https://www.youtube.com/watch?v=UWiIxWy5kD8)
 [SARSA VS QLEARNING](https://www.youtube.com/watch?v=-UohFVSjekI)
 
 [Qlearning](https://www.youtube.com/watch?v=MI8ByADMh20)
