@@ -1,0 +1,1501 @@
+  Action: 1, Q-value: -0.17544733466970946
+  Action: 2, Q-value: -0.07569380362158577
+  Action: 3, Q-value: -0.11192884521625984
+  Action: 4, Q-value: -0.06383071885479051
+  Action: 5, Q-value: -0.15941985733277214
+  Action: 6, Q-value: -0.1101345645524292
+  Action: 7, Q-value: -0.17249256174055
+  Action: 8, Q-value: -0.1844677529325634
+  Action: 9, Q-value: -0.08089556861155915
+  Action: 0, Q-value: -0.2043949998066313
+State: org.cloudbus.cloudsim.examples.State3@7a0
+  Action: 6, Q-value: 0.1
+State: org.cloudbus.cloudsim.examples.State3@7a1
+  Action: 2, Q-value: -0.13822400166994087
+  Action: 3, Q-value: 0.6281014759124997
+  Action: 4, Q-value: -0.12953342953
+  Action: 8, Q-value: -0.10538930062438474
+  Action: 9, Q-value: 0.024201359024668134
+  Action: 0, Q-value: 0.03391939540912331
+State: org.cloudbus.cloudsim.examples.State3@fa1
+  Action: 2, Q-value: -0.11211342248532369
+  Action: 3, Q-value: 0.08737360290200312
+  Action: 4, Q-value: -0.17600352733615526
+  Action: 5, Q-value: -0.165943067749931
+  Action: 6, Q-value: 0.2498711415450253
+  Action: 7, Q-value: 0.0864671172717189
+  Action: 9, Q-value: 0.07340492778489915
+  Action: 0, Q-value: -0.08717955685496322
+State: org.cloudbus.cloudsim.examples.State3@7a2
+  Action: 5, Q-value: 0.3564197844150399
+  Action: 8, Q-value: -0.1
+State: org.cloudbus.cloudsim.examples.State3@fa2
+  Action: 1, Q-value: -0.13950945679633203
+  Action: 2, Q-value: -0.11744948549661967
+  Action: 4, Q-value: -0.10897609244128285
+  Action: 5, Q-value: -0.09392096347210127
+  Action: 6, Q-value: -0.42776504408365423
+  Action: 7, Q-value: -0.08796761843441764
+  Action: 8, Q-value: -0.42241295199423423
+State: org.cloudbus.cloudsim.examples.State3@7a3
+  Action: 1, Q-value: -0.02683299953058771
+  Action: 3, Q-value: -0.17589316372993197
+  Action: 4, Q-value: -0.37607987067093773
+  Action: 5, Q-value: -0.1584957297835723
+  Action: 8, Q-value: -7.440785878889411E-4
+  Action: 9, Q-value: 0.005682040802688082
+  Action: 0, Q-value: -0.18799955414171038
+State: org.cloudbus.cloudsim.examples.State3@fa3
+  Action: 1, Q-value: 0.040499055252436134
+  Action: 4, Q-value: -0.08770511876998098
+  Action: 5, Q-value: 0.5030194779534323
+  Action: 7, Q-value: -0.1884149533809902
+  Action: 9, Q-value: -0.011954488352350967
+State: org.cloudbus.cloudsim.examples.State3@7a4
+  Action: 1, Q-value: -0.22680340278912603
+  Action: 4, Q-value: -0.06477959990702337
+  Action: 5, Q-value: -0.06040774769490312
+  Action: 6, Q-value: -0.1216481876658932
+  Action: 7, Q-value: 0.7623587478030621
+  Action: 8, Q-value: -0.07879090230536775
+  Action: 0, Q-value: -0.18232655463147643
+State: org.cloudbus.cloudsim.examples.State3@fa4
+  Action: 1, Q-value: 0.06754485030998601
+  Action: 2, Q-value: -0.09473885372303381
+  Action: 3, Q-value: -0.11392864745918056
+  Action: 4, Q-value: -0.03822768142707494
+  Action: 5, Q-value: -0.0617678155074871
+  Action: 7, Q-value: 0.30311409704759845
+  Action: 8, Q-value: -0.08837741563370316
+  Action: 9, Q-value: -0.12519932686563673
+  Action: 0, Q-value: -0.09458175476843593
+State: org.cloudbus.cloudsim.examples.State3@fa5
+  Action: 3, Q-value: -0.08054112522867884
+  Action: 4, Q-value: -0.17272862015656776
+  Action: 8, Q-value: -0.020720746243193228
+State: org.cloudbus.cloudsim.examples.State3@7a5
+  Action: 1, Q-value: 0.1
+  Action: 2, Q-value: -0.012401311200749013
+  Action: 3, Q-value: 0.13556985603257288
+  Action: 5, Q-value: -0.15849507559619552
+  Action: 6, Q-value: 0.051363672274489985
+  Action: 8, Q-value: -0.015080683513504639
+  Action: 9, Q-value: -0.07561000000000001
+State: org.cloudbus.cloudsim.examples.State3@7a6
+  Action: 2, Q-value: -0.13108949121684693
+  Action: 3, Q-value: -0.08802660187951217
+  Action: 4, Q-value: -0.11335912182292071
+  Action: 5, Q-value: -0.20235468408248541
+  Action: 6, Q-value: -0.18525345616061956
+  Action: 8, Q-value: -0.1
+  Action: 0, Q-value: 0.4357815639379008
+State: org.cloudbus.cloudsim.examples.State3@fa6
+  Action: 1, Q-value: 0.021088744378662483
+  Action: 2, Q-value: -0.06659529186085682
+  Action: 3, Q-value: -0.042082315332080206
+  Action: 5, Q-value: 0.10723301242845257
+  Action: 7, Q-value: -0.23293671191335877
+  Action: 9, Q-value: -0.07811837817174534
+State: org.cloudbus.cloudsim.examples.State3@fa7
+  Action: 3, Q-value: -0.20788737666380724
+  Action: 7, Q-value: 0.331425702810332
+  Action: 0, Q-value: -0.13107721276445455
+State: org.cloudbus.cloudsim.examples.State3@7a7
+  Action: 2, Q-value: -0.08274936214000156
+  Action: 3, Q-value: -0.1
+  Action: 5, Q-value: -0.03642574607051617
+  Action: 6, Q-value: -0.17114814756652197
+  Action: 7, Q-value: 0.22520333613980625
+  Action: 8, Q-value: -0.06900630779804524
+  Action: 9, Q-value: -0.04580000000000001
+  Action: 0, Q-value: -0.057993127469380845
+State: org.cloudbus.cloudsim.examples.State3@7a8
+  Action: 1, Q-value: 0.11715773735324625
+  Action: 5, Q-value: -0.08320827872558242
+  Action: 6, Q-value: 0.12829700929772586
+  Action: 9, Q-value: 0.4769313225037334
+State: org.cloudbus.cloudsim.examples.State3@fa8
+  Action: 3, Q-value: 0.02600511295180792
+  Action: 4, Q-value: -0.050326051124888666
+  Action: 6, Q-value: -0.09020108823434507
+  Action: 9, Q-value: 0.5163039641569076
+State: org.cloudbus.cloudsim.examples.State3@7a9
+  Action: 5, Q-value: -0.11718110371990455
+State: org.cloudbus.cloudsim.examples.State3@7aa
+  Action: 2, Q-value: -0.0651666363958903
+  Action: 3, Q-value: -0.061903342379547685
+  Action: 4, Q-value: 0.24901777323809487
+  Action: 5, Q-value: -0.08056618908389482
+  Action: 6, Q-value: -0.027213743283658734
+  Action: 8, Q-value: -0.027841951793444897
+State: org.cloudbus.cloudsim.examples.State3@fbd
+  Action: 0, Q-value: 0.1
+State: org.cloudbus.cloudsim.examples.State3@fbe
+  Action: 5, Q-value: -0.15463917754249487
+  Action: 8, Q-value: 0.1148342736764426
+  Action: 0, Q-value: -0.48528672093010006
+State: org.cloudbus.cloudsim.examples.State3@fbf
+  Action: 2, Q-value: 0.32512787787678354
+State: org.cloudbus.cloudsim.examples.State3@7bf
+  Action: 6, Q-value: -0.1
+State: org.cloudbus.cloudsim.examples.State3@fc0
+  Action: 2, Q-value: 0.1205755978335823
+  Action: 3, Q-value: -0.198020017149211
+  Action: 4, Q-value: -0.18404238698124736
+  Action: 5, Q-value: -0.1785290505306774
+  Action: 6, Q-value: 0.4695397218173469
+  Action: 8, Q-value: -0.2257136292748278
+  Action: 9, Q-value: -0.25156896754695696
+State: org.cloudbus.cloudsim.examples.State3@7c0
+  Action: 1, Q-value: 0.11848399586624692
+  Action: 6, Q-value: -0.2966156049385949
+  Action: 7, Q-value: 0.010632237038589204
+  Action: 9, Q-value: -0.2761608506934671
+State: org.cloudbus.cloudsim.examples.State3@fc1
+  Action: 1, Q-value: -0.01123493226613978
+  Action: 3, Q-value: -0.1
+  Action: 5, Q-value: -0.05089589176507514
+  Action: 6, Q-value: -0.02754490453165756
+  Action: 7, Q-value: -0.010059435731084365
+  Action: 8, Q-value: -0.04956523132266895
+  Action: 9, Q-value: -0.098255556842009
+  Action: 0, Q-value: -0.06147409423895453
+State: org.cloudbus.cloudsim.examples.State3@7c1
+  Action: 1, Q-value: -0.06025339851583092
+  Action: 2, Q-value: -0.199
+  Action: 3, Q-value: -0.057335120186974356
+  Action: 4, Q-value: -0.054259023097049636
+  Action: 5, Q-value: -0.08753409348109988
+  Action: 6, Q-value: -0.13729109530125932
+  Action: 7, Q-value: -0.08073562614600276
+  Action: 8, Q-value: -0.0655631822520882
+  Action: 9, Q-value: -0.09667192380589584
+  Action: 0, Q-value: -0.16801179495672938
+State: org.cloudbus.cloudsim.examples.State3@7c2
+  Action: 5, Q-value: 0.7670383825886334
+State: org.cloudbus.cloudsim.examples.State3@fc2
+  Action: 2, Q-value: 0.47650866283645477
+  Action: 7, Q-value: -0.10562291023180209
+  Action: 9, Q-value: -0.20506950774260851
+State: org.cloudbus.cloudsim.examples.State3@7c3
+  Action: 1, Q-value: -0.10915375915863103
+  Action: 2, Q-value: -0.10048664487333037
+  Action: 3, Q-value: -0.10889109051663884
+  Action: 4, Q-value: -0.20881144913059507
+  Action: 5, Q-value: -0.16821779382650207
+  Action: 6, Q-value: -0.16605398160317086
+  Action: 7, Q-value: -0.033732116257535194
+  Action: 8, Q-value: -0.12688089308599787
+  Action: 9, Q-value: -0.22782646826052622
+  Action: 0, Q-value: -0.015295894105176941
+State: org.cloudbus.cloudsim.examples.State3@fc3
+  Action: 1, Q-value: 0.3958000677604927
+  Action: 2, Q-value: -0.009533187900945567
+  Action: 3, Q-value: 0.0045579793147627334
+  Action: 4, Q-value: -0.09896350623335
+  Action: 5, Q-value: -0.030188417599572873
+  Action: 7, Q-value: 0.009027758743300252
+  Action: 9, Q-value: -0.22458275381956097
+  Action: 0, Q-value: -0.10665100000000001
+State: org.cloudbus.cloudsim.examples.State3@7c4
+  Action: 8, Q-value: -0.03578401934100835
+State: org.cloudbus.cloudsim.examples.State3@fc4
+  Action: 1, Q-value: -0.09847838441355047
+  Action: 3, Q-value: 0.2570227022981445
+  Action: 4, Q-value: -0.11427445387100679
+  Action: 5, Q-value: -0.14948017519544385
+  Action: 6, Q-value: -0.18476894247485964
+  Action: 7, Q-value: 0.019984106724521222
+  Action: 8, Q-value: -0.1784641699959033
+  Action: 9, Q-value: -0.045403383611356346
+  Action: 0, Q-value: -0.05381427154446561
+State: org.cloudbus.cloudsim.examples.State3@fc5
+  Action: 1, Q-value: -0.09928019391503216
+  Action: 3, Q-value: -0.07287897496715354
+  Action: 5, Q-value: -0.07976733026015731
+  Action: 6, Q-value: 0.41236938904364967
+  Action: 7, Q-value: 0.009825173969733425
+State: org.cloudbus.cloudsim.examples.State3@7c5
+  Action: 1, Q-value: -0.001669398591054902
+  Action: 2, Q-value: -0.07831209060781695
+  Action: 6, Q-value: -0.04935228556124484
+  Action: 7, Q-value: 0.2090376568739841
+  Action: 8, Q-value: 0.05502274700456103
+  Action: 9, Q-value: 0.04190761665466455
+  Action: 0, Q-value: -0.34760645367965176
+State: org.cloudbus.cloudsim.examples.State3@fc6
+  Action: 1, Q-value: -0.2053072527959645
+  Action: 2, Q-value: -0.13601207444460034
+  Action: 3, Q-value: 0.40990995084057286
+  Action: 4, Q-value: -0.14171944933227554
+  Action: 7, Q-value: -0.15598223310314066
+  Action: 8, Q-value: -0.22983912903388465
+  Action: 0, Q-value: -0.17712388467805976
+State: org.cloudbus.cloudsim.examples.State3@7c6
+  Action: 1, Q-value: 0.015984115354350542
+  Action: 2, Q-value: -0.0354775730625142
+  Action: 5, Q-value: 0.1599206478378496
+State: org.cloudbus.cloudsim.examples.State3@7c7
+  Action: 1, Q-value: -0.018875849353505003
+  Action: 3, Q-value: -0.11281469865454291
+  Action: 7, Q-value: -0.08797529217934533
+  Action: 8, Q-value: -0.15634691610305887
+  Action: 0, Q-value: 0.3877810043447066
+State: org.cloudbus.cloudsim.examples.State3@fc7
+  Action: 1, Q-value: 0.13828693029132225
+  Action: 3, Q-value: -0.1338379204082854
+  Action: 4, Q-value: -0.15931374575623328
+  Action: 5, Q-value: -0.15766075017170483
+  Action: 6, Q-value: -0.12009829774739504
+  Action: 8, Q-value: -0.26688655990976695
+  Action: 9, Q-value: -0.19898226910000003
+State: org.cloudbus.cloudsim.examples.State3@7c8
+  Action: 1, Q-value: 0.1260489806969475
+  Action: 2, Q-value: -0.01727521955634692
+  Action: 3, Q-value: 0.03541494365965106
+  Action: 4, Q-value: 0.039382154741425576
+  Action: 5, Q-value: -0.013004632737771957
+  Action: 7, Q-value: 0.005714223539324104
+  Action: 9, Q-value: -0.003770697939132081
+  Action: 0, Q-value: 0.32659847019183097
+State: org.cloudbus.cloudsim.examples.State3@7c9
+  Action: 4, Q-value: -0.2740115438726325
+  Action: 5, Q-value: -0.18985952320293242
+  Action: 6, Q-value: -0.06395928259051052
+  Action: 8, Q-value: 0.38088507908972435
+  Action: 9, Q-value: -0.2862936706172631
+  Action: 0, Q-value: -0.3205761919652915
+State: org.cloudbus.cloudsim.examples.State3@7de
+  Action: 9, Q-value: -0.1
+State: org.cloudbus.cloudsim.examples.State3@7df
+  Action: 1, Q-value: -0.0977694089419
+  Action: 3, Q-value: 0.10077695447430074
+  Action: 4, Q-value: 0.346035929705352
+  Action: 5, Q-value: 0.11775561576043635
+  Action: 9, Q-value: 0.0922730496335747
+State: org.cloudbus.cloudsim.examples.State3@7e0
+  Action: 1, Q-value: -0.6349044028395783
+  Action: 2, Q-value: -0.10018154477970248
+  Action: 3, Q-value: -0.08019156566476066
+  Action: 4, Q-value: -0.09842241151410426
+  Action: 5, Q-value: 0.028640739888060845
+  Action: 6, Q-value: 0.08112321182562615
+  Action: 7, Q-value: 0.0359539837531751
+  Action: 8, Q-value: 0.21575102266193077
+  Action: 9, Q-value: 0.04496843277525932
+State: org.cloudbus.cloudsim.examples.State3@7e1
+  Action: 4, Q-value: -0.11694715447797024
+  Action: 6, Q-value: 0.1291829861728549
+  Action: 0, Q-value: 0.2776276013339363
+State: org.cloudbus.cloudsim.examples.State3@7e2
+  Action: 1, Q-value: -0.07281286321741899
+  Action: 2, Q-value: -0.03705450254529623
+  Action: 3, Q-value: -0.2969634215487331
+  Action: 4, Q-value: -0.38257465375672695
+  Action: 8, Q-value: -0.08139647482833173
+  Action: 9, Q-value: -0.11251781682215241
+State: org.cloudbus.cloudsim.examples.State3@7e3
+  Action: 1, Q-value: -0.25305051743371
+  Action: 2, Q-value: -0.27048824382807085
+  Action: 3, Q-value: -0.059989910241398936
+  Action: 4, Q-value: -0.276045537146457
+  Action: 5, Q-value: -0.22458281301108493
+  Action: 6, Q-value: -0.287128
+  Action: 7, Q-value: -0.2740685569719342
+  Action: 8, Q-value: -0.2823360280614943
+  Action: 9, Q-value: -0.21268961158724087
+State: org.cloudbus.cloudsim.examples.State3@7e4
+  Action: 1, Q-value: -0.15784194850932928
+  Action: 2, Q-value: -0.1
+  Action: 3, Q-value: -0.19895295105932637
+  Action: 4, Q-value: 0.3248208414857057
+  Action: 5, Q-value: -0.2783508079364845
+  Action: 6, Q-value: -0.1070251401041386
+  Action: 9, Q-value: -0.056640467707589
+  Action: 0, Q-value: -0.136612459991444
+State: org.cloudbus.cloudsim.examples.State3@7e5
+  Action: 1, Q-value: 0.056736932845353236
+  Action: 2, Q-value: -0.2156774756659326
+  Action: 5, Q-value: -0.23186872814073817
+  Action: 7, Q-value: 0.04880453489756323
+  Action: 8, Q-value: -0.09849864638380973
+  Action: 9, Q-value: 0.4932917702583694
+  Action: 0, Q-value: -0.10249226542617522
+State: org.cloudbus.cloudsim.examples.State3@7e6
+  Action: 1, Q-value: 0.016652596730545935
+  Action: 3, Q-value: -0.10274266087006932
+  Action: 4, Q-value: 0.3117957607762363
+  Action: 5, Q-value: -0.10497483443823877
+  Action: 6, Q-value: -0.00215101105884441
+  Action: 7, Q-value: -0.14754776669812747
+  Action: 8, Q-value: 0.041662510563313035
+  Action: 9, Q-value: -0.08300054702754796
+  Action: 0, Q-value: -0.049870265392645705
+State: org.cloudbus.cloudsim.examples.State3@7e7
+  Action: 2, Q-value: -0.19381089781043903
+  Action: 5, Q-value: 0.08092736044773524
+  Action: 8, Q-value: -0.22708998995458868
+State: org.cloudbus.cloudsim.examples.State3@7e8
+  Action: 1, Q-value: 0.19322689752079542
+  Action: 2, Q-value: -0.19495996188168396
+  Action: 3, Q-value: -0.15866494113497281
+  Action: 4, Q-value: -0.18299170148630628
+  Action: 5, Q-value: -0.24190675558036562
+  Action: 7, Q-value: -0.18430400875246547
+  Action: 8, Q-value: -0.15098745107415976
+  Action: 9, Q-value: -0.2932559314214578
+State: org.cloudbus.cloudsim.examples.State3@7fd
+  Action: 6, Q-value: 0.1
+State: org.cloudbus.cloudsim.examples.State3@7fe
+  Action: 1, Q-value: -0.03907078903950699
+  Action: 3, Q-value: -0.2966659578448545
+  Action: 4, Q-value: -0.0656738542419442
+  Action: 6, Q-value: -0.007855445622661703
+  Action: 7, Q-value: -0.23262683650082433
+  Action: 8, Q-value: 0.3952829668725936
+  Action: 9, Q-value: -0.04271000412683995
+  Action: 0, Q-value: -0.11691948013968592
+State: org.cloudbus.cloudsim.examples.State3@7ff
+  Action: 1, Q-value: -0.2238704242402266
+  Action: 2, Q-value: 0.35498007279552024
+  Action: 3, Q-value: -0.12891504879590487
+  Action: 4, Q-value: 0.04253309116499837
+  Action: 6, Q-value: -0.1326388375611045
+  Action: 8, Q-value: 0.09201329640541672
+  Action: 9, Q-value: -0.18051490000000003
+========== START ==========
+Starting CloudSim version 3.0
+Datacenter0 is starting...
+Datacenter1 is starting...
+Datacenter2 is starting...
+Broker is starting...
+Entities started.
+0.0: Broker: Cloud Resource List received with 3 resource(s)
+0.0: Broker: Trying to Create VM #0 in Datacenter0
+0.0: Broker: Trying to Create VM #1 in Datacenter0
+0.0: Broker: Trying to Create VM #2 in Datacenter0
+0.0: Broker: Trying to Create VM #3 in Datacenter0
+0.0: Broker: Trying to Create VM #4 in Datacenter0
+0.0: Broker: Trying to Create VM #5 in Datacenter0
+0.0: Broker: Trying to Create VM #6 in Datacenter0
+0.0: Broker: Trying to Create VM #7 in Datacenter0
+0.0: Broker: Trying to Create VM #8 in Datacenter0
+0.0: Broker: Trying to Create VM #9 in Datacenter0
+0.0: Broker: Trying to Create VM #10 in Datacenter0
+0.0: Broker: Trying to Create VM #11 in Datacenter0
+0.0: Broker: Trying to Create VM #12 in Datacenter0
+0.0: Broker: Trying to Create VM #13 in Datacenter0
+0.0: Broker: Trying to Create VM #14 in Datacenter0
+0.0: Broker: Trying to Create VM #15 in Datacenter0
+0.0: Broker: Trying to Create VM #16 in Datacenter0
+0.0: Broker: Trying to Create VM #17 in Datacenter0
+0.0: Broker: Trying to Create VM #18 in Datacenter0
+0.0: Broker: Trying to Create VM #19 in Datacenter0
+0.0: Broker: Trying to Create VM #20 in Datacenter0
+0.0: Broker: Trying to Create VM #21 in Datacenter0
+0.0: Broker: Trying to Create VM #22 in Datacenter0
+0.0: Broker: Trying to Create VM #23 in Datacenter0
+0.0: Broker: Trying to Create VM #24 in Datacenter0
+0.0: Broker: Trying to Create VM #25 in Datacenter0
+0.0: Broker: Trying to Create VM #26 in Datacenter0
+0.0: Broker: Trying to Create VM #27 in Datacenter0
+0.0: Broker: Trying to Create VM #28 in Datacenter0
+0.0: Broker: Trying to Create VM #29 in Datacenter0
+0.0: Broker: Trying to Create VM #30 in Datacenter0
+0.0: Broker: Trying to Create VM #31 in Datacenter0
+0.0: Broker: Trying to Create VM #32 in Datacenter0
+0.0: Broker: Trying to Create VM #33 in Datacenter0
+0.0: Broker: Trying to Create VM #34 in Datacenter0
+0.0: Broker: Trying to Create VM #35 in Datacenter0
+0.0: Broker: Trying to Create VM #36 in Datacenter0
+0.0: Broker: Trying to Create VM #37 in Datacenter0
+0.0: Broker: Trying to Create VM #38 in Datacenter0
+0.0: Broker: Trying to Create VM #39 in Datacenter0
+0.0: Broker: Trying to Create VM #40 in Datacenter0
+0.0: Broker: Trying to Create VM #41 in Datacenter0
+0.0: Broker: Trying to Create VM #42 in Datacenter0
+0.0: Broker: Trying to Create VM #43 in Datacenter0
+0.0: Broker: Trying to Create VM #44 in Datacenter0
+0.0: Broker: Trying to Create VM #45 in Datacenter0
+0.0: Broker: Trying to Create VM #46 in Datacenter0
+0.0: Broker: Trying to Create VM #47 in Datacenter0
+0.0: Broker: Trying to Create VM #48 in Datacenter0
+0.0: Broker: Trying to Create VM #49 in Datacenter0
+0.0: Broker: Trying to Create VM #50 in Datacenter0
+0.0: Broker: Trying to Create VM #51 in Datacenter0
+0.0: Broker: Trying to Create VM #52 in Datacenter0
+0.0: Broker: Trying to Create VM #53 in Datacenter0
+0.0: Broker: Trying to Create VM #54 in Datacenter0
+0.0: Broker: Trying to Create VM #55 in Datacenter0
+0.0: Broker: Trying to Create VM #56 in Datacenter0
+0.0: Broker: Trying to Create VM #57 in Datacenter0
+0.0: Broker: Trying to Create VM #58 in Datacenter0
+0.0: Broker: Trying to Create VM #59 in Datacenter0
+0.0: Broker: Trying to Create VM #60 in Datacenter0
+0.0: Broker: Trying to Create VM #61 in Datacenter0
+0.0: Broker: Trying to Create VM #62 in Datacenter0
+0.0: Broker: Trying to Create VM #63 in Datacenter0
+0.0: Broker: Trying to Create VM #64 in Datacenter0
+0.0: Broker: Trying to Create VM #65 in Datacenter0
+0.0: Broker: Trying to Create VM #66 in Datacenter0
+0.0: Broker: Trying to Create VM #67 in Datacenter0
+0.0: Broker: Trying to Create VM #68 in Datacenter0
+0.0: Broker: Trying to Create VM #69 in Datacenter0
+0.0: Broker: Trying to Create VM #70 in Datacenter0
+0.0: Broker: Trying to Create VM #71 in Datacenter0
+0.0: Broker: Trying to Create VM #72 in Datacenter0
+0.0: Broker: Trying to Create VM #73 in Datacenter0
+0.0: Broker: Trying to Create VM #74 in Datacenter0
+0.0: Broker: Trying to Create VM #75 in Datacenter0
+0.0: Broker: Trying to Create VM #76 in Datacenter0
+0.0: Broker: Trying to Create VM #77 in Datacenter0
+0.0: Broker: Trying to Create VM #78 in Datacenter0
+0.0: Broker: Trying to Create VM #79 in Datacenter0
+0.0: Broker: Trying to Create VM #80 in Datacenter0
+0.0: Broker: Trying to Create VM #81 in Datacenter0
+0.0: Broker: Trying to Create VM #82 in Datacenter0
+0.0: Broker: Trying to Create VM #83 in Datacenter0
+0.0: Broker: Trying to Create VM #84 in Datacenter0
+0.0: Broker: Trying to Create VM #85 in Datacenter0
+0.0: Broker: Trying to Create VM #86 in Datacenter0
+0.0: Broker: Trying to Create VM #87 in Datacenter0
+0.0: Broker: Trying to Create VM #88 in Datacenter0
+0.0: Broker: Trying to Create VM #89 in Datacenter0
+0.0: Broker: Trying to Create VM #90 in Datacenter0
+0.0: Broker: Trying to Create VM #91 in Datacenter0
+0.0: Broker: Trying to Create VM #92 in Datacenter0
+0.0: Broker: Trying to Create VM #93 in Datacenter0
+0.0: Broker: Trying to Create VM #94 in Datacenter0
+0.0: Broker: Trying to Create VM #95 in Datacenter0
+0.0: Broker: Trying to Create VM #96 in Datacenter0
+0.0: Broker: Trying to Create VM #97 in Datacenter0
+0.0: Broker: Trying to Create VM #98 in Datacenter0
+0.0: Broker: Trying to Create VM #99 in Datacenter0
+[VmScheduler.vmCreate] Allocation of VM #10 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #11 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #12 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #13 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #14 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #15 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #16 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #17 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #18 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #19 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #20 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #21 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #22 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #23 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #24 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #25 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #26 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #27 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #28 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #29 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #30 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #31 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #32 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #33 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #34 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #35 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #36 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #37 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #38 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #39 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #40 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #41 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #42 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #43 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #44 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #45 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #46 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #47 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #48 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #49 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #50 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #51 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #52 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #53 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #54 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #55 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #56 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #57 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #58 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #59 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #60 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #61 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #62 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #63 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #64 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #65 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #66 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #67 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #68 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #69 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #70 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #71 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #72 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #73 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #74 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #75 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #76 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #77 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #78 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #79 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #80 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #81 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #82 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #83 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #84 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #85 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #86 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #87 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #88 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #89 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #90 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #91 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #92 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #93 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #94 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #95 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #96 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #97 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #98 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #99 to Host #0 failed by RAM
+0.1: Broker: VM #0 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #1 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #2 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #3 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #4 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #5 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #6 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #7 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #8 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #9 has been created in Datacenter #2, Host #0
+0.1: Broker: Creation of VM #10 failed in Datacenter #2
+0.1: Broker: Creation of VM #11 failed in Datacenter #2
+0.1: Broker: Creation of VM #12 failed in Datacenter #2
+0.1: Broker: Creation of VM #13 failed in Datacenter #2
+0.1: Broker: Creation of VM #14 failed in Datacenter #2
+0.1: Broker: Creation of VM #15 failed in Datacenter #2
+0.1: Broker: Creation of VM #16 failed in Datacenter #2
+0.1: Broker: Creation of VM #17 failed in Datacenter #2
+0.1: Broker: Creation of VM #18 failed in Datacenter #2
+0.1: Broker: Creation of VM #19 failed in Datacenter #2
+0.1: Broker: Creation of VM #20 failed in Datacenter #2
+0.1: Broker: Creation of VM #21 failed in Datacenter #2
+0.1: Broker: Creation of VM #22 failed in Datacenter #2
+0.1: Broker: Creation of VM #23 failed in Datacenter #2
+0.1: Broker: Creation of VM #24 failed in Datacenter #2
+0.1: Broker: Creation of VM #25 failed in Datacenter #2
+0.1: Broker: Creation of VM #26 failed in Datacenter #2
+0.1: Broker: Creation of VM #27 failed in Datacenter #2
+0.1: Broker: Creation of VM #28 failed in Datacenter #2
+0.1: Broker: Creation of VM #29 failed in Datacenter #2
+0.1: Broker: Creation of VM #30 failed in Datacenter #2
+0.1: Broker: Creation of VM #31 failed in Datacenter #2
+0.1: Broker: Creation of VM #32 failed in Datacenter #2
+0.1: Broker: Creation of VM #33 failed in Datacenter #2
+0.1: Broker: Creation of VM #34 failed in Datacenter #2
+0.1: Broker: Creation of VM #35 failed in Datacenter #2
+0.1: Broker: Creation of VM #36 failed in Datacenter #2
+0.1: Broker: Creation of VM #37 failed in Datacenter #2
+0.1: Broker: Creation of VM #38 failed in Datacenter #2
+0.1: Broker: Creation of VM #39 failed in Datacenter #2
+0.1: Broker: Creation of VM #40 failed in Datacenter #2
+0.1: Broker: Creation of VM #41 failed in Datacenter #2
+0.1: Broker: Creation of VM #42 failed in Datacenter #2
+0.1: Broker: Creation of VM #43 failed in Datacenter #2
+0.1: Broker: Creation of VM #44 failed in Datacenter #2
+0.1: Broker: Creation of VM #45 failed in Datacenter #2
+0.1: Broker: Creation of VM #46 failed in Datacenter #2
+0.1: Broker: Creation of VM #47 failed in Datacenter #2
+0.1: Broker: Creation of VM #48 failed in Datacenter #2
+0.1: Broker: Creation of VM #49 failed in Datacenter #2
+0.1: Broker: Creation of VM #50 failed in Datacenter #2
+0.1: Broker: Creation of VM #51 failed in Datacenter #2
+0.1: Broker: Creation of VM #52 failed in Datacenter #2
+0.1: Broker: Creation of VM #53 failed in Datacenter #2
+0.1: Broker: Creation of VM #54 failed in Datacenter #2
+0.1: Broker: Creation of VM #55 failed in Datacenter #2
+0.1: Broker: Creation of VM #56 failed in Datacenter #2
+0.1: Broker: Creation of VM #57 failed in Datacenter #2
+0.1: Broker: Creation of VM #58 failed in Datacenter #2
+0.1: Broker: Creation of VM #59 failed in Datacenter #2
+0.1: Broker: Creation of VM #60 failed in Datacenter #2
+0.1: Broker: Creation of VM #61 failed in Datacenter #2
+0.1: Broker: Creation of VM #62 failed in Datacenter #2
+0.1: Broker: Creation of VM #63 failed in Datacenter #2
+0.1: Broker: Creation of VM #64 failed in Datacenter #2
+0.1: Broker: Creation of VM #65 failed in Datacenter #2
+0.1: Broker: Creation of VM #66 failed in Datacenter #2
+0.1: Broker: Creation of VM #67 failed in Datacenter #2
+0.1: Broker: Creation of VM #68 failed in Datacenter #2
+0.1: Broker: Creation of VM #69 failed in Datacenter #2
+0.1: Broker: Creation of VM #70 failed in Datacenter #2
+0.1: Broker: Creation of VM #71 failed in Datacenter #2
+0.1: Broker: Creation of VM #72 failed in Datacenter #2
+0.1: Broker: Creation of VM #73 failed in Datacenter #2
+0.1: Broker: Creation of VM #74 failed in Datacenter #2
+0.1: Broker: Creation of VM #75 failed in Datacenter #2
+0.1: Broker: Creation of VM #76 failed in Datacenter #2
+0.1: Broker: Creation of VM #77 failed in Datacenter #2
+0.1: Broker: Creation of VM #78 failed in Datacenter #2
+0.1: Broker: Creation of VM #79 failed in Datacenter #2
+0.1: Broker: Creation of VM #80 failed in Datacenter #2
+0.1: Broker: Creation of VM #81 failed in Datacenter #2
+0.1: Broker: Creation of VM #82 failed in Datacenter #2
+0.1: Broker: Creation of VM #83 failed in Datacenter #2
+0.1: Broker: Creation of VM #84 failed in Datacenter #2
+0.1: Broker: Creation of VM #85 failed in Datacenter #2
+0.1: Broker: Creation of VM #86 failed in Datacenter #2
+0.1: Broker: Creation of VM #87 failed in Datacenter #2
+0.1: Broker: Creation of VM #88 failed in Datacenter #2
+0.1: Broker: Creation of VM #89 failed in Datacenter #2
+0.1: Broker: Creation of VM #90 failed in Datacenter #2
+0.1: Broker: Creation of VM #91 failed in Datacenter #2
+0.1: Broker: Creation of VM #92 failed in Datacenter #2
+0.1: Broker: Creation of VM #93 failed in Datacenter #2
+0.1: Broker: Creation of VM #94 failed in Datacenter #2
+0.1: Broker: Creation of VM #95 failed in Datacenter #2
+0.1: Broker: Creation of VM #96 failed in Datacenter #2
+0.1: Broker: Creation of VM #97 failed in Datacenter #2
+0.1: Broker: Creation of VM #98 failed in Datacenter #2
+0.1: Broker: Creation of VM #99 failed in Datacenter #2
+0.1: Broker: Trying to Create VM #10 in Datacenter1
+0.1: Broker: Trying to Create VM #11 in Datacenter1
+0.1: Broker: Trying to Create VM #12 in Datacenter1
+0.1: Broker: Trying to Create VM #13 in Datacenter1
+0.1: Broker: Trying to Create VM #14 in Datacenter1
+0.1: Broker: Trying to Create VM #15 in Datacenter1
+0.1: Broker: Trying to Create VM #16 in Datacenter1
+0.1: Broker: Trying to Create VM #17 in Datacenter1
+0.1: Broker: Trying to Create VM #18 in Datacenter1
+0.1: Broker: Trying to Create VM #19 in Datacenter1
+0.1: Broker: Trying to Create VM #20 in Datacenter1
+0.1: Broker: Trying to Create VM #21 in Datacenter1
+0.1: Broker: Trying to Create VM #22 in Datacenter1
+0.1: Broker: Trying to Create VM #23 in Datacenter1
+0.1: Broker: Trying to Create VM #24 in Datacenter1
+0.1: Broker: Trying to Create VM #25 in Datacenter1
+0.1: Broker: Trying to Create VM #26 in Datacenter1
+0.1: Broker: Trying to Create VM #27 in Datacenter1
+0.1: Broker: Trying to Create VM #28 in Datacenter1
+0.1: Broker: Trying to Create VM #29 in Datacenter1
+0.1: Broker: Trying to Create VM #30 in Datacenter1
+0.1: Broker: Trying to Create VM #31 in Datacenter1
+0.1: Broker: Trying to Create VM #32 in Datacenter1
+0.1: Broker: Trying to Create VM #33 in Datacenter1
+0.1: Broker: Trying to Create VM #34 in Datacenter1
+0.1: Broker: Trying to Create VM #35 in Datacenter1
+0.1: Broker: Trying to Create VM #36 in Datacenter1
+0.1: Broker: Trying to Create VM #37 in Datacenter1
+0.1: Broker: Trying to Create VM #38 in Datacenter1
+0.1: Broker: Trying to Create VM #39 in Datacenter1
+0.1: Broker: Trying to Create VM #40 in Datacenter1
+0.1: Broker: Trying to Create VM #41 in Datacenter1
+0.1: Broker: Trying to Create VM #42 in Datacenter1
+0.1: Broker: Trying to Create VM #43 in Datacenter1
+0.1: Broker: Trying to Create VM #44 in Datacenter1
+0.1: Broker: Trying to Create VM #45 in Datacenter1
+0.1: Broker: Trying to Create VM #46 in Datacenter1
+0.1: Broker: Trying to Create VM #47 in Datacenter1
+0.1: Broker: Trying to Create VM #48 in Datacenter1
+0.1: Broker: Trying to Create VM #49 in Datacenter1
+0.1: Broker: Trying to Create VM #50 in Datacenter1
+0.1: Broker: Trying to Create VM #51 in Datacenter1
+0.1: Broker: Trying to Create VM #52 in Datacenter1
+0.1: Broker: Trying to Create VM #53 in Datacenter1
+0.1: Broker: Trying to Create VM #54 in Datacenter1
+0.1: Broker: Trying to Create VM #55 in Datacenter1
+0.1: Broker: Trying to Create VM #56 in Datacenter1
+0.1: Broker: Trying to Create VM #57 in Datacenter1
+0.1: Broker: Trying to Create VM #58 in Datacenter1
+0.1: Broker: Trying to Create VM #59 in Datacenter1
+0.1: Broker: Trying to Create VM #60 in Datacenter1
+0.1: Broker: Trying to Create VM #61 in Datacenter1
+0.1: Broker: Trying to Create VM #62 in Datacenter1
+0.1: Broker: Trying to Create VM #63 in Datacenter1
+0.1: Broker: Trying to Create VM #64 in Datacenter1
+0.1: Broker: Trying to Create VM #65 in Datacenter1
+0.1: Broker: Trying to Create VM #66 in Datacenter1
+0.1: Broker: Trying to Create VM #67 in Datacenter1
+0.1: Broker: Trying to Create VM #68 in Datacenter1
+0.1: Broker: Trying to Create VM #69 in Datacenter1
+0.1: Broker: Trying to Create VM #70 in Datacenter1
+0.1: Broker: Trying to Create VM #71 in Datacenter1
+0.1: Broker: Trying to Create VM #72 in Datacenter1
+0.1: Broker: Trying to Create VM #73 in Datacenter1
+0.1: Broker: Trying to Create VM #74 in Datacenter1
+0.1: Broker: Trying to Create VM #75 in Datacenter1
+0.1: Broker: Trying to Create VM #76 in Datacenter1
+0.1: Broker: Trying to Create VM #77 in Datacenter1
+0.1: Broker: Trying to Create VM #78 in Datacenter1
+0.1: Broker: Trying to Create VM #79 in Datacenter1
+0.1: Broker: Trying to Create VM #80 in Datacenter1
+0.1: Broker: Trying to Create VM #81 in Datacenter1
+0.1: Broker: Trying to Create VM #82 in Datacenter1
+0.1: Broker: Trying to Create VM #83 in Datacenter1
+0.1: Broker: Trying to Create VM #84 in Datacenter1
+0.1: Broker: Trying to Create VM #85 in Datacenter1
+0.1: Broker: Trying to Create VM #86 in Datacenter1
+0.1: Broker: Trying to Create VM #87 in Datacenter1
+0.1: Broker: Trying to Create VM #88 in Datacenter1
+0.1: Broker: Trying to Create VM #89 in Datacenter1
+0.1: Broker: Trying to Create VM #90 in Datacenter1
+0.1: Broker: Trying to Create VM #91 in Datacenter1
+0.1: Broker: Trying to Create VM #92 in Datacenter1
+0.1: Broker: Trying to Create VM #93 in Datacenter1
+0.1: Broker: Trying to Create VM #94 in Datacenter1
+0.1: Broker: Trying to Create VM #95 in Datacenter1
+0.1: Broker: Trying to Create VM #96 in Datacenter1
+0.1: Broker: Trying to Create VM #97 in Datacenter1
+0.1: Broker: Trying to Create VM #98 in Datacenter1
+0.1: Broker: Trying to Create VM #99 in Datacenter1
+[VmScheduler.vmCreate] Allocation of VM #20 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #21 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #22 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #23 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #24 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #25 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #26 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #27 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #28 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #29 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #30 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #31 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #32 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #33 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #34 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #35 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #36 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #37 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #38 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #39 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #40 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #41 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #42 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #43 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #44 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #45 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #46 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #47 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #48 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #49 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #50 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #51 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #52 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #53 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #54 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #55 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #56 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #57 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #58 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #59 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #60 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #61 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #62 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #63 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #64 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #65 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #66 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #67 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #68 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #69 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #70 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #71 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #72 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #73 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #74 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #75 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #76 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #77 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #78 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #79 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #80 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #81 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #82 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #83 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #84 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #85 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #86 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #87 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #88 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #89 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #90 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #91 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #92 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #93 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #94 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #95 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #96 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #97 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #98 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #99 to Host #0 failed by RAM
+0.2: Broker: VM #10 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #11 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #12 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #13 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #14 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #15 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #16 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #17 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #18 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #19 has been created in Datacenter #3, Host #0
+0.2: Broker: Creation of VM #20 failed in Datacenter #3
+0.2: Broker: Creation of VM #21 failed in Datacenter #3
+0.2: Broker: Creation of VM #22 failed in Datacenter #3
+0.2: Broker: Creation of VM #23 failed in Datacenter #3
+0.2: Broker: Creation of VM #24 failed in Datacenter #3
+0.2: Broker: Creation of VM #25 failed in Datacenter #3
+0.2: Broker: Creation of VM #26 failed in Datacenter #3
+0.2: Broker: Creation of VM #27 failed in Datacenter #3
+0.2: Broker: Creation of VM #28 failed in Datacenter #3
+0.2: Broker: Creation of VM #29 failed in Datacenter #3
+0.2: Broker: Creation of VM #30 failed in Datacenter #3
+0.2: Broker: Creation of VM #31 failed in Datacenter #3
+0.2: Broker: Creation of VM #32 failed in Datacenter #3
+0.2: Broker: Creation of VM #33 failed in Datacenter #3
+0.2: Broker: Creation of VM #34 failed in Datacenter #3
+0.2: Broker: Creation of VM #35 failed in Datacenter #3
+0.2: Broker: Creation of VM #36 failed in Datacenter #3
+0.2: Broker: Creation of VM #37 failed in Datacenter #3
+0.2: Broker: Creation of VM #38 failed in Datacenter #3
+0.2: Broker: Creation of VM #39 failed in Datacenter #3
+0.2: Broker: Creation of VM #40 failed in Datacenter #3
+0.2: Broker: Creation of VM #41 failed in Datacenter #3
+0.2: Broker: Creation of VM #42 failed in Datacenter #3
+0.2: Broker: Creation of VM #43 failed in Datacenter #3
+0.2: Broker: Creation of VM #44 failed in Datacenter #3
+0.2: Broker: Creation of VM #45 failed in Datacenter #3
+0.2: Broker: Creation of VM #46 failed in Datacenter #3
+0.2: Broker: Creation of VM #47 failed in Datacenter #3
+0.2: Broker: Creation of VM #48 failed in Datacenter #3
+0.2: Broker: Creation of VM #49 failed in Datacenter #3
+0.2: Broker: Creation of VM #50 failed in Datacenter #3
+0.2: Broker: Creation of VM #51 failed in Datacenter #3
+0.2: Broker: Creation of VM #52 failed in Datacenter #3
+0.2: Broker: Creation of VM #53 failed in Datacenter #3
+0.2: Broker: Creation of VM #54 failed in Datacenter #3
+0.2: Broker: Creation of VM #55 failed in Datacenter #3
+0.2: Broker: Creation of VM #56 failed in Datacenter #3
+0.2: Broker: Creation of VM #57 failed in Datacenter #3
+0.2: Broker: Creation of VM #58 failed in Datacenter #3
+0.2: Broker: Creation of VM #59 failed in Datacenter #3
+0.2: Broker: Creation of VM #60 failed in Datacenter #3
+0.2: Broker: Creation of VM #61 failed in Datacenter #3
+0.2: Broker: Creation of VM #62 failed in Datacenter #3
+0.2: Broker: Creation of VM #63 failed in Datacenter #3
+0.2: Broker: Creation of VM #64 failed in Datacenter #3
+0.2: Broker: Creation of VM #65 failed in Datacenter #3
+0.2: Broker: Creation of VM #66 failed in Datacenter #3
+0.2: Broker: Creation of VM #67 failed in Datacenter #3
+0.2: Broker: Creation of VM #68 failed in Datacenter #3
+0.2: Broker: Creation of VM #69 failed in Datacenter #3
+0.2: Broker: Creation of VM #70 failed in Datacenter #3
+0.2: Broker: Creation of VM #71 failed in Datacenter #3
+0.2: Broker: Creation of VM #72 failed in Datacenter #3
+0.2: Broker: Creation of VM #73 failed in Datacenter #3
+0.2: Broker: Creation of VM #74 failed in Datacenter #3
+0.2: Broker: Creation of VM #75 failed in Datacenter #3
+0.2: Broker: Creation of VM #76 failed in Datacenter #3
+0.2: Broker: Creation of VM #77 failed in Datacenter #3
+0.2: Broker: Creation of VM #78 failed in Datacenter #3
+0.2: Broker: Creation of VM #79 failed in Datacenter #3
+0.2: Broker: Creation of VM #80 failed in Datacenter #3
+0.2: Broker: Creation of VM #81 failed in Datacenter #3
+0.2: Broker: Creation of VM #82 failed in Datacenter #3
+0.2: Broker: Creation of VM #83 failed in Datacenter #3
+0.2: Broker: Creation of VM #84 failed in Datacenter #3
+0.2: Broker: Creation of VM #85 failed in Datacenter #3
+0.2: Broker: Creation of VM #86 failed in Datacenter #3
+0.2: Broker: Creation of VM #87 failed in Datacenter #3
+0.2: Broker: Creation of VM #88 failed in Datacenter #3
+0.2: Broker: Creation of VM #89 failed in Datacenter #3
+0.2: Broker: Creation of VM #90 failed in Datacenter #3
+0.2: Broker: Creation of VM #91 failed in Datacenter #3
+0.2: Broker: Creation of VM #92 failed in Datacenter #3
+0.2: Broker: Creation of VM #93 failed in Datacenter #3
+0.2: Broker: Creation of VM #94 failed in Datacenter #3
+0.2: Broker: Creation of VM #95 failed in Datacenter #3
+0.2: Broker: Creation of VM #96 failed in Datacenter #3
+0.2: Broker: Creation of VM #97 failed in Datacenter #3
+0.2: Broker: Creation of VM #98 failed in Datacenter #3
+0.2: Broker: Creation of VM #99 failed in Datacenter #3
+0.2: Broker: Trying to Create VM #20 in Datacenter2
+0.2: Broker: Trying to Create VM #21 in Datacenter2
+0.2: Broker: Trying to Create VM #22 in Datacenter2
+0.2: Broker: Trying to Create VM #23 in Datacenter2
+0.2: Broker: Trying to Create VM #24 in Datacenter2
+0.2: Broker: Trying to Create VM #25 in Datacenter2
+0.2: Broker: Trying to Create VM #26 in Datacenter2
+0.2: Broker: Trying to Create VM #27 in Datacenter2
+0.2: Broker: Trying to Create VM #28 in Datacenter2
+0.2: Broker: Trying to Create VM #29 in Datacenter2
+0.2: Broker: Trying to Create VM #30 in Datacenter2
+0.2: Broker: Trying to Create VM #31 in Datacenter2
+0.2: Broker: Trying to Create VM #32 in Datacenter2
+0.2: Broker: Trying to Create VM #33 in Datacenter2
+0.2: Broker: Trying to Create VM #34 in Datacenter2
+0.2: Broker: Trying to Create VM #35 in Datacenter2
+0.2: Broker: Trying to Create VM #36 in Datacenter2
+0.2: Broker: Trying to Create VM #37 in Datacenter2
+0.2: Broker: Trying to Create VM #38 in Datacenter2
+0.2: Broker: Trying to Create VM #39 in Datacenter2
+0.2: Broker: Trying to Create VM #40 in Datacenter2
+0.2: Broker: Trying to Create VM #41 in Datacenter2
+0.2: Broker: Trying to Create VM #42 in Datacenter2
+0.2: Broker: Trying to Create VM #43 in Datacenter2
+0.2: Broker: Trying to Create VM #44 in Datacenter2
+0.2: Broker: Trying to Create VM #45 in Datacenter2
+0.2: Broker: Trying to Create VM #46 in Datacenter2
+0.2: Broker: Trying to Create VM #47 in Datacenter2
+0.2: Broker: Trying to Create VM #48 in Datacenter2
+0.2: Broker: Trying to Create VM #49 in Datacenter2
+0.2: Broker: Trying to Create VM #50 in Datacenter2
+0.2: Broker: Trying to Create VM #51 in Datacenter2
+0.2: Broker: Trying to Create VM #52 in Datacenter2
+0.2: Broker: Trying to Create VM #53 in Datacenter2
+0.2: Broker: Trying to Create VM #54 in Datacenter2
+0.2: Broker: Trying to Create VM #55 in Datacenter2
+0.2: Broker: Trying to Create VM #56 in Datacenter2
+0.2: Broker: Trying to Create VM #57 in Datacenter2
+0.2: Broker: Trying to Create VM #58 in Datacenter2
+0.2: Broker: Trying to Create VM #59 in Datacenter2
+0.2: Broker: Trying to Create VM #60 in Datacenter2
+0.2: Broker: Trying to Create VM #61 in Datacenter2
+0.2: Broker: Trying to Create VM #62 in Datacenter2
+0.2: Broker: Trying to Create VM #63 in Datacenter2
+0.2: Broker: Trying to Create VM #64 in Datacenter2
+0.2: Broker: Trying to Create VM #65 in Datacenter2
+0.2: Broker: Trying to Create VM #66 in Datacenter2
+0.2: Broker: Trying to Create VM #67 in Datacenter2
+0.2: Broker: Trying to Create VM #68 in Datacenter2
+0.2: Broker: Trying to Create VM #69 in Datacenter2
+0.2: Broker: Trying to Create VM #70 in Datacenter2
+0.2: Broker: Trying to Create VM #71 in Datacenter2
+0.2: Broker: Trying to Create VM #72 in Datacenter2
+0.2: Broker: Trying to Create VM #73 in Datacenter2
+0.2: Broker: Trying to Create VM #74 in Datacenter2
+0.2: Broker: Trying to Create VM #75 in Datacenter2
+0.2: Broker: Trying to Create VM #76 in Datacenter2
+0.2: Broker: Trying to Create VM #77 in Datacenter2
+0.2: Broker: Trying to Create VM #78 in Datacenter2
+0.2: Broker: Trying to Create VM #79 in Datacenter2
+0.2: Broker: Trying to Create VM #80 in Datacenter2
+0.2: Broker: Trying to Create VM #81 in Datacenter2
+0.2: Broker: Trying to Create VM #82 in Datacenter2
+0.2: Broker: Trying to Create VM #83 in Datacenter2
+0.2: Broker: Trying to Create VM #84 in Datacenter2
+0.2: Broker: Trying to Create VM #85 in Datacenter2
+0.2: Broker: Trying to Create VM #86 in Datacenter2
+0.2: Broker: Trying to Create VM #87 in Datacenter2
+0.2: Broker: Trying to Create VM #88 in Datacenter2
+0.2: Broker: Trying to Create VM #89 in Datacenter2
+0.2: Broker: Trying to Create VM #90 in Datacenter2
+0.2: Broker: Trying to Create VM #91 in Datacenter2
+0.2: Broker: Trying to Create VM #92 in Datacenter2
+0.2: Broker: Trying to Create VM #93 in Datacenter2
+0.2: Broker: Trying to Create VM #94 in Datacenter2
+0.2: Broker: Trying to Create VM #95 in Datacenter2
+0.2: Broker: Trying to Create VM #96 in Datacenter2
+0.2: Broker: Trying to Create VM #97 in Datacenter2
+0.2: Broker: Trying to Create VM #98 in Datacenter2
+0.2: Broker: Trying to Create VM #99 in Datacenter2
+0.30000000000000004: Broker: VM #20 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #21 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #22 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #23 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #24 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #25 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #26 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #27 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #28 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #29 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #30 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #31 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #32 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #33 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #34 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #35 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #36 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #37 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #38 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #39 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #40 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #41 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #42 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #43 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #44 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #45 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #46 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #47 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #48 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #49 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #50 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #51 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #52 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #53 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #54 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #55 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #56 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #57 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #58 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #59 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #60 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #61 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #62 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #63 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #64 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #65 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #66 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #67 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #68 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #69 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #70 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #71 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #72 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #73 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #74 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #75 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #76 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #77 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #78 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #79 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #80 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #81 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #82 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #83 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #84 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #85 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #86 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #87 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #88 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #89 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #90 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #91 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #92 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #93 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #94 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #95 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #96 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #97 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #98 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #99 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: Sending cloudlet 0 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 1 to VM #3
+0.30000000000000004: Broker: Sending cloudlet 2 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 3 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 4 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 5 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 6 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 7 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 8 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 9 to VM #3
+0.30000000000000004: Broker: Sending cloudlet 10 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 11 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 12 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 13 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 14 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 15 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 16 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 17 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 18 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 19 to VM #3
+0.30000000000000004: Broker: Sending cloudlet 20 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 21 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 22 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 23 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 24 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 25 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 26 to VM #1
+0.30000000000000004: Broker: Sending cloudlet 27 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 28 to VM #3
+0.30000000000000004: Broker: Sending cloudlet 29 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 30 to VM #3
+0.30000000000000004: Broker: Sending cloudlet 31 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 32 to VM #3
+0.30000000000000004: Broker: Sending cloudlet 33 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 34 to VM #1
+0.30000000000000004: Broker: Sending cloudlet 35 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 36 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 37 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 38 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 39 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 40 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 41 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 42 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 43 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 44 to VM #3
+0.30000000000000004: Broker: Sending cloudlet 45 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 46 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 47 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 48 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 49 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 50 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 51 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 52 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 53 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 54 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 55 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 56 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 57 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 58 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 59 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 60 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 61 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 62 to VM #1
+0.30000000000000004: Broker: Sending cloudlet 63 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 64 to VM #1
+0.30000000000000004: Broker: Sending cloudlet 65 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 66 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 67 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 68 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 69 to VM #1
+0.30000000000000004: Broker: Sending cloudlet 70 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 71 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 72 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 73 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 74 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 75 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 76 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 77 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 78 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 79 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 80 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 81 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 82 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 83 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 84 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 85 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 86 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 87 to VM #3
+0.30000000000000004: Broker: Sending cloudlet 88 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 89 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 90 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 91 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 92 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 93 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 94 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 95 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 96 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 97 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 98 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 99 to VM #2
+13.751000000000001: Broker: Cloudlet 22 received
+13.991000000000001: Broker: Cloudlet 15 received
+23.154: Broker: Cloudlet 3 received
+24.435: Broker: Cloudlet 26 received
+29.249: Broker: Cloudlet 21 received
+31.66: Broker: Cloudlet 0 received
+35.187999999999995: Broker: Cloudlet 7 received
+37.772999999999996: Broker: Cloudlet 4 received
+39.144: Broker: Cloudlet 5 received
+46.747: Broker: Cloudlet 1 received
+47.025: Broker: Cloudlet 37 received
+56.122: Broker: Cloudlet 33 received
+56.232: Broker: Cloudlet 2 received
+61.256: Broker: Cloudlet 16 received
+64.933: Broker: Cloudlet 10 received
+65.54100000000001: Broker: Cloudlet 20 received
+72.754: Broker: Cloudlet 34 received
+73.022: Broker: Cloudlet 27 received
+74.629: Broker: Cloudlet 9 received
+76.85600000000001: Broker: Cloudlet 66 received
+83.26500000000001: Broker: Cloudlet 29 received
+84.29600000000002: Broker: Cloudlet 40 received
+84.40600000000002: Broker: Cloudlet 12 received
+85.01400000000002: Broker: Cloudlet 6 received
+96.65900000000002: Broker: Cloudlet 23 received
+98.96100000000003: Broker: Cloudlet 14 received
+102.13300000000002: Broker: Cloudlet 17 received
+102.24300000000002: Broker: Cloudlet 18 received
+105.59000000000002: Broker: Cloudlet 46 received
+110.97500000000002: Broker: Cloudlet 45 received
+113.34300000000002: Broker: Cloudlet 62 received
+119.66600000000003: Broker: Cloudlet 8 received
+120.82600000000002: Broker: Cloudlet 41 received
+121.01500000000001: Broker: Cloudlet 72 received
+124.36600000000001: Broker: Cloudlet 19 received
+124.82300000000001: Broker: Cloudlet 25 received
+128.116: Broker: Cloudlet 24 received
+138.20600000000002: Broker: Cloudlet 52 received
+140.10100000000003: Broker: Cloudlet 55 received
+145.20000000000002: Broker: Cloudlet 35 received
+152.05300000000003: Broker: Cloudlet 11 received
+152.35600000000002: Broker: Cloudlet 64 received
+156.92000000000002: Broker: Cloudlet 78 received
+158.846: Broker: Cloudlet 49 received
+162.27100000000002: Broker: Cloudlet 28 received
+163.804: Broker: Cloudlet 36 received
+164.688: Broker: Cloudlet 13 received
+172.628: Broker: Cloudlet 67 received
+176.79199999999997: Broker: Cloudlet 82 received
+178.20199999999997: Broker: Cloudlet 31 received
+178.31199999999995: Broker: Cloudlet 69 received
+179.28099999999995: Broker: Cloudlet 53 received
+179.99699999999996: Broker: Cloudlet 38 received
+183.00199999999995: Broker: Cloudlet 61 received
+186.06599999999995: Broker: Cloudlet 68 received
+188.84299999999993: Broker: Cloudlet 39 received
+190.71499999999995: Broker: Cloudlet 47 received
+203.07499999999993: Broker: Cloudlet 84 received
+204.07199999999995: Broker: Cloudlet 51 received
+205.64499999999995: Broker: Cloudlet 88 received
+209.49399999999994: Broker: Cloudlet 30 received
+212.29299999999995: Broker: Cloudlet 43 received
+215.98099999999994: Broker: Cloudlet 42 received
+218.47699999999995: Broker: Cloudlet 98 received
+225.87999999999994: Broker: Cloudlet 76 received
+236.55799999999994: Broker: Cloudlet 48 received
+240.00599999999994: Broker: Cloudlet 77 received
+240.11599999999993: Broker: Cloudlet 95 received
+241.45099999999994: Broker: Cloudlet 32 received
+242.57999999999993: Broker: Cloudlet 54 received
+244.52499999999992: Broker: Cloudlet 57 received
+253.54399999999993: Broker: Cloudlet 50 received
+271.0059999999999: Broker: Cloudlet 94 received
+276.3709999999999: Broker: Cloudlet 59 received
+276.9849999999999: Broker: Cloudlet 56 received
+284.1789999999999: Broker: Cloudlet 70 received
+284.49999999999994: Broker: Cloudlet 44 received
+300.47099999999995: Broker: Cloudlet 89 received
+303.05199999999996: Broker: Cloudlet 58 received
+304.84799999999996: Broker: Cloudlet 60 received
+321.42499999999995: Broker: Cloudlet 63 received
+322.82399999999996: Broker: Cloudlet 87 received
+336.626: Broker: Cloudlet 90 received
+351.87199999999996: Broker: Cloudlet 91 received
+351.98199999999997: Broker: Cloudlet 71 received
+357.027: Broker: Cloudlet 65 received
+381.472: Broker: Cloudlet 73 received
+386.899: Broker: Cloudlet 75 received
+391.456: Broker: Cloudlet 92 received
+401.147: Broker: Cloudlet 79 received
+405.49: Broker: Cloudlet 93 received
+416.789: Broker: Cloudlet 74 received
+441.693: Broker: Cloudlet 80 received
+443.615: Broker: Cloudlet 81 received
+455.276: Broker: Cloudlet 96 received
+476.789: Broker: Cloudlet 86 received
+480.55: Broker: Cloudlet 83 received
+497.027: Broker: Cloudlet 97 received
+528.638: Broker: Cloudlet 85 received
+541.943: Broker: Cloudlet 99 received
+541.943: Broker: All Cloudlets executed. Finishing...
+541.943: Broker: Destroying VM #0
+541.943: Broker: Destroying VM #1
+541.943: Broker: Destroying VM #2
+541.943: Broker: Destroying VM #3
+541.943: Broker: Destroying VM #4
+541.943: Broker: Destroying VM #5
+541.943: Broker: Destroying VM #6
+541.943: Broker: Destroying VM #7
+541.943: Broker: Destroying VM #8
+541.943: Broker: Destroying VM #9
+541.943: Broker: Destroying VM #10
+541.943: Broker: Destroying VM #11
+541.943: Broker: Destroying VM #12
+541.943: Broker: Destroying VM #13
+541.943: Broker: Destroying VM #14
+541.943: Broker: Destroying VM #15
+541.943: Broker: Destroying VM #16
+541.943: Broker: Destroying VM #17
+541.943: Broker: Destroying VM #18
+541.943: Broker: Destroying VM #19
+541.943: Broker: Destroying VM #20
+541.943: Broker: Destroying VM #21
+541.943: Broker: Destroying VM #22
+541.943: Broker: Destroying VM #23
+541.943: Broker: Destroying VM #24
+541.943: Broker: Destroying VM #25
+541.943: Broker: Destroying VM #26
+541.943: Broker: Destroying VM #27
+541.943: Broker: Destroying VM #28
+541.943: Broker: Destroying VM #29
+541.943: Broker: Destroying VM #30
+541.943: Broker: Destroying VM #31
+541.943: Broker: Destroying VM #32
+541.943: Broker: Destroying VM #33
+541.943: Broker: Destroying VM #34
+541.943: Broker: Destroying VM #35
+541.943: Broker: Destroying VM #36
+541.943: Broker: Destroying VM #37
+541.943: Broker: Destroying VM #38
+541.943: Broker: Destroying VM #39
+541.943: Broker: Destroying VM #40
+541.943: Broker: Destroying VM #41
+541.943: Broker: Destroying VM #42
+541.943: Broker: Destroying VM #43
+541.943: Broker: Destroying VM #44
+541.943: Broker: Destroying VM #45
+541.943: Broker: Destroying VM #46
+541.943: Broker: Destroying VM #47
+541.943: Broker: Destroying VM #48
+541.943: Broker: Destroying VM #49
+541.943: Broker: Destroying VM #50
+541.943: Broker: Destroying VM #51
+541.943: Broker: Destroying VM #52
+541.943: Broker: Destroying VM #53
+541.943: Broker: Destroying VM #54
+541.943: Broker: Destroying VM #55
+541.943: Broker: Destroying VM #56
+541.943: Broker: Destroying VM #57
+541.943: Broker: Destroying VM #58
+541.943: Broker: Destroying VM #59
+541.943: Broker: Destroying VM #60
+541.943: Broker: Destroying VM #61
+541.943: Broker: Destroying VM #62
+541.943: Broker: Destroying VM #63
+541.943: Broker: Destroying VM #64
+541.943: Broker: Destroying VM #65
+541.943: Broker: Destroying VM #66
+541.943: Broker: Destroying VM #67
+541.943: Broker: Destroying VM #68
+541.943: Broker: Destroying VM #69
+541.943: Broker: Destroying VM #70
+541.943: Broker: Destroying VM #71
+541.943: Broker: Destroying VM #72
+541.943: Broker: Destroying VM #73
+541.943: Broker: Destroying VM #74
+541.943: Broker: Destroying VM #75
+541.943: Broker: Destroying VM #76
+541.943: Broker: Destroying VM #77
+541.943: Broker: Destroying VM #78
+541.943: Broker: Destroying VM #79
+541.943: Broker: Destroying VM #80
+541.943: Broker: Destroying VM #81
+541.943: Broker: Destroying VM #82
+541.943: Broker: Destroying VM #83
+541.943: Broker: Destroying VM #84
+541.943: Broker: Destroying VM #85
+541.943: Broker: Destroying VM #86
+541.943: Broker: Destroying VM #87
+541.943: Broker: Destroying VM #88
+541.943: Broker: Destroying VM #89
+541.943: Broker: Destroying VM #90
+541.943: Broker: Destroying VM #91
+541.943: Broker: Destroying VM #92
+541.943: Broker: Destroying VM #93
+541.943: Broker: Destroying VM #94
+541.943: Broker: Destroying VM #95
+541.943: Broker: Destroying VM #96
+541.943: Broker: Destroying VM #97
+541.943: Broker: Destroying VM #98
+541.943: Broker: Destroying VM #99
+Broker is shutting down...
+Simulation: No more future events
+CloudInformationService: Notify all CloudSim entities for shutting down.
+Datacenter0 is shutting down...
+Datacenter1 is shutting down...
+Datacenter2 is shutting down...
+Broker is shutting down...
+Simulation completed.
+Simulation completed.
+
+========== OUTPUT ==========
+Cloudlet ID    STATUS    Data center ID    VM ID    Time    Start Time    Finish Time    BWCost    CPUCost
+    22        SUCCESS        2            7        0.3        0.3        13.75            32.6            4.04
+    15        SUCCESS        2            6        0.3        0.3        13.99            25            4.11
+    3        SUCCESS        2            0        0.3        0.3        23.15            7.4            6.86
+    26        SUCCESS        2            1        0.3        0.3        24.43            16.7            7.24
+    21        SUCCESS        2            6        0.3        13.99        29.25            19.5            4.58
+    0        SUCCESS        2            8        0.3        0.3        31.66            31.7            9.41
+    7        SUCCESS        2            9        0.3        0.3        35.19            36.1            10.47
+    4        SUCCESS        2            2        0.3        0.3        37.77            17.7            11.24
+    5        SUCCESS        2            4        0.3        0.3        39.14            20.9            11.65
+    1        SUCCESS        2            3        0.3        0.3        46.75            15.8            13.93
+    37        SUCCESS        2            5        0.3        0.3        47.02            27.9            14.02
+    33        SUCCESS        2            7        0.3        13.75        56.12            13.1            12.71
+    2        SUCCESS        2            8        0.3        31.66        56.23            24            7.37
+    16        SUCCESS        2            4        0.3        39.14        61.26            23.1            6.63
+    10        SUCCESS        2            9        0.3        35.19        64.93            24.2            8.92
+    20        SUCCESS        2            0        0.3        23.15        65.54            10.3            12.72
+    34        SUCCESS        2            1        0.3        24.43        72.75            30            14.5
+    27        SUCCESS        2            6        0.3        29.25        73.02            10.6            13.13
+    9        SUCCESS        2            3        0.3        46.75        74.63            8.5            8.36
+    66        SUCCESS        2            7        0.3        56.12        76.86            6.3            6.22
+    29        SUCCESS        2            6        0.3        73.02        83.27            15.2            3.07
+    40        SUCCESS        2            5        0.3        47.02        84.3            20.4            11.18
+    12        SUCCESS        2            8        0.3        56.23        84.41            38.1            8.45
+    6        SUCCESS        2            2        0.3        37.77        85.01            32.3            14.17
+    23        SUCCESS        2            0        0.3        65.54        96.66            16            9.34
+    14        SUCCESS        2            8        0.3        84.41        98.96            18.8            4.37
+    17        SUCCESS        2            4        0.3        61.26        102.13            15.2            12.26
+    18        SUCCESS        2            9        0.3        64.93        102.24            9.4            11.19
+    46        SUCCESS        2            5        0.3        84.3        105.59            20.6            6.39
+    45        SUCCESS        2            6        0.3        83.27        110.98            20.7            8.31
+    62        SUCCESS        2            1        0.3        72.75        113.34            22.2            12.18
+    8        SUCCESS        2            2        0.3        85.01        119.67            17.3            10.4
+    41        SUCCESS        2            8        0.3        98.96        120.83            14            6.56
+    72        SUCCESS        2            7        0.3        76.86        121.02            15.9            13.25
+    19        SUCCESS        2            3        0.3        74.63        124.37            23            14.92
+    25        SUCCESS        2            9        0.3        102.24        124.82            15.9            6.77
+    24        SUCCESS        2            0        0.3        96.66        128.12            14.7            9.44
+    52        SUCCESS        2            5        0.3        105.59        138.21            25.8            9.78
+    55        SUCCESS        2            8        0.3        120.83        140.1            20.3            5.78
+    35        SUCCESS        2            4        0.3        102.13        145.2            3.8            12.92
+    11        SUCCESS        2            2        0.3        119.67        152.05            24.4            9.72
+    64        SUCCESS        2            1        0.3        113.34        152.36            10.4            11.7
+    78        SUCCESS        2            7        0.3        121.02        156.92            24.6            10.77
+    49        SUCCESS        2            6        0.3        110.98        158.85            20.6            14.36
+    28        SUCCESS        2            3        0.3        124.37        162.27            20.1            11.37
+    36        SUCCESS        2            0        0.3        128.12        163.8            10.3            10.71
+    13        SUCCESS        2            2        0.3        152.05        164.69            25.5            3.79
+    67        SUCCESS        2            6        0.3        158.85        172.63            31.7            4.13
+    82        SUCCESS        2            7        0.3        156.92        176.79            15.7            5.96
+    31        SUCCESS        2            2        0.3        164.69        178.2            15.9            4.05
+    69        SUCCESS        2            1        0.3        152.36        178.31            23.5            7.79
+    53        SUCCESS        2            5        0.3        138.21        179.28            20            12.32
+    38        SUCCESS        2            4        0.3        145.2        180            20.3            10.44
+    61        SUCCESS        2            8        0.3        140.1        183            12.7            12.87
+    68        SUCCESS        2            6        0.3        172.63        186.07            29            4.03
+    39        SUCCESS        2            2        0.3        178.2        188.84            18.1            3.19
+    47        SUCCESS        2            0        0.3        163.8        190.71            30.4            8.07
+    84        SUCCESS        2            5        0.3        179.28        203.07            28.7            7.14
+    51        SUCCESS        2            0        0.3        190.71        204.07            12.6            4.01
+    88        SUCCESS        2            8        0.3        183        205.64            29.6            6.79
+    30        SUCCESS        2            3        0.3        162.27        209.49            17.8            14.17
+    43        SUCCESS        2            2        0.3        188.84        212.29            32.1            7.04
+    42        SUCCESS        2            4        0.3        180        215.98            24.4            10.8
+    98        SUCCESS        2            7        0.3        176.79        218.48            3.1            12.51
+    76        SUCCESS        2            6        0.3        186.07        225.88            28.2            11.94
+    48        SUCCESS        2            4        0.3        215.98        236.56            4.4            6.17
+    77        SUCCESS        2            6        0.3        225.88        240.01            21.7            4.24
+    95        SUCCESS        2            8        0.3        205.64        240.12            9.1            10.34
+    32        SUCCESS        2            3        0.3        209.49        241.45            7.7            9.59
+    54        SUCCESS        2            0        0.3        204.07        242.58            35.4            11.55
+    57        SUCCESS        2            2        0.3        212.29        244.52            14.9            9.67
+    50        SUCCESS        2            4        0.3        236.56        253.54            32.6            5.1
+    94        SUCCESS        2            6        0.3        240.01        271.01            23.3            9.3
+    59        SUCCESS        2            0        0.3        242.58        276.37            7.3            10.14
+    56        SUCCESS        2            4        0.3        253.54        276.98            10.4            7.03
+    70        SUCCESS        2            2        0.3        244.52        284.18            16.6            11.9
+    44        SUCCESS        2            3        0.3        241.45        284.5            22.6            12.91
+    89        SUCCESS        2            2        0.3        284.18        300.47            12            4.89
+    58        SUCCESS        2            4        0.3        276.98        303.05            26.8            7.82
+    60        SUCCESS        2            0        0.3        276.37        304.85            23.9            8.54
+    63        SUCCESS        2            4        0.3        303.05        321.42            16.7            5.51
+    87        SUCCESS        2            3        0.3        284.5        322.82            10.3            11.5
+    90        SUCCESS        2            2        0.3        300.47        336.63            18.9            10.85
+    91        SUCCESS        2            2        0.3        336.63        351.87            18.8            4.57
+    71        SUCCESS        2            0        0.3        304.85        351.98            4.1            14.14
+    65        SUCCESS        2            4        0.3        321.42        357.03            18.4            10.68
+    73        SUCCESS        2            0        0.3        351.98        381.47            20.3            8.85
+    75        SUCCESS        2            4        0.3        357.03        386.9            11.3            8.96
+    92        SUCCESS        2            2        0.3        351.87        391.46            19.4            11.88
+    79        SUCCESS        2            4        0.3        386.9        401.15            29.7            4.27
+    93        SUCCESS        2            2        0.3        391.46        405.49            17.1            4.21
+    74        SUCCESS        2            0        0.3        381.47        416.79            23.2            10.6
+    80        SUCCESS        2            4        0.3        401.15        441.69            33.7            12.16
+    81        SUCCESS        2            0        0.3        416.79        443.62            29.2            8.05
+    96        SUCCESS        2            2        0.3        405.49        455.28            22.7            14.94
+    86        SUCCESS        2            4        0.3        441.69        476.79            28.3            10.53
+    83        SUCCESS        2            0        0.3        443.62        480.55            17            11.08
+    97        SUCCESS        2            2        0.3        455.28        497.03            21.8            12.53
+    85        SUCCESS        2            0        0.3        480.55        528.64            38.3            14.43
+    99        SUCCESS        2            2        0.3        497.03        541.94            15.5            13.47
+makespan: 541.943
+LB: 103.63406819810307
+cost: 930.9009000000001
+
+SARSA Example
