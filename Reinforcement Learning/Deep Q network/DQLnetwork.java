@@ -368,10 +368,23 @@ public class DQLCloudletScheduling {
 
     public static void main(String[] args) {
         // Initialize neural network, replay memory, DQL agent, and environment
-        NeuralNetwork neuralNetwork = new NeuralNetwork(/* network parameters */);
-        ReplayMemory replayMemory = new ReplayMemory(/* replay memory parameters */);
-        DQLAgent dqlAgent = new DQLAgent(neuralNetwork, replayMemory);
-        CloudletSchedulingEnvironment environment = new CloudletSchedulingEnvironment(/* environment parameters */);
+        // NeuralNetwork neuralNetwork = new NeuralNetwork(/* network parameters */);
+        // ReplayMemory replayMemory = new ReplayMemory(/* replay memory parameters */);
+        // DQLAgent dqlAgent = new DQLAgent(neuralNetwork, replayMemory);
+        // CloudletSchedulingEnvironment environment = new CloudletSchedulingEnvironment(/* environment parameters */);
+        NeuralNetwork neuralNetwork = new NeuralNetwork(10, 20, 5);
+    // Input Size
+    // Hidden Size
+    // Output Size
+        ReplayMemory replayMemory = new ReplayMemory(10000);
+        DQLAgent dqlAgent = new DQLAgent(10, 5, 0.99, 1.0, 0.995, 0.01, 32, 10000);
+    // Gamma (discount factor): This determines the importance of future rewards.
+    // Epsilon (exploration rate): The probability of choosing a random action instead of the optimal one.
+    // Epsilon Decay: The rate at which epsilon decays over time.
+    // Epsilon Min: The minimum value of epsilon.
+    // Batch Size: The size of the mini-batch used for training.
+    // Memory Capacity: The capacity of the replay memory
+        CloudletSchedulingEnvironment environment = new CloudletSchedulingEnvironment(10, 5, cloudletList, vmList, dqlAgent);
 
         // Train the DQL agent
         trainDQLAgent(dqlAgent, environment);
