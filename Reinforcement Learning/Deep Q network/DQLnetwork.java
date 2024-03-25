@@ -328,6 +328,8 @@ public class DQLCloudletScheduling {
 
         // Train the DQL agent
         trainDQLAgent(dqlAgent, environment);
+         // Print results
+        printResults(environment);
     }
 
     private static void trainDQLAgent(DQLAgent agent, CloudletSchedulingEnvironment environment) {
@@ -365,5 +367,13 @@ public class DQLCloudletScheduling {
                 }
             }
         }
+    }
+     private static void printResults(CloudletSchedulingEnvironment environment) {
+        DecimalFormat df = new DecimalFormat("#.##");
+
+        System.out.println("Results:");
+        System.out.println("Makespan: " + df.format(environment.getMakespan()));
+        System.out.println("Lower Bound: " + df.format(environment.getLowerBound()));
+        System.out.println("Cost: " + df.format(environment.getCost()));
     }
 }
