@@ -251,7 +251,54 @@ public class CloudletSchedulingEnvironment {
         this.vmList = vmList;
         this.agent = agent;
     }
+    public double getMakespan() {
+        double makespan = 0;
 
+        // Iterate over the list of completed cloudlets and find the maximum finish time
+        for (Cloudlet cloudlet : completedCloudlets) {
+            double finishTime = cloudlet.getFinishTime();
+            if (finishTime > makespan) {
+                makespan = finishTime;
+            }
+        }
+
+        return makespan;
+    }
+    public double getLowerBound() {
+        double lowerBound = 0;
+
+        // Calculate the average execution time of cloudlets
+        double totalExecutionTime = 0;
+        for (Cloudlet cloudlet : allCloudlets) {
+            totalExecutionTime += cloudlet.getLength() / cloudlet.getVm().getMips();
+        }
+        double averageExecutionTime = totalExecutionTime / allCloudlets.size();
+
+        // Calculate lower bound as the maximum execution time of any VM
+        for (Vm vm : vms) {
+            double executionTime = vm.getCloudletScheduler().getCurrentAllocatedMips() / vm.getMips();
+            if (executionTime > lowerBound) {
+                lowerBound = executionTime;
+            }
+        }
+
+        // Add the average execution time of cloudlets to the lower bound
+        lowerBound += averageExecutionTime;
+
+        return lowerBound;
+    }
+    public double getCost() {
+        double cost = 0;
+
+        // Calculate the cost based on the execution time and cost per unit time of cloudlets
+        for (Cloudlet cloudlet : completedCloudlets) {
+            double actualCPUTime = cloudlet.getActualCPUTime();
+            double costPerSec = cloudlet.getCostPerSec();
+            cost += actualCPUTime * costPerSec;
+        }
+
+        return cost;
+    }
     public void runEpisode() {
         for (Cloudlet cloudlet : cloudletList) {
             List<Double> currentState = getStateRepresentation(cloudlet);
