@@ -1,3 +1,19 @@
+Q-Learning and Deep Q-Learning (DQL) are both reinforcement learning algorithms used to train agents to make sequential decisions in an environment. Here's a brief comparison of the two:
+
+    Q-Learning:
+        Q-Learning is a classic reinforcement learning algorithm that learns to maximize the cumulative reward by iteratively updating a Q-table, which stores the expected return (Q-value) for each state-action pair.
+        It is model-free and can handle discrete state and action spaces.
+        Q-Learning works well for environments with a relatively small state and action space.
+        It is often used in scenarios where the state and action spaces can be explicitly enumerated.
+
+    Deep Q-Learning (DQL):
+        Deep Q-Learning extends Q-Learning to handle high-dimensional state spaces by approximating the Q-function using a neural network (hence the term "deep").
+        Instead of storing Q-values in a table, DQL uses a neural network to approximate the Q-function, which allows it to handle continuous and high-dimensional state spaces, such as images.
+        DQL uses experience replay and target networks to stabilize training and improve sample efficiency.
+        It is suitable for complex environments with large state and action spaces, making it applicable to a wide range of problems, including image-based tasks in robotics and game playing.
+
+In summary, while Q-Learning is effective for simple environments with small state and action spaces, Deep Q-Learning extends its capabilities to handle more complex environments with high-dimensional state spaces, making it applicable to a wider range of real-world problems. However, DQL requires more computational resources and tuning due to the complexity of training neural networks
+
 Implementing Deep Q-Learning (DQL) involves using neural networks to approximate the Q-values instead of a Q-table. Below is a basic outline of how you could integrate DQL into cloudlet scheduling:
 
     Define Neural Network: Create a neural network architecture that takes a state representation as input and outputs Q-values for each possible action.
