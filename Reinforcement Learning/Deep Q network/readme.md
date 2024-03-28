@@ -1,3 +1,5 @@
+![](https://github.com/ArkS0001/CloudSim/blob/main/Reinforcement%20Learning/Deep%20Q%20network/Screenshot%202024-03-28%20at%2021-50-07%20Task%20Scheduling%20in%20Cloud%20Using%20Deep%20Reinforcement%20Learning%20-%201-s2.0-S1877050921006281-main.pdf.png)
+
 Q-Learning and Deep Q-Learning (DQL) are both reinforcement learning algorithms used to train agents to make sequential decisions in an environment. Here's a brief comparison of the two:
 
     Q-Learning:
