@@ -1,3 +1,4 @@
+https://www.researchgate.net/publication/336615615_Multi-Objective_Task_Scheduling_Using_Hybrid_Whale_Genetic_Optimization_Algorithm_in_Heterogeneous_Computing_Environment
 ## cloudlet-scheduler
 Simulation experiments using CloudSim5.0 toolkit to verify the optimization effect of WOA algorithm and HWGA algorithm using Random algorithm, FCFS algorithm and Min-Min algorithm as benchmarks
 
