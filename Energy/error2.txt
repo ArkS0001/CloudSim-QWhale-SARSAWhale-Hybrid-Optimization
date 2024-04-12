@@ -1,0 +1,379 @@
+Starting...
+Initialising...
+Q-table:
+State: org.cloudbus.cloudsim.examples.State5@3c0
+  Action: 4, Q-value: 0.1
+State: org.cloudbus.cloudsim.examples.State5@3c1
+  Action: 1, Q-value: -0.1919146457672143
+  Action: 3, Q-value: 0.18660514927021005
+  Action: 4, Q-value: -0.11263878573956572
+  Action: 5, Q-value: -0.16984762273042409
+  Action: 6, Q-value: -0.0023982404934662083
+  Action: 7, Q-value: 0.10151633776587105
+  Action: 8, Q-value: -0.07276675559938191
+  Action: 9, Q-value: -0.15574588714673768
+State: org.cloudbus.cloudsim.examples.State5@3c2
+  Action: 1, Q-value: -0.4429181314990429
+  Action: 2, Q-value: -0.23020067583833237
+  Action: 7, Q-value: -0.20292959449877074
+  Action: 0, Q-value: -0.195280020083408
+State: org.cloudbus.cloudsim.examples.State5@3c3
+  Action: 6, Q-value: -0.036846987421181504
+  Action: 7, Q-value: -0.1550389089994571
+State: org.cloudbus.cloudsim.examples.State5@3c4
+  Action: 1, Q-value: 0.18010452952148892
+  Action: 2, Q-value: -0.11219121010689735
+  Action: 4, Q-value: -0.11970999903983605
+  Action: 5, Q-value: -0.23468735531283086
+  Action: 0, Q-value: -0.1598967013821065
+State: org.cloudbus.cloudsim.examples.State5@3c5
+  Action: 6, Q-value: 0.021989421513767496
+  Action: 0, Q-value: -0.13500785129719753
+State: org.cloudbus.cloudsim.examples.State5@3c6
+  Action: 1, Q-value: -0.12214975853974705
+  Action: 0, Q-value: 0.31493512402448065
+State: org.cloudbus.cloudsim.examples.State5@3c7
+  Action: 1, Q-value: -0.2730885044266403
+  Action: 3, Q-value: -0.16868298209791938
+  Action: 4, Q-value: -0.17062726117186555
+  Action: 6, Q-value: -0.2766103424116153
+  Action: 7, Q-value: -0.18569376175703
+  Action: 8, Q-value: -0.16319800258345366
+  Action: 9, Q-value: -0.1231627334024307
+  Action: 0, Q-value: -0.20865630769198124
+State: org.cloudbus.cloudsim.examples.State5@3c8
+  Action: 1, Q-value: -0.2161906282966384
+  Action: 3, Q-value: -0.1681806363874262
+  Action: 4, Q-value: -0.0979294392982517
+  Action: 5, Q-value: -0.14453747097022418
+  Action: 6, Q-value: 0.16854189681605214
+  Action: 7, Q-value: -0.1564690776284242
+  Action: 8, Q-value: -0.17597223750137675
+  Action: 0, Q-value: -0.14388631863902263
+State: org.cloudbus.cloudsim.examples.State5@3c9
+  Action: 3, Q-value: -0.04823377767409734
+  Action: 5, Q-value: 0.36695371460348974
+  Action: 8, Q-value: -0.06560125064211542
+State: org.cloudbus.cloudsim.examples.State5@3ca
+  Action: 5, Q-value: 0.3935607364506957
+  Action: 6, Q-value: -0.0917653787866648
+========== START ==========
+Starting CloudSim version 3.0
+Datacenter0 is starting...
+Datacenter1 is starting...
+Datacenter2 is starting...
+Broker is starting...
+Entities started.
+0.0: Broker: Cloud Resource List received with 3 resource(s)
+0.0: Broker: Trying to Create VM #0 in Datacenter0
+0.0: Broker: Trying to Create VM #1 in Datacenter0
+0.0: Broker: Trying to Create VM #2 in Datacenter0
+0.0: Broker: Trying to Create VM #3 in Datacenter0
+0.0: Broker: Trying to Create VM #4 in Datacenter0
+0.0: Broker: Trying to Create VM #5 in Datacenter0
+0.0: Broker: Trying to Create VM #6 in Datacenter0
+0.0: Broker: Trying to Create VM #7 in Datacenter0
+0.0: Broker: Trying to Create VM #8 in Datacenter0
+0.0: Broker: Trying to Create VM #9 in Datacenter0
+0.0: Broker: Trying to Create VM #10 in Datacenter0
+0.0: Broker: Trying to Create VM #11 in Datacenter0
+0.0: Broker: Trying to Create VM #12 in Datacenter0
+0.0: Broker: Trying to Create VM #13 in Datacenter0
+0.0: Broker: Trying to Create VM #14 in Datacenter0
+0.0: Broker: Trying to Create VM #15 in Datacenter0
+0.0: Broker: Trying to Create VM #16 in Datacenter0
+0.0: Broker: Trying to Create VM #17 in Datacenter0
+0.0: Broker: Trying to Create VM #18 in Datacenter0
+0.0: Broker: Trying to Create VM #19 in Datacenter0
+0.0: Broker: Trying to Create VM #20 in Datacenter0
+0.0: Broker: Trying to Create VM #21 in Datacenter0
+0.0: Broker: Trying to Create VM #22 in Datacenter0
+0.0: Broker: Trying to Create VM #23 in Datacenter0
+0.0: Broker: Trying to Create VM #24 in Datacenter0
+0.0: Broker: Trying to Create VM #25 in Datacenter0
+0.0: Broker: Trying to Create VM #26 in Datacenter0
+0.0: Broker: Trying to Create VM #27 in Datacenter0
+0.0: Broker: Trying to Create VM #28 in Datacenter0
+0.0: Broker: Trying to Create VM #29 in Datacenter0
+0.0: Broker: Trying to Create VM #30 in Datacenter0
+0.0: Broker: Trying to Create VM #31 in Datacenter0
+0.0: Broker: Trying to Create VM #32 in Datacenter0
+0.0: Broker: Trying to Create VM #33 in Datacenter0
+0.0: Broker: Trying to Create VM #34 in Datacenter0
+0.0: Broker: Trying to Create VM #35 in Datacenter0
+0.0: Broker: Trying to Create VM #36 in Datacenter0
+0.0: Broker: Trying to Create VM #37 in Datacenter0
+0.0: Broker: Trying to Create VM #38 in Datacenter0
+0.0: Broker: Trying to Create VM #39 in Datacenter0
+0.0: Broker: Trying to Create VM #40 in Datacenter0
+0.0: Broker: Trying to Create VM #41 in Datacenter0
+0.0: Broker: Trying to Create VM #42 in Datacenter0
+0.0: Broker: Trying to Create VM #43 in Datacenter0
+0.0: Broker: Trying to Create VM #44 in Datacenter0
+[VmScheduler.vmCreate] Allocation of VM #7 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #7 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #8 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #8 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #9 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #9 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #10 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #10 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #11 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #11 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #12 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #12 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #13 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #13 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #14 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #14 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #15 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #15 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #16 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #16 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #17 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #17 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #18 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #18 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #19 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #19 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #20 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #20 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #21 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #21 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #22 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #22 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #23 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #23 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #24 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #24 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #25 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #25 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #26 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #26 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #27 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #27 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #28 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #28 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #29 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #29 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #30 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #30 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #31 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #31 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #32 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #32 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #33 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #33 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #34 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #34 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #35 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #35 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #36 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #36 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #37 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #37 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #38 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #38 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #39 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #39 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #40 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #40 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #41 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #41 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #42 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #42 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #43 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #43 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #44 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #44 to Host #0 failed by MIPS
+0.1: Broker: VM #0 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #1 has been created in Datacenter #2, Host #1
+0.1: Broker: VM #2 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #3 has been created in Datacenter #2, Host #1
+0.1: Broker: VM #4 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #5 has been created in Datacenter #2, Host #1
+0.1: Broker: VM #6 has been created in Datacenter #2, Host #0
+0.1: Broker: Creation of VM #7 failed in Datacenter #2
+0.1: Broker: Creation of VM #8 failed in Datacenter #2
+0.1: Broker: Creation of VM #9 failed in Datacenter #2
+0.1: Broker: Creation of VM #10 failed in Datacenter #2
+0.1: Broker: Creation of VM #11 failed in Datacenter #2
+0.1: Broker: Creation of VM #12 failed in Datacenter #2
+0.1: Broker: Creation of VM #13 failed in Datacenter #2
+0.1: Broker: Creation of VM #14 failed in Datacenter #2
+0.1: Broker: Creation of VM #15 failed in Datacenter #2
+0.1: Broker: Creation of VM #16 failed in Datacenter #2
+0.1: Broker: Creation of VM #17 failed in Datacenter #2
+0.1: Broker: Creation of VM #18 failed in Datacenter #2
+0.1: Broker: Creation of VM #19 failed in Datacenter #2
+0.1: Broker: Creation of VM #20 failed in Datacenter #2
+0.1: Broker: Creation of VM #21 failed in Datacenter #2
+0.1: Broker: Creation of VM #22 failed in Datacenter #2
+0.1: Broker: Creation of VM #23 failed in Datacenter #2
+0.1: Broker: Creation of VM #24 failed in Datacenter #2
+0.1: Broker: Creation of VM #25 failed in Datacenter #2
+0.1: Broker: Creation of VM #26 failed in Datacenter #2
+0.1: Broker: Creation of VM #27 failed in Datacenter #2
+0.1: Broker: Creation of VM #28 failed in Datacenter #2
+0.1: Broker: Creation of VM #29 failed in Datacenter #2
+0.1: Broker: Creation of VM #30 failed in Datacenter #2
+0.1: Broker: Creation of VM #31 failed in Datacenter #2
+0.1: Broker: Creation of VM #32 failed in Datacenter #2
+0.1: Broker: Creation of VM #33 failed in Datacenter #2
+0.1: Broker: Creation of VM #34 failed in Datacenter #2
+0.1: Broker: Creation of VM #35 failed in Datacenter #2
+0.1: Broker: Creation of VM #36 failed in Datacenter #2
+0.1: Broker: Creation of VM #37 failed in Datacenter #2
+0.1: Broker: Creation of VM #38 failed in Datacenter #2
+0.1: Broker: Creation of VM #39 failed in Datacenter #2
+0.1: Broker: Creation of VM #40 failed in Datacenter #2
+0.1: Broker: Creation of VM #41 failed in Datacenter #2
+0.1: Broker: Creation of VM #42 failed in Datacenter #2
+0.1: Broker: Creation of VM #43 failed in Datacenter #2
+0.1: Broker: Creation of VM #44 failed in Datacenter #2
+0.1: Broker: Trying to Create VM #7 in Datacenter1
+0.1: Broker: Trying to Create VM #8 in Datacenter1
+0.1: Broker: Trying to Create VM #9 in Datacenter1
+0.1: Broker: Trying to Create VM #10 in Datacenter1
+0.1: Broker: Trying to Create VM #11 in Datacenter1
+0.1: Broker: Trying to Create VM #12 in Datacenter1
+0.1: Broker: Trying to Create VM #13 in Datacenter1
+0.1: Broker: Trying to Create VM #14 in Datacenter1
+0.1: Broker: Trying to Create VM #15 in Datacenter1
+0.1: Broker: Trying to Create VM #16 in Datacenter1
+0.1: Broker: Trying to Create VM #17 in Datacenter1
+0.1: Broker: Trying to Create VM #18 in Datacenter1
+0.1: Broker: Trying to Create VM #19 in Datacenter1
+0.1: Broker: Trying to Create VM #20 in Datacenter1
+0.1: Broker: Trying to Create VM #21 in Datacenter1
+0.1: Broker: Trying to Create VM #22 in Datacenter1
+0.1: Broker: Trying to Create VM #23 in Datacenter1
+0.1: Broker: Trying to Create VM #24 in Datacenter1
+0.1: Broker: Trying to Create VM #25 in Datacenter1
+0.1: Broker: Trying to Create VM #26 in Datacenter1
+0.1: Broker: Trying to Create VM #27 in Datacenter1
+0.1: Broker: Trying to Create VM #28 in Datacenter1
+0.1: Broker: Trying to Create VM #29 in Datacenter1
+0.1: Broker: Trying to Create VM #30 in Datacenter1
+0.1: Broker: Trying to Create VM #31 in Datacenter1
+0.1: Broker: Trying to Create VM #32 in Datacenter1
+0.1: Broker: Trying to Create VM #33 in Datacenter1
+0.1: Broker: Trying to Create VM #34 in Datacenter1
+0.1: Broker: Trying to Create VM #35 in Datacenter1
+0.1: Broker: Trying to Create VM #36 in Datacenter1
+0.1: Broker: Trying to Create VM #37 in Datacenter1
+0.1: Broker: Trying to Create VM #38 in Datacenter1
+0.1: Broker: Trying to Create VM #39 in Datacenter1
+0.1: Broker: Trying to Create VM #40 in Datacenter1
+0.1: Broker: Trying to Create VM #41 in Datacenter1
+0.1: Broker: Trying to Create VM #42 in Datacenter1
+0.1: Broker: Trying to Create VM #43 in Datacenter1
+0.1: Broker: Trying to Create VM #44 in Datacenter1
+[VmScheduler.vmCreate] Allocation of VM #28 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #28 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #29 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #29 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #30 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #30 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #31 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #31 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #32 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #32 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #33 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #33 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #34 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #34 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #35 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #35 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #36 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #36 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #37 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #37 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #38 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #38 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #39 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #39 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #40 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #40 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #41 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #41 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #42 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #42 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #43 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #43 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #44 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #44 to Host #0 failed by MIPS
+0.2: Broker: VM #7 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #8 has been created in Datacenter #3, Host #1
+0.2: Broker: VM #9 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #10 has been created in Datacenter #3, Host #1
+0.2: Broker: VM #11 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #12 has been created in Datacenter #3, Host #1
+0.2: Broker: VM #13 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #14 has been created in Datacenter #3, Host #1
+0.2: Broker: VM #15 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #16 has been created in Datacenter #3, Host #1
+0.2: Broker: VM #17 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #18 has been created in Datacenter #3, Host #1
+0.2: Broker: VM #19 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #20 has been created in Datacenter #3, Host #1
+0.2: Broker: VM #21 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #22 has been created in Datacenter #3, Host #1
+0.2: Broker: VM #23 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #24 has been created in Datacenter #3, Host #1
+0.2: Broker: VM #25 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #26 has been created in Datacenter #3, Host #1
+0.2: Broker: VM #27 has been created in Datacenter #3, Host #0
+0.2: Broker: Creation of VM #28 failed in Datacenter #3
+0.2: Broker: Creation of VM #29 failed in Datacenter #3
+0.2: Broker: Creation of VM #30 failed in Datacenter #3
+0.2: Broker: Creation of VM #31 failed in Datacenter #3
+0.2: Broker: Creation of VM #32 failed in Datacenter #3
+0.2: Broker: Creation of VM #33 failed in Datacenter #3
+0.2: Broker: Creation of VM #34 failed in Datacenter #3
+0.2: Broker: Creation of VM #35 failed in Datacenter #3
+0.2: Broker: Creation of VM #36 failed in Datacenter #3
+0.2: Broker: Creation of VM #37 failed in Datacenter #3
+0.2: Broker: Creation of VM #38 failed in Datacenter #3
+0.2: Broker: Creation of VM #39 failed in Datacenter #3
+0.2: Broker: Creation of VM #40 failed in Datacenter #3
+0.2: Broker: Creation of VM #41 failed in Datacenter #3
+0.2: Broker: Creation of VM #42 failed in Datacenter #3
+0.2: Broker: Creation of VM #43 failed in Datacenter #3
+0.2: Broker: Creation of VM #44 failed in Datacenter #3
+0.2: Broker: Trying to Create VM #28 in Datacenter2
+0.2: Broker: Trying to Create VM #29 in Datacenter2
+0.2: Broker: Trying to Create VM #30 in Datacenter2
+0.2: Broker: Trying to Create VM #31 in Datacenter2
+0.2: Broker: Trying to Create VM #32 in Datacenter2
+0.2: Broker: Trying to Create VM #33 in Datacenter2
+0.2: Broker: Trying to Create VM #34 in Datacenter2
+0.2: Broker: Trying to Create VM #35 in Datacenter2
+0.2: Broker: Trying to Create VM #36 in Datacenter2
+0.2: Broker: Trying to Create VM #37 in Datacenter2
+0.2: Broker: Trying to Create VM #38 in Datacenter2
+0.2: Broker: Trying to Create VM #39 in Datacenter2
+0.2: Broker: Trying to Create VM #40 in Datacenter2
+0.2: Broker: Trying to Create VM #41 in Datacenter2
+0.2: Broker: Trying to Create VM #42 in Datacenter2
+0.2: Broker: Trying to Create VM #43 in Datacenter2
+0.2: Broker: Trying to Create VM #44 in Datacenter2
+0.30000000000000004: Broker: VM #28 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #29 has been created in Datacenter #4, Host #1
+0.30000000000000004: Broker: VM #30 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #31 has been created in Datacenter #4, Host #1
+0.30000000000000004: Broker: VM #32 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #33 has been created in Datacenter #4, Host #1
+0.30000000000000004: Broker: VM #34 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #35 has been created in Datacenter #4, Host #1
+0.30000000000000004: Broker: VM #36 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #37 has been created in Datacenter #4, Host #1
+0.30000000000000004: Broker: VM #38 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #39 has been created in Datacenter #4, Host #1
+0.30000000000000004: Broker: VM #40 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #41 has been created in Datacenter #4, Host #1
+0.30000000000000004: Broker: VM #42 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #43 has been created in Datacenter #4, Host #1
+0.30000000000000004: Broker: VM #44 has been created in Datacenter #4, Host #0
+1.Cloudler Id:0,Cloudlet Length:31360
+0.30000000000000004: Broker: Sending cloudlet 0 to VM #3
