@@ -2,7 +2,8 @@
 https://www.sciencedirect.com/science/article/abs/pii/S0167739X19313858
 
 
-// print different host utilization and energy
+
+ 		// print different host utilization and energy
 	public static void printUtilization(QDatacenter datacenter0){
 		List<Host> hosts=datacenter0.getHostList();
 		double totalutilization=0;//utilization of each host
