@@ -114,7 +114,7 @@ Once you've installed the libraries using Maven or Gradle, you can start using t
     recommendation systems
     Scalable performant Machine learning apps
 
-4. Deeplearning4j: Deeplearning4j, as the name suggests us written in Java and is compatible with Java Virtual Machine language, such as Kotlin, Scala etc. It is an open-source distributed deep learning library which has an advantage of the latest distributed computing frameworks such as Apache Spark and Hadoop. Some of its features are:
+4. # Deeplearning4j: Deeplearning4j, as the name suggests us written in Java and is compatible with Java Virtual Machine language, such as Kotlin, Scala etc. It is an open-source distributed deep learning library which has an advantage of the latest distributed computing frameworks such as Apache Spark and Hadoop. Some of its features are:
 
     Commercial-grade and open-source
     Brings AI to business environments
