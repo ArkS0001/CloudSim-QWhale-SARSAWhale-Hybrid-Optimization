@@ -1,0 +1,1 @@
+![Screenshot 2024-05-02 at 20-37-38 Multi-Objective Task Scheduling Using Hybrid Whale Genetic Optimization Algorithm in Heterogeneous Computing Environment - Multi‑Objective Task Scheduling Using Hybrid Whale Genetic-1 pdf](https://github.com/ArkS0001/CloudSim/assets/113760964/c6185369-76b7-4a2b-9ccf-d05efe2ca425)
