@@ -1,0 +1,502 @@
+Starting...
+Initialising...
+estimate time span: 115.87100000000001
+estimate LB: 4.657803762504387
+estimate cost: 730.8081500000001
+estimate totalTime: 1102.6715000000002
+estimate fitness: 0.11942588200897869
+========== START ==========
+Starting CloudSim version 3.0
+Datacenter0 is starting...
+Datacenter1 is starting...
+Datacenter2 is starting...
+Broker is starting...
+Entities started.
+0.0: Broker: Cloud Resource List received with 3 resource(s)
+0.0: Broker: Trying to Create VM #0 in Datacenter0
+0.0: Broker: Trying to Create VM #1 in Datacenter0
+0.0: Broker: Trying to Create VM #2 in Datacenter0
+0.0: Broker: Trying to Create VM #3 in Datacenter0
+0.0: Broker: Trying to Create VM #4 in Datacenter0
+0.0: Broker: Trying to Create VM #5 in Datacenter0
+0.0: Broker: Trying to Create VM #6 in Datacenter0
+0.0: Broker: Trying to Create VM #7 in Datacenter0
+0.0: Broker: Trying to Create VM #8 in Datacenter0
+0.0: Broker: Trying to Create VM #9 in Datacenter0
+[VmScheduler.vmCreate] Allocation of VM #2 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #3 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #4 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #5 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #6 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #7 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #8 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #9 to Host #0 failed by RAM
+0.1: Broker: VM #0 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #1 has been created in Datacenter #2, Host #0
+0.1: Broker: Creation of VM #2 failed in Datacenter #2
+0.1: Broker: Creation of VM #3 failed in Datacenter #2
+0.1: Broker: Creation of VM #4 failed in Datacenter #2
+0.1: Broker: Creation of VM #5 failed in Datacenter #2
+0.1: Broker: Creation of VM #6 failed in Datacenter #2
+0.1: Broker: Creation of VM #7 failed in Datacenter #2
+0.1: Broker: Creation of VM #8 failed in Datacenter #2
+0.1: Broker: Creation of VM #9 failed in Datacenter #2
+0.1: Broker: Trying to Create VM #2 in Datacenter1
+0.1: Broker: Trying to Create VM #3 in Datacenter1
+0.1: Broker: Trying to Create VM #4 in Datacenter1
+0.1: Broker: Trying to Create VM #5 in Datacenter1
+0.1: Broker: Trying to Create VM #6 in Datacenter1
+0.1: Broker: Trying to Create VM #7 in Datacenter1
+0.1: Broker: Trying to Create VM #8 in Datacenter1
+0.1: Broker: Trying to Create VM #9 in Datacenter1
+[VmScheduler.vmCreate] Allocation of VM #5 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #6 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #7 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #8 to Host #0 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #9 to Host #0 failed by RAM
+0.2: Broker: VM #2 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #3 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #4 has been created in Datacenter #3, Host #0
+0.2: Broker: Creation of VM #5 failed in Datacenter #3
+0.2: Broker: Creation of VM #6 failed in Datacenter #3
+0.2: Broker: Creation of VM #7 failed in Datacenter #3
+0.2: Broker: Creation of VM #8 failed in Datacenter #3
+0.2: Broker: Creation of VM #9 failed in Datacenter #3
+0.2: Broker: Trying to Create VM #5 in Datacenter2
+0.2: Broker: Trying to Create VM #6 in Datacenter2
+0.2: Broker: Trying to Create VM #7 in Datacenter2
+0.2: Broker: Trying to Create VM #8 in Datacenter2
+0.2: Broker: Trying to Create VM #9 in Datacenter2
+0.30000000000000004: Broker: VM #5 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #6 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #7 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #8 has been created in Datacenter #4, Host #0
+0.30000000000000004: Broker: VM #9 has been created in Datacenter #4, Host #0
+1.Cloudler Id:29,Cloudlet Length:10243
+2.Cloudler Id:39,Cloudlet Length:10641
+3.Cloudler Id:13,Cloudlet Length:12635
+4.Cloudler Id:51,Cloudlet Length:13357
+5.Cloudler Id:68,Cloudlet Length:13438
+6.Cloudler Id:22,Cloudlet Length:13451
+7.Cloudler Id:31,Cloudlet Length:13514
+8.Cloudler Id:15,Cloudlet Length:13691
+9.Cloudler Id:67,Cloudlet Length:13782
+10.Cloudler Id:93,Cloudlet Length:14034
+11.Cloudler Id:77,Cloudlet Length:14126
+12.Cloudler Id:79,Cloudlet Length:14248
+13.Cloudler Id:14,Cloudlet Length:14555
+14.Cloudler Id:91,Cloudlet Length:15246
+15.Cloudler Id:21,Cloudlet Length:15258
+16.Cloudler Id:89,Cloudlet Length:16292
+17.Cloudler Id:50,Cloudlet Length:16986
+18.Cloudler Id:63,Cloudlet Length:18373
+19.Cloudler Id:55,Cloudlet Length:19275
+20.Cloudler Id:82,Cloudlet Length:19872
+21.Cloudler Id:48,Cloudlet Length:20577
+22.Cloudler Id:66,Cloudlet Length:20734
+23.Cloudler Id:46,Cloudlet Length:21294
+24.Cloudler Id:41,Cloudlet Length:21865
+25.Cloudler Id:16,Cloudlet Length:22112
+26.Cloudler Id:25,Cloudlet Length:22580
+27.Cloudler Id:88,Cloudlet Length:22643
+28.Cloudler Id:3,Cloudlet Length:22854
+29.Cloudler Id:56,Cloudlet Length:23441
+30.Cloudler Id:43,Cloudlet Length:23450
+31.Cloudler Id:84,Cloudlet Length:23794
+32.Cloudler Id:26,Cloudlet Length:24135
+33.Cloudler Id:2,Cloudlet Length:24491
+34.Cloudler Id:69,Cloudlet Length:25916
+35.Cloudler Id:58,Cloudlet Length:26067
+36.Cloudler Id:81,Cloudlet Length:26826
+37.Cloudler Id:47,Cloudlet Length:26911
+38.Cloudler Id:45,Cloudlet Length:27710
+39.Cloudler Id:9,Cloudlet Length:27882
+40.Cloudler Id:12,Cloudlet Length:28125
+41.Cloudler Id:60,Cloudlet Length:28477
+42.Cloudler Id:73,Cloudlet Length:29490
+43.Cloudler Id:10,Cloudlet Length:29745
+44.Cloudler Id:75,Cloudlet Length:29872
+45.Cloudler Id:94,Cloudlet Length:31000
+46.Cloudler Id:23,Cloudlet Length:31118
+47.Cloudler Id:0,Cloudlet Length:31360
+48.Cloudler Id:24,Cloudlet Length:31457
+49.Cloudler Id:32,Cloudlet Length:31957
+50.Cloudler Id:57,Cloudlet Length:32232
+51.Cloudler Id:11,Cloudlet Length:32387
+52.Cloudler Id:52,Cloudlet Length:32616
+53.Cloudler Id:59,Cloudlet Length:33791
+54.Cloudler Id:95,Cloudlet Length:34452
+55.Cloudler Id:8,Cloudlet Length:34652
+56.Cloudler Id:38,Cloudlet Length:34797
+57.Cloudler Id:7,Cloudlet Length:34888
+58.Cloudler Id:86,Cloudlet Length:35096
+59.Cloudler Id:74,Cloudlet Length:35317
+60.Cloudler Id:65,Cloudlet Length:35602
+61.Cloudler Id:36,Cloudlet Length:35688
+62.Cloudler Id:78,Cloudlet Length:35905
+63.Cloudler Id:42,Cloudlet Length:35984
+64.Cloudler Id:90,Cloudlet Length:36155
+65.Cloudler Id:83,Cloudlet Length:36935
+66.Cloudler Id:18,Cloudlet Length:37207
+67.Cloudler Id:40,Cloudlet Length:37271
+68.Cloudler Id:4,Cloudlet Length:37473
+69.Cloudler Id:28,Cloudlet Length:37905
+70.Cloudler Id:87,Cloudlet Length:38324
+71.Cloudler Id:54,Cloudlet Length:38508
+72.Cloudler Id:5,Cloudlet Length:38844
+73.Cloudler Id:64,Cloudlet Length:39013
+74.Cloudler Id:92,Cloudlet Length:39584
+75.Cloudler Id:70,Cloudlet Length:39654
+76.Cloudler Id:76,Cloudlet Length:39814
+77.Cloudler Id:80,Cloudlet Length:40546
+78.Cloudler Id:62,Cloudlet Length:40589
+79.Cloudler Id:17,Cloudlet Length:40877
+80.Cloudler Id:53,Cloudlet Length:41075
+81.Cloudler Id:98,Cloudlet Length:41685
+82.Cloudler Id:97,Cloudlet Length:41751
+83.Cloudler Id:33,Cloudlet Length:42371
+84.Cloudler Id:20,Cloudlet Length:42387
+85.Cloudler Id:61,Cloudlet Length:42901
+86.Cloudler Id:44,Cloudlet Length:43049
+87.Cloudler Id:35,Cloudlet Length:43067
+88.Cloudler Id:27,Cloudlet Length:43773
+89.Cloudler Id:72,Cloudlet Length:44159
+90.Cloudler Id:99,Cloudlet Length:44916
+91.Cloudler Id:1,Cloudlet Length:46447
+92.Cloudler Id:37,Cloudlet Length:46725
+93.Cloudler Id:71,Cloudlet Length:47128
+94.Cloudler Id:30,Cloudlet Length:47223
+95.Cloudler Id:6,Cloudlet Length:47241
+96.Cloudler Id:49,Cloudlet Length:47871
+97.Cloudler Id:85,Cloudlet Length:48088
+98.Cloudler Id:34,Cloudlet Length:48319
+99.Cloudler Id:19,Cloudlet Length:49737
+100.Cloudler Id:96,Cloudlet Length:49786
+0.30000000000000004: Broker: Sending cloudlet 29 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 39 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 13 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 51 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 68 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 22 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 31 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 15 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 67 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 93 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 77 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 79 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 14 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 91 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 21 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 89 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 50 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 63 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 55 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 82 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 48 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 66 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 46 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 41 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 16 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 25 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 88 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 3 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 56 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 43 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 84 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 26 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 2 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 69 to VM #3
+0.30000000000000004: Broker: Sending cloudlet 58 to VM #3
+0.30000000000000004: Broker: Sending cloudlet 81 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 47 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 45 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 9 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 12 to VM #1
+0.30000000000000004: Broker: Sending cloudlet 60 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 73 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 10 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 75 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 94 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 23 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 0 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 24 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 32 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 57 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 11 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 52 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 59 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 95 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 8 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 38 to VM #1
+0.30000000000000004: Broker: Sending cloudlet 7 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 86 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 74 to VM #3
+0.30000000000000004: Broker: Sending cloudlet 65 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 36 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 78 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 42 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 90 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 83 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 18 to VM #1
+0.30000000000000004: Broker: Sending cloudlet 40 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 4 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 28 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 87 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 54 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 5 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 64 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 92 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 70 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 76 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 80 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 62 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 17 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 53 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 98 to VM #9
+0.30000000000000004: Broker: Sending cloudlet 97 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 33 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 20 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 61 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 44 to VM #6
+0.30000000000000004: Broker: Sending cloudlet 35 to VM #0
+0.30000000000000004: Broker: Sending cloudlet 27 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 72 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 99 to VM #3
+0.30000000000000004: Broker: Sending cloudlet 1 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 37 to VM #3
+0.30000000000000004: Broker: Sending cloudlet 71 to VM #7
+0.30000000000000004: Broker: Sending cloudlet 30 to VM #3
+0.30000000000000004: Broker: Sending cloudlet 6 to VM #5
+0.30000000000000004: Broker: Sending cloudlet 49 to VM #2
+0.30000000000000004: Broker: Sending cloudlet 85 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 34 to VM #4
+0.30000000000000004: Broker: Sending cloudlet 19 to VM #8
+0.30000000000000004: Broker: Sending cloudlet 96 to VM #9
+2.8607500000000003: Broker: Cloudlet 29 received
+2.9707500000000002: Broker: Cloudlet 39 received
+3.6392499999999997: Broker: Cloudlet 51 received
+3.8084999999999996: Broker: Cloudlet 93 received
+4.1114999999999995: Broker: Cloudlet 91 received
+6.129499999999999: Broker: Cloudlet 13 received
+6.3062499999999995: Broker: Cloudlet 67 received
+6.998749999999999: Broker: Cloudlet 68 received
+7.1455: Broker: Cloudlet 15 received
+7.3705: Broker: Cloudlet 79 received
+7.926: Broker: Cloudlet 21 received
+9.49225: Broker: Cloudlet 22 received
+11.00925: Broker: Cloudlet 14 received
+11.817499999999999: Broker: Cloudlet 55 received
+11.951249999999998: Broker: Cloudlet 25 received
+12.197: Broker: Cloudlet 84 received
+12.870749999999997: Broker: Cloudlet 31 received
+13.258: Broker: Cloudlet 69 received
+13.959749999999998: Broker: Cloudlet 26 received
+14.208499999999999: Broker: Cloudlet 77 received
+16.96175: Broker: Cloudlet 48 received
+17.464: Broker: Cloudlet 63 received
+17.664749999999998: Broker: Cloudlet 3 received
+17.77475: Broker: Cloudlet 47 received
+20.88725: Broker: Cloudlet 45 received
+22.3545: Broker: Cloudlet 89 received
+22.428: Broker: Cloudlet 41 received
+22.538000000000004: Broker: Cloudlet 82 received
+23.527250000000002: Broker: Cloudlet 43 received
+24.745250000000002: Broker: Cloudlet 9 received
+25.610000000000003: Broker: Cloudlet 81 received
+26.291500000000003: Broker: Cloudlet 58 received
+27.721500000000002: Broker: Cloudlet 66 received
+28.425: Broker: Cloudlet 12 received
+28.63725: Broker: Cloudlet 94 received
+29.650000000000002: Broker: Cloudlet 2 received
+29.800500000000003: Broker: Cloudlet 73 received
+30.847500000000004: Broker: Cloudlet 50 received
+32.524750000000004: Broker: Cloudlet 23 received
+33.045: Broker: Cloudlet 46 received
+34.090999999999994: Broker: Cloudlet 59 received
+36.69525: Broker: Cloudlet 57 received
+36.80525: Broker: Cloudlet 60 received
+37.6405: Broker: Cloudlet 0 received
+38.573: Broker: Cloudlet 16 received
+41.13775: Broker: Cloudlet 95 received
+43.95: Broker: Cloudlet 74 received
+44.23375: Broker: Cloudlet 88 received
+44.6695: Broker: Cloudlet 24 received
+44.864000000000004: Broker: Cloudlet 54 received
+45.783500000000004: Broker: Cloudlet 75 received
+45.7945: Broker: Cloudlet 52 received
+46.1715: Broker: Cloudlet 28 received
+49.80075: Broker: Cloudlet 8 received
+50.094: Broker: Cloudlet 56 received
+52.65875: Broker: Cloudlet 32 received
+54.695: Broker: Cloudlet 65 received
+56.308: Broker: Cloudlet 80 received
+57.53025: Broker: Cloudlet 10 received
+58.52275: Broker: Cloudlet 7 received
+61.65475: Broker: Cloudlet 42 received
+61.977000000000004: Broker: Cloudlet 11 received
+63.221999999999994: Broker: Cloudlet 38 received
+63.67125: Broker: Cloudlet 78 received
+64.656: Broker: Cloudlet 92 received
+66.30425: Broker: Cloudlet 86 received
+66.408: Broker: Cloudlet 99 received
+66.52725: Broker: Cloudlet 17 received
+67.44475: Broker: Cloudlet 36 received
+70.6935: Broker: Cloudlet 90 received
+72.989: Broker: Cloudlet 40 received
+73.104: Broker: Cloudlet 64 received
+76.21775000000001: Broker: Cloudlet 70 received
+76.796: Broker: Cloudlet 53 received
+77.15575000000001: Broker: Cloudlet 5 received
+79.92725000000002: Broker: Cloudlet 83 received
+80.7135: Broker: Cloudlet 4 received
+82.57000000000002: Broker: Cloudlet 87 received
+86.17125000000001: Broker: Cloudlet 76 received
+87.23375000000001: Broker: Cloudlet 97 received
+87.34375000000001: Broker: Cloudlet 62 received
+88.7: Broker: Cloudlet 85 received
+89.7705: Broker: Cloudlet 37 received
+90.96700000000001: Broker: Cloudlet 72 received
+93.16275000000002: Broker: Cloudlet 33 received
+96.59250000000002: Broker: Cloudlet 98 received
+97.94050000000001: Broker: Cloudlet 20 received
+98.17700000000002: Broker: Cloudlet 27 received
+100.429: Broker: Cloudlet 18 received
+102.57875000000001: Broker: Cloudlet 1 received
+103.88800000000002: Broker: Cloudlet 61 received
+104.649: Broker: Cloudlet 49 received
+109.03900000000002: Broker: Cloudlet 96 received
+109.72250000000001: Broker: Cloudlet 71 received
+110.61125000000001: Broker: Cloudlet 19 received
+112.8595: Broker: Cloudlet 34 received
+113.38199999999999: Broker: Cloudlet 30 received
+114.38900000000001: Broker: Cloudlet 6 received
+114.65025000000001: Broker: Cloudlet 44 received
+116.171: Broker: Cloudlet 35 received
+116.171: Broker: All Cloudlets executed. Finishing...
+116.171: Broker: Destroying VM #0
+116.171: Broker: Destroying VM #1
+116.171: Broker: Destroying VM #2
+116.171: Broker: Destroying VM #3
+116.171: Broker: Destroying VM #4
+116.171: Broker: Destroying VM #5
+116.171: Broker: Destroying VM #6
+116.171: Broker: Destroying VM #7
+116.171: Broker: Destroying VM #8
+116.171: Broker: Destroying VM #9
+Broker is shutting down...
+Simulation: No more future events
+CloudInformationService: Notify all CloudSim entities for shutting down.
+Datacenter0 is shutting down...
+Datacenter1 is shutting down...
+Datacenter2 is shutting down...
+Broker is shutting down...
+Simulation completed.
+Simulation completed.
+
+========== OUTPUT ==========
+Cloudlet ID    STATUS    Data center ID    VM ID    Time    Start Time    Finish Time    BWCost    CPUCost
+    29        SUCCESS        4            5        0.3        0.3        2.86            20.3            2.3
+    39        SUCCESS        4            9        0.3        0.3        2.97            19.2            2.4
+    51        SUCCESS        4            6        0.3        0.3        3.64            19.4            3.01
+    93        SUCCESS        4            7        0.3        0.3        3.81            23.3            3.16
+    91        SUCCESS        4            8        0.3        0.3        4.11            32.5            3.43
+    13        SUCCESS        4            9        0.3        2.97        6.13            45            2.84
+    67        SUCCESS        4            5        0.3        2.86        6.31            43.5            3.1
+    68        SUCCESS        4            6        0.3        3.64        7            43            3.02
+    15        SUCCESS        3            2        0.3        0.3        7.15            37.6            3.42
+    79        SUCCESS        4            7        0.3        3.81        7.37            39.7            3.21
+    21        SUCCESS        4            8        0.3        4.11        7.93            27.2            3.43
+    22        SUCCESS        4            9        0.3        6.13        9.49            50.4            3.03
+    14        SUCCESS        4            7        0.3        7.37        11.01            26.6            3.27
+    55        SUCCESS        4            6        0.3        7        11.82            28.3            4.34
+    25        SUCCESS        4            5        0.3        6.31        11.95            22.1            5.08
+    84        SUCCESS        3            4        0.3        0.3        12.2            39.6            5.95
+    31        SUCCESS        4            9        0.3        9.49        12.87            26.2            3.04
+    69        SUCCESS        3            3        0.3        0.3        13.26            39.7            6.48
+    26        SUCCESS        4            8        0.3        7.93        13.96            18.4            5.43
+    77        SUCCESS        3            2        0.3        7.15        14.21            35.2            3.53
+    48        SUCCESS        4            6        0.3        11.82        16.96            6            4.63
+    63        SUCCESS        4            9        0.3        12.87        17.46            28.2            4.13
+    3        SUCCESS        4            5        0.3        11.95        17.66            10.1            5.14
+    47        SUCCESS        4            7        0.3        11.01        17.77            48.7            6.09
+    45        SUCCESS        4            8        0.3        13.96        20.89            27.9            6.23
+    89        SUCCESS        3            2        0.3        14.21        22.35            17.4            4.07
+    41        SUCCESS        4            6        0.3        16.96        22.43            22.4            4.92
+    82        SUCCESS        4            9        0.3        17.46        22.54            18.7            4.57
+    43        SUCCESS        4            5        0.3        17.66        23.53            50.4            5.28
+    9        SUCCESS        4            7        0.3        17.77        24.75            15.8            6.27
+    81        SUCCESS        3            4        0.3        12.2        25.61            41.5            6.71
+    58        SUCCESS        3            3        0.3        13.26        26.29            37.7            6.52
+    66        SUCCESS        4            9        0.3        22.54        27.72            7.8            4.67
+    12        SUCCESS        2            1        0.3        0.3        28.43            56.9            8.44
+    94        SUCCESS        4            8        0.3        20.89        28.64            32.8            6.98
+    2        SUCCESS        4            5        0.3        23.53        29.65            38.9            5.51
+    73        SUCCESS        4            6        0.3        22.43        29.8            28.3            6.64
+    50        SUCCESS        3            2        0.3        22.35        30.85            45.9            4.25
+    23        SUCCESS        4            7        0.3        24.75        32.52            19.2            7
+    46        SUCCESS        4            9        0.3        27.72        33.05            30.3            4.79
+    59        SUCCESS        2            0        0.3        0.3        34.09            13.4            10.14
+    57        SUCCESS        4            8        0.3        28.64        36.7            17            7.25
+    60        SUCCESS        4            5        0.3        29.65        36.81            40.7            6.44
+    0        SUCCESS        4            6        0.3        29.8        37.64            48.6            7.06
+    16        SUCCESS        4            9        0.3        33.05        38.57            32            4.98
+    95        SUCCESS        4            7        0.3        32.52        41.14            10.1            7.75
+    74        SUCCESS        3            3        0.3        26.29        43.95            39.4            8.83
+    88        SUCCESS        4            9        0.3        38.57        44.23            45.9            5.09
+    24        SUCCESS        4            5        0.3        36.81        44.67            23.3            7.08
+    54        SUCCESS        3            4        0.3        25.61        44.86            54.9            9.63
+    75        SUCCESS        3            2        0.3        30.85        45.78            17.6            7.47
+    52        SUCCESS        4            6        0.3        37.64        45.79            36.8            7.34
+    28        SUCCESS        4            8        0.3        36.7        46.17            39            8.53
+    8        SUCCESS        4            7        0.3        41.14        49.8            18.6            7.8
+    56        SUCCESS        4            9        0.3        44.23        50.09            19.2            5.27
+    32        SUCCESS        4            5        0.3        44.67        52.66            11.2            7.19
+    65        SUCCESS        4            6        0.3        45.79        54.7            20.8            8.01
+    80        SUCCESS        4            8        0.3        46.17        56.31            51.2            9.12
+    10        SUCCESS        4            9        0.3        50.09        57.53            38.9            6.69
+    7        SUCCESS        4            7        0.3        49.8        58.52            53.8            7.85
+    42        SUCCESS        4            5        0.3        52.66        61.65            30.6            8.1
+    11        SUCCESS        3            2        0.3        45.78        61.98            42.6            8.1
+    38        SUCCESS        2            1        0.3        28.43        63.22            36.9            10.44
+    78        SUCCESS        4            6        0.3        54.7        63.67            33.9            8.08
+    92        SUCCESS        3            4        0.3        44.86        64.66            29.1            9.9
+    86        SUCCESS        4            9        0.3        57.53        66.3            45            7.9
+    99        SUCCESS        3            3        0.3        43.95        66.41            23.7            11.23
+    17        SUCCESS        4            8        0.3        56.31        66.53            23.8            9.2
+    36        SUCCESS        4            7        0.3        58.52        67.44            13.3            8.03
+    90        SUCCESS        4            5        0.3        61.65        70.69            32.4            8.13
+    40        SUCCESS        4            6        0.3        63.67        72.99            31.4            8.39
+    64        SUCCESS        2            0        0.3        34.09        73.1            13.7            11.7
+    70        SUCCESS        4            9        0.3        66.3        76.22            27.8            8.92
+    53        SUCCESS        4            8        0.3        66.53        76.8            29.5            9.24
+    5        SUCCESS        4            7        0.3        67.44        77.16            32.4            8.74
+    83        SUCCESS        4            5        0.3        70.69        79.93            31.6            8.31
+    4        SUCCESS        3            2        0.3        61.98        80.71            24.2            9.37
+    87        SUCCESS        4            6        0.3        72.99        82.57            14.2            8.62
+    76        SUCCESS        4            9        0.3        76.22        86.17            47.2            8.96
+    97        SUCCESS        4            8        0.3        76.8        87.23            30            9.39
+    62        SUCCESS        4            7        0.3        77.16        87.34            25.2            9.17
+    85        SUCCESS        3            4        0.3        64.66        88.7            56.8            12.02
+    37        SUCCESS        3            3        0.3        66.41        89.77            45            11.68
+    72        SUCCESS        4            5        0.3        79.93        90.97            22.4            9.94
+    33        SUCCESS        4            6        0.3        82.57        93.16            14.6            9.53
+    98        SUCCESS        4            9        0.3        86.17        96.59            4.8            9.38
+    20        SUCCESS        4            7        0.3        87.34        97.94            15.8            9.54
+    27        SUCCESS        4            8        0.3        87.23        98.18            16.5            9.85
+    18        SUCCESS        2            1        0.3        63.22        100.43            12.2            11.16
+    1        SUCCESS        4            5        0.3        90.97        102.58            20.1            10.45
+    61        SUCCESS        4            6        0.3        93.16        103.89            18            9.65
+    49        SUCCESS        3            2        0.3        80.71        104.65            32.7            11.97
+    96        SUCCESS        4            9        0.3        96.59        109.04            42.6            11.2
+    71        SUCCESS        4            7        0.3        97.94        109.72            5.3            10.6
+    19        SUCCESS        4            8        0.3        98.18        110.61            34.7            11.19
+    34        SUCCESS        3            4        0.3        88.7        112.86            48.7            12.08
+    30        SUCCESS        3            3        0.3        89.77        113.38            20.6            11.81
+    6        SUCCESS        4            5        0.3        102.58        114.39            46.6            10.63
+    44        SUCCESS        4            6        0.3        103.89        114.65            28.7            9.69
+    35        SUCCESS        2            0        0.3        73.1        116.17            6.5            12.92
+makespan: 116.171
+LB: 4.6552282060066625
+cost: 731.0160500000002
+
+QWhale
