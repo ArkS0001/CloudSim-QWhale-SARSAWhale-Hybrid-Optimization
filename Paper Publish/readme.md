@@ -5,3 +5,5 @@
 
 ![6M8G](https://github.com/ArkS0001/CloudSim/assets/113760964/cdaef193-b0ea-49a6-a6ec-6c3e1142a602)
 
+![diagram png transparent bg](https://github.com/ArkS0001/CloudSim/assets/113760964/9651df17-be8e-4a4f-ae33-4ffcc37599d5)
+![Qwhale Flowchart Transparent](https://github.com/ArkS0001/CloudSim/assets/113760964/b2982678-4197-4c53-aec5-e1080cb096e0)
