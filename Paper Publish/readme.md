@@ -60,3 +60,44 @@ Summary:
     Run a hair dryer for about 16.67 seconds.
 
 This energy amount is small for heavy-duty appliances but can be significant for low-power devices or brief high-power operations.
+
+
+
+
+
+
+
+
+To determine which device will consume 25,000 watt-seconds (or 25 kilojoules) of energy, we need to understand the relationship between power (measured in watts), time (measured in seconds), and energy (measured in joules or watt-seconds).
+
+The energy consumption in watt-seconds can be calculated using the formula:
+
+\[ \text{Energy (Joules)} = \text{Power (Watts)} \times \text{Time (Seconds)} \]
+
+Given that we need to consume 25,000 watt-seconds, let's look at a few examples of devices and their power ratings to determine how long they would take to consume 25,000 watt-seconds of energy:
+
+1. **100-Watt Light Bulb**:
+   - Power: 100 watts
+   - Time required: \( \frac{25,000 \text{ watt-seconds}}{100 \text{ watts}} = 250 \text{ seconds} \)
+   - This light bulb would take 250 seconds (or approximately 4 minutes and 10 seconds) to consume 25,000 watt-seconds.
+
+2. **500-Watt Microwave**:
+   - Power: 500 watts
+   - Time required: \( \frac{25,000 \text{ watt-seconds}}{500 \text{ watts}} = 50 \text{ seconds} \)
+   - This microwave would take 50 seconds to consume 25,000 watt-seconds.
+
+3. **1500-Watt Electric Heater**:
+   - Power: 1500 watts
+   - Time required: \( \frac{25,000 \text{ watt-seconds}}{1500 \text{ watts}} \approx 16.67 \text{ seconds} \)
+   - This heater would take approximately 16.67 seconds to consume 25,000 watt-seconds.
+
+4. **2500-Watt Electric Oven**:
+   - Power: 2500 watts
+   - Time required: \( \frac{25,000 \text{ watt-seconds}}{2500 \text{ watts}} = 10 \text{ seconds} \)
+   - This oven would take 10 seconds to consume 25,000 watt-seconds.
+
+In summary, devices with different power ratings will take different amounts of time to consume 25,000 watt-seconds of energy. Here are a few specific examples:
+- A 100-watt light bulb would take 250 seconds.
+- A 500-watt microwave would take 50 seconds.
+- A 1500-watt electric heater would take about 16.67 seconds.
+- A 2500-watt electric oven would take 10 seconds.
