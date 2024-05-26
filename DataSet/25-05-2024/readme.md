@@ -11,3 +11,9 @@
 ![WhatsApp Image 2024-05-25 at 3 46 36 PM](https://github.com/ArkS0001/CloudSim/assets/113760964/d0313110-a721-4c8d-8b14-0b2927b8b7cf)
 ![WhatsApp Image 2024-05-25 at 3 46 48 PM](https://github.com/ArkS0001/CloudSim/assets/113760964/fb076f3d-730f-41f4-8aa6-cf8928e45e32)
 ![WhatsApp Image 2024-05-25 at 3 46 59 PM](https://github.com/ArkS0001/CloudSim/assets/113760964/bfc1f893-de65-41d1-a416-b0a11c97720e)
+
+## Utilization
+![WhatsApp Image 2024-05-25 at 8 36 36 PM](https://github.com/ArkS0001/CloudSim/assets/113760964/b565dc46-4fed-4aa0-9caf-1f7a09a4d66a)
+![WhatsApp Image 2024-05-25 at 8 36 36 PM(1)](https://github.com/ArkS0001/CloudSim/assets/113760964/67b77e6c-c65d-4f38-b672-207238053733)
+![WhatsApp Image 2024-05-25 at 8 36 36 PM(2)](https://github.com/ArkS0001/CloudSim/assets/113760964/3f310bf4-21d1-4545-9760-69d42464a0d7)
+![WhatsApp Image 2024-05-25 at 8 36 36 PM(3)](https://github.com/ArkS0001/CloudSim/assets/113760964/532d3a0d-d9d7-47a6-85f8-f95c1a7b27de)
