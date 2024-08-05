@@ -9,6 +9,7 @@ https://link.springer.com/article/10.1007/s00500-021-06488-5
 
 https://link.springer.com/article/10.1007/s11227-022-04539-8
 
+https://www.sciencedirect.com/science/article/abs/pii/S0096300312007813
 
 # Abstract 1
 The increasing complexity and energy demands of modern cloud computing environments necessitate advanced optimization techniques to enhance performance and efficiency. Hybrid optimization algorithms have emerged as a powerful solution, leveraging the strengths of multiple approaches to solve complex problems more effectively. This paper presents a comprehensive comparative analysis of prominent hybrid algorithms, such as Genetic Particle Swarm Optimization (Genetic PSO) and Genetic Whale Optimization (Genetic Whale), alongside the introduction of two novel algorithms: QWhale and SARSA Whale. Our proposed algorithms integrate reinforcement learning techniques with the Whale Optimization Algorithm to optimize task scheduling and energy management in cloud computing environments. Through extensive simulation and empirical evaluation, our study demonstrates the superior performance of these hybrid algorithms in reducing energy consumption and improving resource allocation, thereby addressing critical challenges in cloud data centers. The findings highlight the potential of hybrid approaches in advancing energy-efficient and resilient cloud infrastructures.
