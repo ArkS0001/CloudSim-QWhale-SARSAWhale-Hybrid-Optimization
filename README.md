@@ -1,3 +1,14 @@
+The Qwhale and SARSAwhale algorithms are energy-efficient, energy-aware solutions designed for high-load cloud environments. These algorithms aim to optimize power consumption while maintaining system performance under fluctuating workloads.
+
+    Qwhale focuses on minimizing energy consumption by dynamically adjusting resource usage based on the system’s current load and power requirements. It uses heuristic-based optimization to balance energy savings with the need for computing resources, ensuring that the cloud infrastructure operates efficiently while avoiding unnecessary energy expenditure.
+
+    SARSAwhale integrates reinforcement learning, specifically the SARSA algorithm, to make real-time energy-aware decisions in response to changing cloud demands. It adapts to varying workload conditions by continuously learning from past experiences to predict optimal resource allocation, ensuring energy is used efficiently without sacrificing performance.
+
+Both algorithms are tailored for environments where energy consumption is a critical concern, such as data centers or cloud platforms under heavy computational loads, where energy savings can significantly impact operational costs.
+
+
+
+
 ## To simulate the workloads
 
     org.cloudbus.cloudsim -> “Cloudlet.java”
